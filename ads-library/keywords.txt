@@ -1,0 +1,43 @@
+# Una palabra o frase por linea. Lineas con # se ignoran.
+# Mezclar idiomas: la API busca en el body del anuncio, asi que
+# conviene incluir terminos en ingles, espanol y portugues.
+
+# Limpieza general
+limpiador magico
+limpiador multiuso
+miracle cleaner
+magic cleaner
+all purpose cleaner
+
+# Quitamanchas
+quitamanchas
+stain remover
+tira manchas
+
+# Cocina / grasa
+desengrasante
+oven cleaner
+degreaser
+quita grasa
+
+# Bano / sarro / oxido
+quita sarro
+removedor de oxido
+rust remover
+limescale remover
+
+# Canerias
+destapacanerias
+drain cleaner
+desentupidor
+
+# Auto
+limpia llantas
+limpia tapizado
+tire shine
+upholstery cleaner
+
+# Moho
+mold remover
+quita moho
+anti hongos
