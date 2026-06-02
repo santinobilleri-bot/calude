@@ -1,8 +1,18 @@
-# InnerFresh — Sistema de Marca
+# InnerFresh / livi — Sistema de Marca
 
-> Producto: **InnerFresh – Gomitas funcionales contra el mal olor corporal (30 unidades)**
+> Producto: **Gomitas funcionales · desodorante interno + bienestar (30 u)**
 > Referencia: truehome.mitiendanube.com · Mercado: Argentina
 > Documento generado siguiendo el método Buyer Persona → Marca → Packaging.
+
+---
+
+## ⭐ DECISIONES DE MARCA (actualizado)
+
+- **Nombre de marca elegido:** **livi** (de *liviana / libre*). Tagline: *"liviana desde adentro"*. Logo: wordmark minúscula en espresso brown, con el acento de la "í" convertido en **hoja de menta** salvia. (Descartado negro+dorado; descartado "Lumé" por conflicto con la marca "Lume" de USA.)
+- **Estética:** beauty-wellness aspiracional → base **crema cálido** (#F6F1E7) + **verde salvia/menta** (#7BA687) + texto **espresso** (#3A332C). Premium, lindo, **sin vergüenza**.
+- **Headline de pack:** *FRESCURA DESDE ADENTRO* · descriptor *"gomitas funcionales · bienestar y frescura integral"*. Beneficios en positivo (frescura corporal, aliento fresco, piel radiante, digestión ligera). **Nunca** "mal olor" en el pack.
+- **🚹🚺 PÚBLICO OBJETIVO: UNISEX — se vende para HOMBRES Y MUJERES.** Toda la comunicación, creativos y casting deben incluir a ambos. Camila (abajo) es la persona ancla femenina; **Mateo** es la contraparte masculina (ver al final). Mantener la estética unisex (ni rosa femenino ni clínico frío).
+- **Claim de campaña/ads:** *"Elimina el olor en 10 días"* (se usa en banners/ads, no en el frente del pack para no exponer el problema).
 
 ---
 
@@ -126,4 +136,36 @@ Es enero, 33 grados. Camila se pone una musculosa blanca **sin pensar en las axi
   4. "¿Es seguro tomarlo todos los días? ¿Tiene efectos raros?"
   5. "Si funciona, ¿es para siempre o el olor vuelve apenas lo dejo?"
 
-> **¿Profundizamos alguna sección o continuamos con las inseguridades clave (Paso 2)?**
+---
+
+## PASO 1B — Buyer Persona Masculino (contraparte unisex)
+
+> El producto se vende a **hombres y mujeres**. Esta es la persona ancla masculina para casting de creativos/ads y copy dirigido a hombres.
+
+### PERFIL
+- **Nombre:** **Mateo Ríos** · **32 años** (rango 26–40)
+- **Quién es:** vive en CABA, trabaja en ventas/oficina, entrena 4 veces por semana. Activo, social, cuida su imagen pero no quiere parecer obsesivo. Toma mate en la oficina, sale, usa transporte público.
+
+### EL PROBLEMA CENTRAL
+- Transpira y le vuelve el olor a las pocas horas, **aunque se bañe y use desодorante**. Lo nota sobre todo después del gym, en reuniones largas y en el calor.
+- **En público:** "Transpiro un montón, es genético / entreno mucho."
+- **En privado:** "Me baño y a las dos horas ya me huelo. Me da inseguridad acercarme a la gente, en una reunión, en una cita, con mi pareja."
+
+### EMOCIONES Y MIEDOS
+- Inseguridad al acercarse (saludos, abrazos, citas), miedo a que su pareja lo note en la intimidad, vergüenza de "ser el transpirado" del grupo o la oficina. Le baja la confianza justo cuando quiere proyectar seguridad.
+
+### LO QUE YA FALLÓ
+- Antitranspirantes clínicos (irritan, vuelve el olor), cambiar de desodorante, doble ducha, ropa técnica. *"Probé todos los desodorantes del chino y nada me dura el día."*
+
+### QUÉ LE VENDE livi
+- El ángulo masculino es **rendimiento + confianza**: "frescura todo el día sin pensarlo", "entrenás, transpirás y seguís fresco". El multibeneficio (digestión, piel, energía) lo hace sentir que es un **suplemento de bienestar**, no "algo para el olor" → compra sin vergüenza.
+- **Hooks para él:** *"Entreno, transpiro… y sigo fresco."* · *"Me bañaba y a las 2 horas ya olía. Esto lo cambió."* · *"Cambié el desodorante por una gomita."*
+
+### OBJECIONES (él)
+1. "¿Una gomita en serio reemplaza al desodorante?"
+2. "¿No es medio raro / femenino tomar gomitas?" → resolver con tono y casting masculino.
+3. "¿Funciona de verdad o es marketing?"
+
+---
+
+> **Sistema documentado: contexto + marca (livi) + persona femenina (Camila) + persona masculina (Mateo) + packaging.** Próximos pasos disponibles: Paso 2 (inseguridades), Paso 3 (posicionamiento), web y creativos.
