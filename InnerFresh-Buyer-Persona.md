@@ -10,12 +10,14 @@
 
 | Campo | Detalle |
 |---|---|
-| **Producto** | InnerFresh – Gomitas funcionales contra el mal olor corporal (30 u / tratamiento ~1 mes) |
-| **Ingredientes / componentes clave** *(confirmado)* | **Clorofilina** (desodorante interno: neutraliza el olor corporal desde adentro + purifica/digestión) · **Menta orgánica** (previene el mal aliento) · **Biotina + Vitamina C** (mejora piel, pelo y uñas) · **Jengibre** (purificante, favorece la digestión). Base de gomita masticable. |
-| **Beneficios que promete (4 ejes)** | 1) Neutraliza el olor corporal desde adentro (no lo tapa) · 2) Previene el mal aliento · 3) Mejora piel, pelo y uñas · 4) Favorece la digestión |
-| **Sitio de referencia** | truehome.mitiendanube.com (estética wellness funcional, Tienda Nube) |
-| **Precio aproximado** | ~ARS $18.000 – $28.000 el frasco de 30 u (rango categoría suplementos funcionales AR, junio 2026) |
-| **Formato** | Gomitas funcionales en frasco / pote (oral, masticable) |
+| **Producto** | truehome **InnerFresh** – Gomitas funcionales (sabor menta natural). Presentaciones: 30 u (1 mes) y 60 u. Dosis: 1 gomita diaria. |
+| **Ingredientes / fórmula (7 activos, confirmado del packaging)** | **Clorofilina 200 mg** (se une a las moléculas de olor en el tracto digestivo *antes* de que pasen al torrente sanguíneo) · **Perejil orgánico 200 mg** (neutraliza compuestos sulfurados antes de salir por el sudor y la respiración) · **Jengibre orgánico 100 mg** (inhibe bacterias anaeróbicas productoras de compuestos sulfurados; reduce gases y toxinas) · **Menta orgánica 50 mg** (boca y tracto digestivo superior → aliento fresco) · **Zinc 10 mg** (regula glándulas sudoríparas + refuerza barrera cutánea e inmunidad) · **Biotina 100 mcg** (queratina: pelo, piel, uñas) · **Vitamina C 80 mg** (antioxidante sistémico, colágeno, antiinflamatorio). 100% natural. |
+| **Beneficios que promete (6 ejes)** | 1) **Olor corporal** (clorofilina·perejil·zinc) · 2) **Aliento fresco** (menta·perejil) · 3) **Frescura íntima** (clorofilina·perejil·jengibre) · 4) **Piel, pelo y uñas** (biotina·vit C·zinc) · 5) **Digestión** (jengibre·clorofilina) · 6) **Antiinflamatorio** (jengibre·vit C) |
+| **Claims / promesa** | "Neutraliza el olor desde adentro, no lo tapa" · **"Elimina el olor en 10 días"** · "La fórmula completa que el desodorante nunca te va a dar" · "6 beneficios / 7 ingredientes, una sola gomita" |
+| **Marca / sitio** | truehome (logo casita + smiley) · truehome.mitiendanube.com (Tienda Nube). Identidad actual: azul marino + cyan, look científico-confiable ("Mecanismo científico", silueta del cuerpo tipo radiografía) cruzado con natural/verde. |
+| **Precio aproximado** | ~ARS $18.000 – $28.000 (rango categoría AR, junio 2026) · *confirmar* |
+| **Formato / packaging** | **Bolsa stand-up (doypack) azul con zip**, gomitas en forma de osito verde, sabor menta. |
+| **Ofertas / garantías** | Envío gratis · 3 cuotas sin interés · Garantía 30 días |
 | **País / mercado** | Argentina |
 | **Canal principal** | E-commerce propio (Tienda Nube) + Instagram / TikTok orgánico |
 
@@ -23,9 +25,13 @@
 
 - **Propuesta de valor principal:** "frescura que viene de adentro" — atacar la *causa* del mal olor corporal, no taparlo con perfume o antitranspirante. Promesa a quien ya probó todo por fuera y sigue inseguro.
 - **Tono de voz típico:** limpio, científico-amable, íntimo, sin tabú. Adjetivos: *fresco, confiable, discreto, natural, moderno, cuidado.*
-- **Posicionamiento:** mayormente **funcional con gancho emocional fuerte** (la seguridad y la libertad de no pensar en el olor). El beneficio racional (clorofilina/jengibre) es el "permiso" lógico; lo que vende es la tranquilidad.
+- **Posicionamiento:** mayormente **funcional con gancho emocional fuerte** (la seguridad y la libertad de no pensar en el olor). El beneficio racional (clorofilina/perejil/jengibre) es el "permiso" lógico; lo que vende es la tranquilidad.
+- **El enemigo ya está nombrado por la marca:** *"La fórmula completa que el desodorante nunca te va a dar"* → el villano es **el desodorante / antitranspirante** (la solución *por fuera* que tapa en vez de resolver). Esto es oro para el Paso 3.
+- **Mecanismo único ya explicitado:** la clorofilina y el perejil **capturan las moléculas de olor en el tracto digestivo antes de que entren al torrente sanguíneo**, así no salen por el sudor ni la respiración. Es la base del "porqué funciona desde adentro".
 
-> **🔑 Insight estratégico clave (con los ingredientes reales):** InnerFresh **no es solo un anti-olor — es una gomita de bienestar y belleza** (piel/pelo/uñas + digestión + aliento) que *además* desodoriza desde adentro. Esto es enorme para Camila: le da una **excusa socialmente cómoda para comprar** sin tener que admitir "tengo olor". Puede dejar el frasco a la vista, contarle a una amiga que "es una gomita de belleza con clorofila", y resolver su miedo secreto **sin exponerlo**. El multibeneficio **derriba la objeción de vergüenza** y amplía el público (no solo el dolor del olor, también la buscadora de wellness). En el copy de marca: liderar con el beneficio que la persona quiere *decir en voz alta* (belleza/frescura integral) y dejar el anti-olor como el "secreto que sí cumple".
+> **🔑 Insight estratégico #1 (multibeneficio = excusa para comprar):** InnerFresh **no es solo un anti-olor — es una gomita de bienestar y belleza** (piel/pelo/uñas + digestión + antiinflamatorio + aliento) que *además* desodoriza desde adentro. Esto le da a Camila una **excusa socialmente cómoda para comprar** sin admitir "tengo olor": deja la bolsa a la vista, dice que "es una gomita de belleza con clorofila", y resuelve su miedo secreto **sin exponerlo**. El multibeneficio **derriba la objeción de vergüenza** y amplía el público. En el copy: liderar con lo que quiere *decir en voz alta* (frescura/belleza integral) y dejar el anti-olor como el "secreto que sí cumple".
+>
+> **🔑 Insight estratégico #2 ("frescura íntima"):** este beneficio destapa la capa de miedo **más profunda y tabú** de la persona — el olor íntimo/genital, no solo axilar. Es 3am-fear puro: lo que más teme en la intimidad con su pareja. Tratar con muchísimo tacto y discreción; es el dolor de mayor conversión pero también el más sensible (ver Paso 1 → miedos y relaciones).
 - **A quién le habla:** adultos jóvenes 25–45, conscientes de salud y de imagen, urbanos, con vida social/laboral activa y clima cálido. Psicografía: autoexigentes, pulcros, algo ansiosos por la percepción ajena.
 - **Palabras/frases que se repiten en la categoría:** *frescura desde adentro · neutraliza el olor · natural · clorofila · confianza · todo el día · sin químicos agresivos · transpiración · piel y cuerpo · sentite seguro/a.*
 
@@ -47,7 +53,7 @@
 - **El trigger (por qué AHORA):** un comentario, una mirada, o el verano de Buenos Aires encima. Algo concreto: alguien abrió la ventanilla del auto, una compañera se corrió de lugar, o se sacó el saco en una reunión y sintió la humedad. Eso reactiva una herida vieja y la empuja a buscar una solución *distinta* a las que ya falló.
 - **Cómo lo describe en público vs. en privado:**
   - *Público:* "Transpiro un montón, debe ser hormonal / el calor / el estrés del laburo."
-  - *Privado:* "Tengo olor. No importa cuánto me bañe ni qué desodorante use, vuelve. Me da pánico que la gente lo note y no me lo diga. ¿Y si soy yo la del olor en la oficina y nadie me avisa?"
+  - *Privado:* "Tengo olor. No importa cuánto me bañe ni qué desodorante use, vuelve. Me da pánico que la gente lo note y no me lo diga. ¿Y si soy yo la del olor en la oficina y nadie me avisa?" Y la capa más callada: el miedo al **olor íntimo** — en la intimidad con su pareja, al final del día, en los días de calor — algo que no se atreve a nombrar ni en su cabeza del todo.
 
 ### LAS 5 EMOCIONES MÁS PODEROSAS
 
@@ -60,7 +66,7 @@
 ### LOS 5 MIEDOS MÁS PROFUNDOS *(uso interno, nunca se le muestra)*
 
 1. Que el día que se separó del grupo en la reunión, **no fue casualidad: fue por ella.**
-2. Que su pareja **sienta su olor en la intimidad y se haya acostumbrado a disimular** la cara — y que un día deje de disimular.
+2. Que su pareja **sienta su olor íntimo en la cama y se haya acostumbrado a disimular** la cara — y que un día deje de disimular. Que evite acercarse "ahí" y ella ya sepa por qué.
 3. Que sea **"la del olor" en la oficina**, el chiste interno del que todos saben menos ella.
 4. Que **sus hijos algún día se avergüencen de abrazarla** delante de sus amigos.
 5. Que esto sea **algo roto en ella, permanente, que la haga de fondo menos querible** — que el olor sea la prueba de que hay algo sucio que no se lava.
