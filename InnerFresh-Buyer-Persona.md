@@ -11,7 +11,8 @@
 | Campo | Detalle |
 |---|---|
 | **Producto** | InnerFresh – Gomitas funcionales contra el mal olor corporal (30 u / tratamiento ~1 mes) |
-| **Ingredientes / componentes clave** | Clorofila (desodorante interno que neutraliza compuestos del olor), extracto de champiñón tipo *Champex* (reduce olor corporal y de aliento), zinc (regula la transpiración y el olor axilar), base de gomita masticable. *Verificar etiqueta real del frasco.* |
+| **Ingredientes / componentes clave** *(confirmado)* | **Clorofilina** (desodorante interno: neutraliza el olor corporal desde adentro + purifica/digestión) · **Menta orgánica** (previene el mal aliento) · **Biotina + Vitamina C** (mejora piel, pelo y uñas) · **Jengibre** (purificante, favorece la digestión). Base de gomita masticable. |
+| **Beneficios que promete (4 ejes)** | 1) Neutraliza el olor corporal desde adentro (no lo tapa) · 2) Previene el mal aliento · 3) Mejora piel, pelo y uñas · 4) Favorece la digestión |
 | **Sitio de referencia** | truehome.mitiendanube.com (estética wellness funcional, Tienda Nube) |
 | **Precio aproximado** | ~ARS $18.000 – $28.000 el frasco de 30 u (rango categoría suplementos funcionales AR, junio 2026) |
 | **Formato** | Gomitas funcionales en frasco / pote (oral, masticable) |
@@ -22,7 +23,9 @@
 
 - **Propuesta de valor principal:** "frescura que viene de adentro" — atacar la *causa* del mal olor corporal, no taparlo con perfume o antitranspirante. Promesa a quien ya probó todo por fuera y sigue inseguro.
 - **Tono de voz típico:** limpio, científico-amable, íntimo, sin tabú. Adjetivos: *fresco, confiable, discreto, natural, moderno, cuidado.*
-- **Posicionamiento:** mayormente **funcional con gancho emocional fuerte** (la seguridad y la libertad de no pensar en el olor). El beneficio racional (clorofila/zinc) es el "permiso" lógico; lo que vende es la tranquilidad.
+- **Posicionamiento:** mayormente **funcional con gancho emocional fuerte** (la seguridad y la libertad de no pensar en el olor). El beneficio racional (clorofilina/jengibre) es el "permiso" lógico; lo que vende es la tranquilidad.
+
+> **🔑 Insight estratégico clave (con los ingredientes reales):** InnerFresh **no es solo un anti-olor — es una gomita de bienestar y belleza** (piel/pelo/uñas + digestión + aliento) que *además* desodoriza desde adentro. Esto es enorme para Camila: le da una **excusa socialmente cómoda para comprar** sin tener que admitir "tengo olor". Puede dejar el frasco a la vista, contarle a una amiga que "es una gomita de belleza con clorofila", y resolver su miedo secreto **sin exponerlo**. El multibeneficio **derriba la objeción de vergüenza** y amplía el público (no solo el dolor del olor, también la buscadora de wellness). En el copy de marca: liderar con el beneficio que la persona quiere *decir en voz alta* (belleza/frescura integral) y dejar el anti-olor como el "secreto que sí cumple".
 - **A quién le habla:** adultos jóvenes 25–45, conscientes de salud y de imagen, urbanos, con vida social/laboral activa y clima cálido. Psicografía: autoexigentes, pulcros, algo ansiosos por la percepción ajena.
 - **Palabras/frases que se repiten en la categoría:** *frescura desde adentro · neutraliza el olor · natural · clorofila · confianza · todo el día · sin químicos agresivos · transpiración · piel y cuerpo · sentite seguro/a.*
 
