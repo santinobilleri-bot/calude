@@ -16,6 +16,42 @@
 
 ---
 
+## 🧪 FÓRMULA DEFINITIVA (livi — gomitas funcionales)
+
+> **Toma diaria: 1 gomita · Sabor: menta natural · Peso aprox.: ~3,5 g (activos ~1,2 g)**
+
+| Activo (por gomita) | Cantidad |
+|---|---|
+| Clorofilina (cobre-sodio) | 100 mg |
+| Extracto de champiñón blanco | 100 mg |
+| Inulina / FOS (fibra prebiótica) | 750 mg |
+| Probióticos (*Bacillus coagulans*) | 1.000 millones UFC (1×10⁹) |
+| Extracto de jengibre | 50 mg |
+| Aceite esencial de menta (mentol) | 10 mg |
+| Zinc (gluconato) | 10 mg |
+| Vitamina C | 80 mg |
+| Vitamina E | 12 mg |
+| Biotina | 300 mcg |
+
+Base: pectina/jarabe + color + sabor menta natural.
+
+**Efecto por tiempo:**
+- **Día 1:** aliento fresco + frescura + digestión liviana (menta, jengibre).
+- **7–10 días:** frescura corporal que dura (clorofila, champiñón, zinc, probióticos).
+- **4–6 semanas:** uñas, piel y cabello (biotina, vit C, vit E, zinc).
+
+**A confirmar con director técnico (ANMAT):** %VD según IDR Mercosur (zinc, vit C, vit E, biotina tienen máximos); aprobación de champiñón y cepa probiótica (estable en gomita); claims de etiqueta con "contribuye a / ayuda a".
+
+**Mapa beneficio → ingredientes (para piezas/infografías):**
+- Olor corporal → Clorofilina · Champiñón · Zinc
+- Aliento fresco → Menta · Clorofilina
+- Frescura íntima → Probióticos · Clorofilina
+- Piel, pelo y uñas → Biotina · Vit C · Vit E · Zinc
+- Digestión → Jengibre · Inulina · Probióticos
+- Antiinflamatorio → Jengibre · Vit C
+
+---
+
 ## PASO 0 — Contexto de Producto
 
 | Campo | Detalle |
