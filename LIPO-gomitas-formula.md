@@ -2,14 +2,16 @@
 
 Mismo objetivo que el producto (energía/metabolismo · menos estrés/cansancio ·
 control del apetito · vitalidad), en formato **gomita**.
-**1 gomita por día · paquete de 60 gomitas = 2 meses.**
+**1 gomita por día (fijo) · paquete de 60 gomitas = 2 meses.**
+**Sabor: FRUTOS ROJOS** (optimizado para el gusto de Caro).
 
-> ⚠️ Verdad de formato: una gomita carga mucho menos activo que la cucharada de
-> polvo. Con 1/día las dosis son **más suaves**. Para potencia completa → 2/día
-> (ver nota al final). Vegana (pectina). Apta para registro ANMAT como suplemento.
+> ⚠️ Verdad de formato: una gomita carga menos activo que la cucharada de polvo,
+> así que con 1/día las dosis quedan **suaves por diseño** (gentil y sostenible).
+> Vegana (pectina). Apta para registro ANMAT como suplemento.
 
-> Sabor: las gomitas van **frutales**, no chocolate. Recomendado: **manzana verde**
-> (combina con el vinagre de manzana) o **naranja-jengibre**.
+> Por qué frutos rojos: es el sabor más querido/femenino del mercado argentino y
+> el que **mejor enmascara el amargor** de la mate, el té verde, el magnesio y la
+> acidez del vinagre. Un fruto rojo oscuro + acidez justa tapa todo eso.
 
 ---
 
@@ -47,12 +49,14 @@ control del apetito · vitalidad), en formato **gomita**.
 |---|---|---|
 | Jarabe de glucosa + azúcar de caña *(o versión sin azúcar: isomalt + stevia)* | Estructura + dulzor | ~2,3 g |
 | Pectina | Gelificante vegano (NO gelatina) | ~120 mg |
-| Ácido cítrico / málico | Acidez (realza la fruta + sinergia con el ACV) | ~80 mg |
+| Saborizante natural **FRUTOS ROJOS** (frutilla + arándano + mora) | Sabor estrella | ~60 mg |
+| Ácido málico + cítrico | Acidez frutal (tapa amargor + sinergia con el ACV) | ~90 mg |
+| Color natural (zanahoria negra / hibisco) | Rojo-violáceo apetecible | trazas |
+| Nota de vainilla natural | Redondea y suaviza el amargor de fondo | trazas |
 | Citrato de sodio | Regulador / textura | ~30 mg |
-| Saborizante natural (manzana verde o naranja-jengibre) | Sabor | ~40 mg |
-| Color natural (ej. de zanahoria/espirulina según sabor) | Color | trazas |
 | Glicósidos de esteviol (stevia) | Endulzar (si es versión sin/bajo azúcar) | ~10 mg |
-| Aceite vegetal + cera de carnauba (recubrimiento) | Antiadherente / brillo | trazas |
+| Recubrimiento azúcar-ácido (sanding) **opcional** | El toque "gomita premium" que da ganas | ~tope |
+| Aceite vegetal + cera de carnauba | Antiadherente / brillo | trazas |
 | **TOTAL POR GOMITA** | | **≈ 4 g** |
 
 ---
@@ -112,9 +116,33 @@ control del apetito · vitalidad), en formato **gomita**.
 
 ---
 
-## 6. Opción "potencia completa" (2 gomitas/día)
+## 6. Diseño de sabor para Caro (el gusto es prioridad)
 
-Si querés igualar mejor las dosis del polvo, la vía es **2 gomitas/día** y el
-paquete pasa a **60 gomitas = 1 mes** (o hacer paquete de 120 para 2 meses). Eso
-permite duplicar yerba mate, té verde, magnesio e inulina sin sobrecargar una
-sola gomita. Decidir según costo y posicionamiento.
+Objetivo: que Caro la espere como un mimo, no como un remedio. Frutos rojos con
+acidez justa = indulgente pero "saludable".
+
+**El reto:** la gomita tiene sabores que pelean → mate y té verde (amargo),
+magnesio (metálico), vinagre (ácido), jengibre (picante). Cómo se gana:
+
+1. **Fruto rojo oscuro:** frutilla + arándano + mora. Los rojos oscuros tapan el
+   amargor mucho mejor que sabores claros (manzana, cítricos).
+2. **Acidez frutal (málico + cítrico):** convierte la acidez del vinagre en "pop"
+   de gomita ácida, que en Argentina encanta — el defecto se vuelve virtud.
+3. **Nota de vainilla + pizca de dulzor:** redondea y baja el filo amargo de fondo.
+4. **Recubrimiento azúcar-ácido (sour sanding) opcional:** el primer mordisco es
+   ácido-dulce y desvía la atención del amargor herbal.
+5. **Materias primas "deflavored"/recubiertas:** pedir al laboratorio extracto de
+   té verde y yerba mate **desaromatizados** y **magnesio recubierto** (taste-
+   masked). Es el truco profesional que más mejora el gusto sin perder activos.
+
+> Resultado buscado: en boca primero un golpe de fruto rojo ácido-dulce, final
+> limpio, sin retrogusto amargo ni metálico.
+
+---
+
+## 7. Nota sobre la dosis (1 gomita/día, fijo)
+
+A 1 gomita las dosis son suaves por diseño — es el límite real de lo que entra en
+una sola gomita rica. La fórmula prioriza **gusto + cumplimiento diario** (que
+Caro la tome TODOS los días) por sobre dosis altas. Si en el futuro se quisiera
+más potencia, sería con gomita más grande o 2/día, pero eso resigna sabor/tamaño.
