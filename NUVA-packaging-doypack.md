@@ -84,3 +84,37 @@ brand text reads exactly "nuva".
 
 > Tip: generá varias veces (el texto a veces sale mal); para imprenta, el diseño
 > final hacelo en vector con un diseñador usando este layout como guía.
+
+---
+
+## PROMPT FINAL (v2) — combina logo de mockup 1 + layout de mockup 2, en rosa, fondo para Caro
+
+Decisiones del cliente tras ver los 2 mockups de ChatGPT:
+- **Tema rosa** en todo (pouch blush-pink / rosé).
+- **Logo** del mockup 1 (refinado, baya+hoja en la "a").
+- **Layout** del mockup 2 (íconos en cajitas redondas, divisor con chispa, barra
+  inferior con sabor + sin azúcar + vegano, ilustración de frutos rojos jugosa).
+- **Fondo adaptado a Caro:** cocina argentina cálida de mañana, mate, frutos rojos,
+  tonos rosa/crema, hogareño y aspiracional → que lo vea y se enamore.
+
+```
+Create a realistic, beautiful product mockup of a stand-up pouch (doypack) for a women's wellness gummy brand called "nuva".
+
+PRODUCT: red-berry functional gummies, sugar-free, vegan, 60 gummies, 1 a day.
+
+POUCH COLOR: soft blush-pink / warm rosé kraft pouch with a resealable zipper at the top, premium matte finish. Overall pink theme.
+
+LOGO (top, centered): the word "nuva" in lowercase, bold rounded friendly sans-serif, in deep raspberry pink (#C8466B), with a small delicate berry-and-leaf accent on the tail of the final letter "a". Clean and refined.
+
+LAYOUT (top to bottom, like a premium supplement pouch):
+- Headline in elegant bold serif, two lines: "ENERGÍA" / "DESDE ADENTRO", in raspberry pink, with a tiny sparkle/star divider underneath.
+- Subtitle in thin grey: "Gomitas funcionales · energía, metabolismo y bienestar".
+- A row of 4 benefit icons, each inside a soft rounded outline box, thin line-art in pink, with small labels below: "Energía natural", "Metabolismo saludable", "Bienestar integral", "Para mujeres como vos" (last icon a small female symbol).
+- A lush, detailed watercolor illustration of fresh red berries (strawberry, raspberry, blueberry) with green leaves and a yerba mate sprig labeled "con yerba mate", and a few realistic red gummy bears in front.
+- Footer line: "60 gomitas · 1 gomita diaria".
+- A rounded pink label bar at the bottom reading "SABOR FRUTOS ROJOS", next to two small seals: "Sin azúcar" and "Vegano".
+
+BACKGROUND / SCENE (emotionally appealing to a 37-year-old Argentine woman): a cozy, warm Argentine home kitchen in soft morning light, the pouch standing on a wooden table next to a traditional mate gourd and a few fresh strawberries and raspberries, a soft blurred background with warm pink and cream tones, a little greenery, dreamy and inviting, feminine and aspirational but real and homey.
+
+STYLE: professional product photography, soft natural warm light, shallow depth of field, front view of the pouch, 4K, photorealistic. Make sure the brand text reads exactly "nuva".
+```
