@@ -46,7 +46,7 @@ Gomita **sin azúcar**, sabor **frutos rojos**, **vegana**, apta ANMAT.
 > azúcar, sabor frutos rojos y vegano** (gelificado con pectina, no gelatina), y
 > quería pedirles cotización.
 >
-> **Presentación:** paquete/frasco de **60 gomitas** (1 gomita por día, rinde
+> **Presentación:** paquete/bolsa (doypack) de **60 gomitas** (1 gomita por día, rinde
 > 2 meses). Cada gomita ~4 g.
 >
 > **Fórmula por gomita (activos):**
@@ -66,8 +66,7 @@ Gomita **sin azúcar**, sabor **frutos rojos**, **vegana**, apta ANMAT.
 >
 > **Necesitaría que me coticen / informen:**
 > 1. **Costo por gomita y por paquete de 60**, en 3 volúmenes: 500, 1.000 y 5.000 paquetes.
-> 2. **¿Hacen el servicio completo (maquila)?**: elaboración, envasado (frasco o
->    doypack), etiquetado y entrega.
+> 2. **¿Hacen el servicio completo (maquila)?**: elaboración, envasado (doypack), etiquetado y entrega.
 > 3. **Cantidad mínima de producción (MOQ)**.
 > 4. **Ficha técnica (especificación) y certificado de análisis (COA)** de cada
 >    materia prima; en especial **contenido de cafeína** de yerba mate y té verde,

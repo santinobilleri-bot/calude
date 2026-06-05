@@ -10,7 +10,7 @@ nuevo". Mercado argentino, mujeres.
 - **Acento:** un **brote/hojita** o una pequeña **baya** integrada en la última "a"
   (o como punto/detalle), guiño a "nuevo comienzo" + natural. Mínimo, no recargado.
 - **Color:** frambuesa `#C8466B` sobre crema `#F6EFE7`; versión **dorada** `#D8B26A`
-  para el frasco; versión en negativo (crema sobre berry).
+  para la bolsa; versión en negativo (crema sobre berry).
 - **Extra:** un **monograma circular "n"** para avatar de redes / app icon.
 - **Regla:** que funcione en 1 solo color y legible a 16 px.
 
@@ -36,7 +36,7 @@ berry accent. Flat vector style, minimal, clean, high resolution, social media
 profile icon, no extra text.
 ```
 
-## PROMPT 3 — Variante dorada sobre crema (para el frasco) · para ChatGPT
+## PROMPT 3 — Variante dorada sobre crema (para la bolsa) · para ChatGPT
 ```
 Design an elegant wordmark logo "nuva" (lowercase, exact spelling) in a soft rounded
 geometric sans-serif, in warm gold foil (#D8B26A) on a cream (#F6EFE7) background,
@@ -52,6 +52,6 @@ vector, centered, high resolution, logo only, no mockup.
 2. Pedí **3-4 variaciones** y quedate con la base; el ajuste fino hacelo en Canva o
    con un diseñador (vectorizar para imprenta).
 3. Probá tanto **minúscula** ("nuva") como **mayúscula** ("NUVA") y compará.
-4. Para el frasco vas a necesitar el logo en **vector (SVG/PDF)** — pasale la imagen
+4. Para la bolsa vas a necesitar el logo en **vector (SVG/PDF)** — pasale la imagen
    elegida a un diseñador para vectorizarla.
 5. Mantené la **misma familia tipográfica** del logo en todo el packaging (Poppins).

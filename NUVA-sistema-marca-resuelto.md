@@ -1,7 +1,7 @@
 # NUVA — Sistema de marca completo (resuelto) · Gomitas · Argentina
 
 Output completo de los Pasos 0 a 7 para **NUVA**, gomitas de frutos rojos sin
-azúcar (1/día, frasco de 60 = 2 meses), mercado argentino, mujeres.
+azúcar (1/día, bolsa de 60 = 2 meses), mercado argentino, mujeres.
 Claims aptos ANMAT: energía, metabolismo, menos cansancio, control del apetito.
 Nada de "quema grasa / adelgaza".
 
@@ -14,7 +14,7 @@ Nada de "quema grasa / adelgaza".
   magnesio citrato (~25 mg elemental) 150 mg, yerba mate 100 mg, té verde 100 mg,
   jengibre 50 mg, vitamina C 40 mg, vitaminas B (B3/B5/B6/B12) 20 mg, cromo ~40 µg.
   Base: pectina (vegana), isomalt, ácido málico/cítrico, stevia, sabor y color natural.
-- **Formato:** frasco de **60 gomitas** (1 por día, rinde 2 meses). Sin azúcar, ~6-8 kcal c/u.
+- **Formato:** bolsa de **60 gomitas** (1 por día, rinde 2 meses). Sin azúcar, ~6-8 kcal c/u.
 - **Mercado:** Argentina, mujeres 32-45.
 - **Beneficios:** energía, metabolismo, menos estrés/cansancio, control del apetito.
 - **Referencia:** lipoglpargentina.com — promesa "recuperá tu figura y energía",
@@ -192,14 +192,14 @@ hambre y sin dejar tu mate ni tu asado del domingo — en una sola gomita por d�
   > Nuva pide una tipografía más redonda/optimista que una serif seria (es gomita,
   > no cápsula): debe sentirse fresca y simpática.
 - **Estilo de fotografía:** mujeres reales argentinas, luz natural, frutos rojos
-  frescos, el frasco en la mano o en la cartera. Mostrar: alegría cotidiana, color,
+  frescos, la bolsa en la mano o en la cartera. Mostrar: alegría cotidiana, color,
   frescura. Evitar: antes/después, cuerpos hiperfit, clima de farmacia.
 - **3 palabras al ver el diseño:** "fresco, alegre, confiable".
-- **3 referencias de mood:** (1) frasco de gomitas color berry con frutos rojos
+- **3 referencias de mood:** (1) bolsa de gomitas color berry con frutos rojos
   alrededor sobre fondo crema; (2) mujer 35+ riéndose, tomando una gomita, luz de
-  mañana; (3) flatlay alegre: frasco + frutillas + una agenda + lino.
+  mañana; (3) flatlay alegre: bolsa + frutillas + una agenda + lino.
 
-## GUÍA DE PACKAGING — Frasco de 60 gomitas
+## GUÍA DE PACKAGING — Bolsa de 60 gomitas
 - **Jerarquía visual:** 1.° **NUVA** (grande); 2.° **beneficio** ("Energía ·
   Metabolismo · Menos ansiedad"); 3.° **descriptor** ("Gomitas frutos rojos · sin
   azúcar · 60 unidades").
@@ -210,7 +210,7 @@ hambre y sin dejar tu mate ni tu asado del domingo — en una sola gomita por d�
   embarazo/lactancia/menores; no superar la dosis; no reemplaza una alimentación
   variada); RNPA/RNE; lote y vencimiento.
 - **Acabado recomendado:** **etiqueta soft touch mate** + logo en **foil dorado**;
-  frasco preferentemente con vidrio/PET ámbar o blanco mate para proteger las gomitas.
+  doypack con barrera de luz y humedad para proteger las gomitas.
 - **Diferenciador visual:** el color **berry** vibrante + frutos rojos ilustrados +
   el logo redondo dorado: salta en el feed y en la góndola.
 - **Emoción al tenerlo en la mano:** "esto es un gustito que me hace bien, no un
@@ -296,14 +296,14 @@ corto, se lee perfecto en miniatura, y es recordable de una sola exposición.
   combustible, no que lo castigues. Por eso creamos una gomita por día —rica, sin
   azúcar y vegana— que tomás sin cambiar tu rutina, sin dejar el mate ni el asado.
   Simple, y por eso sí lo sostenés."
-- **CTA:** Botón: **"Quiero las mías"** · Apoyo: "Frasco para 2 meses · Envíos a
+- **CTA:** Botón: **"Quiero las mías"** · Apoyo: "Bolsa para 2 meses · Envíos a
   todo el país."
 
 ## PARTE 3 — BIO (3 versiones, ≤150 caracteres)
 1. "Una gomita por día para más energía y menos ansiedad 🍓 Sin azúcar · vegana ·
    para la mujer real argentina. Envíos a todo el país 👇"
 2. "Empezá de nuevo 🌱 Gomitas de frutos rojos con mate y vitaminas. Energía sin
-   dietas · Frasco x2 meses 👇"
+   dietas · Bolsa x2 meses 👇"
 3. "Cuidarte sin culpa y sin dietas 💛 Energía, menos ansias y más calma, en una
    gomita por día. Pedí la tuya 👇"
 
