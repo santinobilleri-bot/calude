@@ -6,42 +6,28 @@
     </linearGradient>
   </defs>
 
-  <!-- label background -->
-  <rect x="0" y="0" width="1400" height="1000" rx="34" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1400" height="1000" rx="30" fill="url(#bg)"/>
 
-  <!-- LEFT: huge vertical wordmark (Lipo-style), spanning full height -->
-  <text x="232" y="500" transform="rotate(-90 232 500)" text-anchor="middle"
-        font-family="Georgia, 'Times New Roman', serif" font-size="280" font-weight="700"
-        fill="#F5EFE6" letter-spacing="6">domi</text>
+  <!-- domi: vertical wordmark (sin cambios) -->
+  <text x="185" y="500" transform="rotate(-90 185 500)" text-anchor="middle"
+        font-family="Georgia,serif" font-size="230" font-weight="700" fill="#F5EFE6" letter-spacing="5">domi</text>
 
-  <!-- thin cream divider between wordmark and content -->
-  <rect x="452" y="120" width="3" height="760" fill="#F5EFE6" opacity="0.6"/>
+  <!-- product name -->
+  <text x="440" y="222" font-family="'Helvetica Neue',Arial,sans-serif" font-size="86" font-weight="700" fill="#33214A">ACTIVADOR</text>
+  <text x="440" y="308" font-family="'Helvetica Neue',Arial,sans-serif" font-size="86" font-weight="700" fill="#33214A">DEL SUEÑO</text>
+  <text x="444" y="366" font-family="Georgia,serif" font-size="40" font-style="italic" fill="#5A416F">Cápsulas blandas</text>
 
-  <!-- RIGHT: content starts at TOP -->
-  <g>
-    <!-- product name (top) -->
-    <text x="520" y="210" font-family="'Helvetica Neue', Arial, sans-serif" font-size="94"
-          font-weight="700" fill="#33214A" letter-spacing="1">ACTIVADOR</text>
-    <text x="520" y="302" font-family="'Helvetica Neue', Arial, sans-serif" font-size="94"
-          font-weight="700" fill="#33214A" letter-spacing="1">DEL SUEÑO</text>
-    <text x="524" y="362" font-family="Georgia, serif" font-size="42" font-style="italic"
-          fill="#5A416F">Cápsulas blandas</text>
+  <!-- divider (color del texto) -->
+  <rect x="440" y="404" width="820" height="2" fill="#33214A" opacity="0.4"/>
 
-    <!-- divider -->
-    <rect x="524" y="398" width="800" height="3" fill="#33214A" opacity="0.4"/>
-
-    <!-- benefits (Lipo-style: clean bold lines, no bullets) -->
-    <g font-family="'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="600" fill="#352447">
-      <text x="524" y="500">Te dormís en 20 minutos</text>
-      <text x="524" y="588">Formulado para mujeres</text>
-      <text x="524" y="676">Baja la ansiedad nocturna</text>
-      <text x="524" y="764">9 activos · sin resaca</text>
-    </g>
-
-    <!-- bottom: count centered with short rules -->
-    <rect x="524" y="852" width="40" height="2" fill="#33214A" opacity="0.45"/>
-    <rect x="1284" y="852" width="40" height="2" fill="#33214A" opacity="0.45"/>
-    <text x="924" y="864" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif"
-          font-size="32" font-weight="600" fill="#33214A" letter-spacing="1">60 Cápsulas · Suplemento dietario</text>
+  <!-- beneficios con viñetas plum -->
+  <g font-family="'Helvetica Neue',Arial,sans-serif" font-size="44" font-weight="600" fill="#352447">
+    <circle cx="458" cy="498" r="8" fill="#33214A"/><text x="498" y="512">Te dormís en 20 minutos</text>
+    <circle cx="458" cy="584" r="8" fill="#33214A"/><text x="498" y="598">Formulado para mujeres</text>
+    <circle cx="458" cy="670" r="8" fill="#33214A"/><text x="498" y="684">Baja la ansiedad nocturna</text>
+    <circle cx="458" cy="756" r="8" fill="#33214A"/><text x="498" y="770">9 activos · sin resaca</text>
   </g>
+
+  <!-- cantidad -->
+  <text x="440" y="902" font-family="'Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="600" fill="#33214A" letter-spacing="1">60 Cápsulas · Suplemento dietario</text>
 </svg>
