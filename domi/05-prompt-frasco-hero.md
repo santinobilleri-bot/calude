@@ -8,7 +8,50 @@
 
 ---
 
+## ✅ FRASCO OFICIAL (v3): ÁMBAR + etiqueta limpia tipo blanco, sin luna
+
+> Decisión final: frasco **ámbar** (esencia natural/nocturna/premium) con el **estilo de etiqueta del frasco blanco** (wrap más limpio y grande, tipografía nítida tipo Lipo, nombre "ACTIVADOR DEL SUEÑO"). Sin luna.
+
+### Prompt completo
+
+```
+Premium dietary supplement bottle, intimate warm nighttime lifestyle photography.
+
+BOTTLE: an opaque amber glass supplement bottle, cylindrical with rounded shoulders and a smooth dark matte cap, 60-capsule size.
+
+LABEL: a clean, large, modern matte WRAP label in soft lavender (#B7A6C9) covering most of the bottle, crisp confident typography like a high-end wellness brand.
+- Bold oversized lowercase "domi" running VERTICALLY down the left side, in creamy off-white.
+- A single thin gold horizontal line under the wordmark (NO moon, no icons).
+- Top right in deep plum: "ACTIVADOR DEL SUEÑO" with "Cápsulas" below.
+- 4 neatly aligned benefit lines in deep plum: "Te dormís en 20 minutos" / "Formulado para Mujeres" / "Baja la ansiedad nocturna" / "9 activos · sin resaca".
+- Bottom right small: "60 Cápsulas · Suplemento Dietario".
+
+SCENE: the bottle on a warm bedside nightstand at night, soft out-of-focus candle and lamp light, a small vase of dried flowers, a closed book, two amber softgel capsules beside it. Cream marble surface, NO crystals, NO velvet curtain.
+
+LIGHTING: warm, intimate, calming nocturnal mood.
+
+COMPOSITION: eye-level hero shot, sharp focus, shallow depth of field, square 1:1. professional editorial product photography, 4K, photorealistic.
+```
+
+### Instrucción de EDICIÓN (sobre la imagen ámbar ya generada)
+
+```
+Edit this photo of the amber "domi" bottle. Keep the amber glass bottle and the dark matte cap exactly the same. Redesign ONLY the label so it looks cleaner and more modern, like a premium wellness wrap label:
+1. REMOVE the gold crescent-moon icon completely. Replace it with a single thin gold horizontal line under the wordmark.
+2. Make the lavender (#B7A6C9) wrap label larger and crisper, covering more of the bottle, with clean confident typography (modern sans-serif), like a high-end supplement brand.
+3. Keep the bold lowercase "domi" running VERTICALLY down the left side in creamy off-white.
+4. Top right, in deep plum, change the product name to "ACTIVADOR DEL SUEÑO" with "Cápsulas" below it.
+5. Keep the 4 benefit lines in deep plum, neatly aligned: "Te dormís en 20 minutos" / "Formulado para Mujeres" / "Baja la ansiedad nocturna" / "9 activos · sin resaca".
+6. Bottom right, small: "60 Cápsulas · Suplemento Dietario".
+Keep the warm nighttime mood. Professional editorial product photography, photorealistic, 4K, square 1:1.
+```
+
+**Esencia conservada:** ámbar + lavanda + "domi" vertical + texto plum + clima nocturno cálido. **Tomado del frasco blanco:** etiqueta más limpia/grande, tipografía nítida, nombre "ACTIVADOR DEL SUEÑO".
+
+---
+
 ## OPCIÓN A — FRASCO ÁMBAR (recomendada · v2: sin luna, escenario de Lucía)
+
 
 > Cambios v2 tras feedback: sacar la lunita (poco profesional) → línea dorada fina. Fondo adaptado a Lucía: su mesa de luz a la noche (lámpara cálida, libro, anteojos, vaso de agua), en vez de cortina + cristales (muy "spa esotérico").
 
