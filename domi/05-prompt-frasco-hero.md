@@ -1,48 +1,67 @@
 # Prompt Hero — Frasco DOMI FAST (para ChatGPT 4o)
 
-> Render del frasco. Versión: 60 cápsulas · 1 por noche (60 noches). Estilo "tipo Lipo": cilíndrico premium, glossy, audaz.
-> Color principal: índigo/violeta noche con glow lila + foil dorado champagne (llama la atención de Lucía).
+> Estilo de referencia elegido por el cliente: **LIPO Metabolism Activator** — frasco opaco, etiqueta wrap pastel, wordmark vertical grande, foto lifestyle con cortina moody, bokeh dorado, mármol, cristal y pétalos.
+> Adaptado a DOMI (sueño / noche / mujer): paleta lila-lavanda + plum + dorado champagne (en vez del rosa "quema grasa" de Lipo).
+> Dos versiones: **ámbar (recomendada)** y **blanca (clon del look Lipo)**.
 >
-> ⚠️ Nota de consistencia: la fórmula original indicaba 2 softgels por toma (30 días). Si se mantiene, cambiar el rótulo a "60 cápsulas · 2 por noche · 30 noches".
+> ⚠️ Posología: rótulo dice "60 cápsulas". Si la dosis final son 2 por noche, el frasco rinde 30 noches; si es 1 por noche, 60 noches. Ajustar el texto del rótulo según la posología definitiva.
 
-## PROMPT PRINCIPAL (copiar y pegar)
+---
+
+## OPCIÓN A — FRASCO ÁMBAR (recomendada)
 
 ```
-Premium dietary supplement bottle, hero product shot.
+Premium dietary supplement bottle, feminine lifestyle product photography, same styling and mood as a high-end wellness brand shot.
 
-BOTTLE: a modern cylindrical opaque bottle with rounded shoulders and a
-matte-to-glossy finish, similar in shape and premium feel to high-end
-performance supplement bottles (Lipo-6 style), about 12 cm tall, 60-capsule
-size. The bottle color is a deep midnight indigo-to-violet vertical gradient
-(#1B2A4A to #4B2E73), high-gloss, with a soft luminous lilac glow/halo around
-it to make it pop.
+BOTTLE: an opaque amber glass supplement bottle, cylindrical with rounded shoulders and a smooth matte cap, 60-capsule size, similar proportions to a Lipo-style supplement bottle.
 
-LABEL: minimalist, wrapped around the bottle, in a darker matte band.
-- Lowercase serif wordmark "domi" in champagne gold foil (#C9A86A), large and centered.
-- Below it, a clean sans-serif sub-line: "FAST — softgel nocturno".
-- A short claim in light lilac: "Para la mente que no se apaga".
-- Bottom of label: "60 cápsulas · 1 por noche" and small text "Suplemento dietario · Producto registrado".
-- A small champagne-gold crescent-moon icon as the brand mark.
-- A tiny "RNPA" / ANMAT-style registration line in fine print at the base.
+LABEL: a clean matte wrap label covering most of the bottle, in soft lavender (#B7A6C9).
+- A bold, oversized lowercase wordmark "domi" running VERTICALLY down the left side of the label, in creamy off-white.
+- Top right, in deep plum: "SUEÑO PROFUNDO" with "Cápsulas" below in a light serif.
+- A thin divider line, then 4 short benefit lines in deep plum:
+  "Te dormís en 20 minutos"
+  "Formulado para Mujeres"
+  "Baja la ansiedad nocturna"
+  "9 activos · sin resaca"
+- Bottom right small text: "60 Cápsulas · Suplemento Dietario".
+- A tiny champagne-gold crescent-moon icon next to the wordmark.
 
-LIGHTING & SCENE: clean studio setting, dramatic soft side lighting, the violet
-glow reflecting subtly on a dark glossy surface below, a faint moon-like
-gradient backdrop going from deep navy at the top to soft lilac at the bottom.
-A few capsules (soft amber liquid-filled softgels) resting elegantly beside the
-bottle.
+SCENE: the bottle centered on a polished cream marble surface. Background is a softly blurred deep plum / dusty mauve velvet curtain with warm golden bokeh dots floating. Two amber liquid softgel capsules and a small piece of amethyst crystal rest beside the bottle, with a few dried lavender petals scattered.
 
-COMPOSITION: centered, slight 3/4 hero angle, eye-level, shallow depth of field,
-bottle in sharp focus, lots of negative space at the top for ad text.
+LIGHTING: soft cinematic side light, gentle reflections on the marble, warm and calming, dreamy nocturnal mood.
 
-STYLE: luxury wellness branding, editorial, modern, feminine but bold,
-scroll-stopping. professional product photography, 4K, highly detailed, photorealistic.
+COMPOSITION: eye-level hero shot, bottle in sharp focus, shallow depth of field, square 1:1, space around the bottle. professional product photography, 4K, highly detailed, photorealistic.
 ```
 
-## Tips si falla
-- Texto deformado: generar `"blank dark label, no text"` y rotular el logo/datos en Canva/Figma encima.
-- Más pop en feed: agregar `"vibrant violet rim light, glowing edges"`.
-- Versión IG: agregar `"1:1 square composition"`.
+---
 
-## Variantes de color (cambiar solo la línea BOTTLE)
-- **Lila luminoso:** `soft lavender-to-magenta gradient (#B7A6C9 to #8E5EA8), glossy, with a champagne gold cap` — el más femenino/calmo.
-- **Negro noche (máximo "Lipo"):** `deep matte black bottle (#0E0E12) with champagne gold foil typography and a single violet glow accent` — el más premium y de mayor contraste en feed.
+## OPCIÓN B — FRASCO BLANCO (clon del look Lipo)
+
+```
+Premium dietary supplement bottle, feminine lifestyle product photography, in the exact style of a clean modern wellness brand shot.
+
+BOTTLE: a glossy opaque WHITE HDPE supplement bottle, cylindrical with rounded shoulders and a smooth white cap, 60-capsule size (Lipo-style proportions).
+
+LABEL: a clean matte wrap label on the lower two-thirds of the bottle in soft lilac-lavender (#B7A6C9).
+- A bold, oversized lowercase wordmark "domi" running VERTICALLY down the left side, in clean white.
+- Top right, in deep plum: "ACTIVADOR DEL SUEÑO" with "Cápsulas" below.
+- A thin line, then 4 benefit lines in deep plum:
+  "Te dormís en 20 minutos"
+  "Formulado para Mujeres"
+  "Baja la ansiedad nocturna"
+  "9 activos · sin resaca"
+- Bottom right: "60 Cápsulas · Suplemento Dietario".
+
+SCENE: bottle centered on cream marble, blurred deep mauve velvet curtain background with warm golden bokeh, two golden softgel capsules and a rose-quartz / amethyst crystal beside it, a few dried petals.
+
+LIGHTING: soft cinematic light, calming nocturnal mood, gentle marble reflections.
+
+COMPOSITION: eye-level hero shot, sharp focus, shallow depth of field, square 1:1. professional product photography, 4K, highly detailed, photorealistic.
+```
+
+---
+
+## Tips
+- ChatGPT deforma el texto chico: generá el frasco con la etiqueta limpia o solo con el logo "domi" vertical, y montá los bullets / "60 cápsulas" a mano en Canva/Figma.
+- Más pop: agregar `"warm golden bokeh, soft rim light on the bottle edge"`.
+- Variante e-commerce limpia: cambiar SCENE por fondo `"seamless soft lavender gradient background, studio lighting, subtle shadow"`.
