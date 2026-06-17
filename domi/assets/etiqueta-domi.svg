@@ -9,48 +9,39 @@
   <!-- label background -->
   <rect x="0" y="0" width="1400" height="1000" rx="34" fill="url(#bg)"/>
 
-  <!-- LEFT COLUMN: vertical wordmark -->
-  <g>
-    <text x="250" y="500" transform="rotate(-90 250 500)" text-anchor="middle"
-          font-family="Georgia, 'Times New Roman', serif" font-size="220" fill="#F5EFE6"
-          font-style="italic" letter-spacing="2">domi</text>
-    <!-- cream divider line under wordmark (vertical) -->
-    <rect x="430" y="210" width="3" height="580" fill="#F5EFE6" opacity="0.65"/>
-  </g>
+  <!-- LEFT: huge vertical wordmark (Lipo-style), spanning full height -->
+  <text x="232" y="500" transform="rotate(-90 232 500)" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="280" font-weight="700"
+        fill="#F5EFE6" letter-spacing="6">domi</text>
 
-  <!-- RIGHT COLUMN -->
+  <!-- thin cream divider between wordmark and content -->
+  <rect x="452" y="120" width="3" height="760" fill="#F5EFE6" opacity="0.6"/>
+
+  <!-- RIGHT: content starts at TOP -->
   <g>
-    <!-- product name -->
-    <text x="500" y="250" font-family="'Helvetica Neue', Arial, sans-serif" font-size="86"
+    <!-- product name (top) -->
+    <text x="520" y="210" font-family="'Helvetica Neue', Arial, sans-serif" font-size="94"
           font-weight="700" fill="#33214A" letter-spacing="1">ACTIVADOR</text>
-    <text x="500" y="338" font-family="'Helvetica Neue', Arial, sans-serif" font-size="86"
+    <text x="520" y="302" font-family="'Helvetica Neue', Arial, sans-serif" font-size="94"
           font-weight="700" fill="#33214A" letter-spacing="1">DEL SUEÑO</text>
-    <text x="504" y="398" font-family="Georgia, serif" font-size="40" font-style="italic"
+    <text x="524" y="362" font-family="Georgia, serif" font-size="42" font-style="italic"
           fill="#5A416F">Cápsulas blandas</text>
 
-    <!-- plum rule -->
-    <rect x="504" y="430" width="820" height="3" fill="#33214A" opacity="0.45"/>
+    <!-- divider -->
+    <rect x="524" y="398" width="800" height="3" fill="#33214A" opacity="0.4"/>
 
-    <!-- benefit list, evenly spaced and aligned -->
-    <g font-family="'Helvetica Neue', Arial, sans-serif" font-size="42" fill="#3A2A50">
-      <circle cx="520" cy="512" r="7" fill="#33214A"/>
-      <text x="556" y="525">Te dormís en 20 minutos</text>
-
-      <circle cx="520" cy="592" r="7" fill="#33214A"/>
-      <text x="556" y="605">Formulado para mujeres</text>
-
-      <circle cx="520" cy="672" r="7" fill="#33214A"/>
-      <text x="556" y="685">Baja la ansiedad nocturna</text>
-
-      <circle cx="520" cy="752" r="7" fill="#33214A"/>
-      <text x="556" y="765">9 activos · sin resaca</text>
+    <!-- benefits (Lipo-style: clean bold lines, no bullets) -->
+    <g font-family="'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="600" fill="#352447">
+      <text x="524" y="500">Te dormís en 20 minutos</text>
+      <text x="524" y="588">Formulado para mujeres</text>
+      <text x="524" y="676">Baja la ansiedad nocturna</text>
+      <text x="524" y="764">9 activos · sin resaca</text>
     </g>
 
-    <!-- bottom rule + line -->
-    <rect x="504" y="838" width="820" height="2" fill="#33214A" opacity="0.35"/>
-    <text x="504" y="900" font-family="'Helvetica Neue', Arial, sans-serif" font-size="34"
-          font-weight="600" fill="#33214A" letter-spacing="1">60 CÁPSULAS</text>
-    <text x="1324" y="900" text-anchor="end" font-family="'Helvetica Neue', Arial, sans-serif"
-          font-size="30" fill="#5A416F" letter-spacing="1">Suplemento dietario</text>
+    <!-- bottom: count centered with short rules -->
+    <rect x="524" y="852" width="40" height="2" fill="#33214A" opacity="0.45"/>
+    <rect x="1284" y="852" width="40" height="2" fill="#33214A" opacity="0.45"/>
+    <text x="924" y="864" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif"
+          font-size="32" font-weight="600" fill="#33214A" letter-spacing="1">60 Cápsulas · Suplemento dietario</text>
   </g>
 </svg>
