@@ -8,15 +8,14 @@
 
   <!-- label background -->
   <rect x="0" y="0" width="1400" height="1000" rx="34" fill="url(#bg)"/>
-  <rect x="14" y="14" width="1372" height="972" rx="26" fill="none" stroke="#C9A86A" stroke-width="2" opacity="0.55"/>
 
   <!-- LEFT COLUMN: vertical wordmark -->
   <g>
     <text x="250" y="500" transform="rotate(-90 250 500)" text-anchor="middle"
           font-family="Georgia, 'Times New Roman', serif" font-size="220" fill="#F5EFE6"
           font-style="italic" letter-spacing="2">domi</text>
-    <!-- gold divider line under wordmark (vertical) -->
-    <rect x="430" y="210" width="3" height="580" fill="#C9A86A" opacity="0.8"/>
+    <!-- cream divider line under wordmark (vertical) -->
+    <rect x="430" y="210" width="3" height="580" fill="#F5EFE6" opacity="0.65"/>
   </g>
 
   <!-- RIGHT COLUMN -->
@@ -29,21 +28,21 @@
     <text x="504" y="398" font-family="Georgia, serif" font-size="40" font-style="italic"
           fill="#5A416F">Cápsulas blandas</text>
 
-    <!-- gold rule -->
-    <rect x="504" y="430" width="820" height="3" fill="#C9A86A"/>
+    <!-- plum rule -->
+    <rect x="504" y="430" width="820" height="3" fill="#33214A" opacity="0.45"/>
 
     <!-- benefit list, evenly spaced and aligned -->
     <g font-family="'Helvetica Neue', Arial, sans-serif" font-size="42" fill="#3A2A50">
-      <circle cx="520" cy="512" r="7" fill="#C9A86A"/>
+      <circle cx="520" cy="512" r="7" fill="#33214A"/>
       <text x="556" y="525">Te dormís en 20 minutos</text>
 
-      <circle cx="520" cy="592" r="7" fill="#C9A86A"/>
+      <circle cx="520" cy="592" r="7" fill="#33214A"/>
       <text x="556" y="605">Formulado para mujeres</text>
 
-      <circle cx="520" cy="672" r="7" fill="#C9A86A"/>
+      <circle cx="520" cy="672" r="7" fill="#33214A"/>
       <text x="556" y="685">Baja la ansiedad nocturna</text>
 
-      <circle cx="520" cy="752" r="7" fill="#C9A86A"/>
+      <circle cx="520" cy="752" r="7" fill="#33214A"/>
       <text x="556" y="765">9 activos · sin resaca</text>
     </g>
 
