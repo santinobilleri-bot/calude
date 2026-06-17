@@ -8,27 +8,29 @@
 
   <rect x="0" y="0" width="1400" height="1000" rx="30" fill="url(#bg)"/>
 
-  <!-- domi: vertical wordmark (sin cambios) -->
-  <text x="185" y="500" transform="rotate(-90 185 500)" text-anchor="middle"
-        font-family="Georgia,serif" font-size="230" font-weight="700" fill="#F5EFE6" letter-spacing="5">domi</text>
+  <!-- domi: GRANDE, ocupa todo el alto (estilo Lipo), sin lineas -->
+  <text x="172" y="500" transform="rotate(-90 172 500)" text-anchor="middle"
+        font-family="Georgia,serif" font-size="312" font-weight="700" fill="#F5EFE6" letter-spacing="6">domi</text>
 
-  <!-- product name -->
-  <text x="452" y="222" font-family="'Helvetica Neue',Arial,sans-serif" font-size="86" font-weight="700" fill="#33214A">ACTIVADOR</text>
-  <text x="452" y="308" font-family="'Helvetica Neue',Arial,sans-serif" font-size="86" font-weight="700" fill="#33214A">DEL SUEÑO</text>
-  <text x="456" y="366" font-family="Georgia,serif" font-size="40" font-style="italic" fill="#5A416F">Cápsulas blandas</text>
+  <!-- product name (grande) -->
+  <text x="430" y="206" font-family="'Helvetica Neue',Arial,sans-serif" font-size="92" font-weight="700" fill="#33214A">ACTIVADOR</text>
+  <text x="430" y="298" font-family="'Helvetica Neue',Arial,sans-serif" font-size="92" font-weight="700" fill="#33214A">DEL SUEÑO</text>
+  <text x="434" y="356" font-family="Georgia,serif" font-size="40" font-style="italic" fill="#5A416F">Cápsulas blandas</text>
 
-  <!-- linea bajo el nombre -->
-  <rect x="452" y="404" width="808" height="2" fill="#33214A" opacity="0.4"/>
+  <!-- LINEA 1 (bajo el nombre) -->
+  <rect x="430" y="392" width="852" height="2" fill="#33214A" opacity="0.4"/>
 
-  <!-- texto corrido (sin viñetas) -->
-  <g font-family="'Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="500" fill="#352447">
-    <text x="452" y="492">Te dormís en 20 minutos y descansás</text>
-    <text x="452" y="552">toda la noche. Formulado para mujeres,</text>
-    <text x="452" y="612">con 9 activos que bajan la ansiedad</text>
-    <text x="452" y="672">nocturna. Despertás descansada,</text>
-    <text x="452" y="732">sin resaca.</text>
+  <!-- beneficios GRANDES, sin viñetas, sin tiempo -->
+  <g font-family="'Helvetica Neue',Arial,sans-serif" font-size="47" font-weight="600" fill="#33214A">
+    <text x="430" y="480">Favorece el sueño profundo</text>
+    <text x="430" y="562">Formulado para mujeres</text>
+    <text x="430" y="644">Reduce la ansiedad nocturna</text>
+    <text x="430" y="726">9 activos · sin resaca</text>
   </g>
 
+  <!-- LINEA 2 (arriba de la cantidad) -->
+  <rect x="430" y="784" width="852" height="2" fill="#33214A" opacity="0.4"/>
+
   <!-- cantidad -->
-  <text x="452" y="868" font-family="'Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="600" fill="#33214A" letter-spacing="1">60 Cápsulas · Suplemento dietario</text>
+  <text x="430" y="852" font-family="'Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="600" fill="#33214A" letter-spacing="1">60 Cápsulas · Suplemento dietario</text>
 </svg>
