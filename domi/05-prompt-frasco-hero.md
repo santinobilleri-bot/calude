@@ -8,29 +8,37 @@
 
 ---
 
-## OPCIÓN A — FRASCO ÁMBAR (recomendada)
+## OPCIÓN A — FRASCO ÁMBAR (recomendada · v2: sin luna, escenario de Lucía)
+
+> Cambios v2 tras feedback: sacar la lunita (poco profesional) → línea dorada fina. Fondo adaptado a Lucía: su mesa de luz a la noche (lámpara cálida, libro, anteojos, vaso de agua), en vez de cortina + cristales (muy "spa esotérico").
 
 ```
-Premium dietary supplement bottle, feminine lifestyle product photography, same styling and mood as a high-end wellness brand shot.
+Premium dietary supplement bottle, intimate nighttime lifestyle photography.
 
-BOTTLE: an opaque amber glass supplement bottle, cylindrical with rounded shoulders and a smooth matte cap, 60-capsule size, similar proportions to a Lipo-style supplement bottle.
+BOTTLE: an opaque amber glass supplement bottle, cylindrical with rounded shoulders and a smooth dark matte cap, 60-capsule size.
 
-LABEL: a clean matte wrap label covering most of the bottle, in soft lavender (#B7A6C9).
-- A bold, oversized lowercase wordmark "domi" running VERTICALLY down the left side of the label, in creamy off-white.
-- Top right, in deep plum: "SUEÑO PROFUNDO" with "Cápsulas" below in a light serif.
-- A thin divider line, then 4 short benefit lines in deep plum:
-  "Te dormís en 20 minutos"
-  "Formulado para Mujeres"
-  "Baja la ansiedad nocturna"
-  "9 activos · sin resaca"
-- Bottom right small text: "60 Cápsulas · Suplemento Dietario".
-- A tiny champagne-gold crescent-moon icon next to the wordmark.
+LABEL: a clean matte wrap label in soft lavender (#B7A6C9).
+- A bold oversized lowercase wordmark "domi" running VERTICALLY down the left side, in creamy off-white.
+- A thin elegant gold horizontal line under the wordmark (NO moon, no icons).
+- Top right in deep plum: "SUEÑO PROFUNDO" with "Cápsulas" below.
+- 4 short benefit lines in deep plum: "Te dormís en 20 minutos" / "Formulado para Mujeres" / "Baja la ansiedad nocturna" / "9 activos · sin resaca".
+- Bottom right small: "60 Cápsulas · Suplemento Dietario".
 
-SCENE: the bottle centered on a polished cream marble surface. Background is a softly blurred deep plum / dusty mauve velvet curtain with warm golden bokeh dots floating. Two amber liquid softgel capsules and a small piece of amethyst crystal rest beside the bottle, with a few dried lavender petals scattered.
+SCENE: the bottle sits on a real wooden bedside nightstand at night, in a cozy modern bedroom. A warm bedside lamp glows softly out of focus behind it. Props: a closed book with a pair of reading glasses resting on top, a small glass of water, a few dried lavender sprigs, two amber softgel capsules beside the bottle. Softly blurred neutral linen bedding in the background.
 
-LIGHTING: soft cinematic side light, gentle reflections on the marble, warm and calming, dreamy nocturnal mood.
+LIGHTING: warm, low, intimate lamp light, calming nocturnal mood, gentle reflections.
 
-COMPOSITION: eye-level hero shot, bottle in sharp focus, shallow depth of field, square 1:1, space around the bottle. professional product photography, 4K, highly detailed, photorealistic.
+COMPOSITION: eye-level hero shot, bottle in sharp focus, shallow depth of field, square 1:1, warm negative space. professional editorial product photography, 4K, photorealistic.
+```
+
+### Instrucción de EDICIÓN (para retocar la imagen ya generada, sin regenerar)
+
+```
+Edit this product photo of the amber "domi" bottle. Keep the bottle, the amber glass, and the lavender label exactly the same, but:
+1. REMOVE the small gold crescent-moon icon from the label completely. Replace it with a thin elegant gold horizontal line under the "domi" wordmark.
+2. CHANGE the background and props: remove the velvet curtain and the amethyst crystal. Place the bottle on a real bedside nightstand at night, in a cozy modern bedroom. Add a warm bedside lamp glowing softly out of focus, a closed book with reading glasses resting on it, a small glass of water, and softly blurred neutral linen bedding in the background.
+3. Keep two amber softgel capsules beside the bottle and a few subtle dried lavender sprigs.
+4. Warm, calming, intimate nighttime mood, soft lamp light. Professional editorial product photography, photorealistic, 4K, square 1:1.
 ```
 
 ---
