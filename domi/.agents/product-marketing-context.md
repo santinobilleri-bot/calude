@@ -19,10 +19,12 @@
 - Costo emocional: culpa con los hijos, distancia con la pareja, pérdida de identidad ("ya no soy yo").
 
 ## 4. Competitive Landscape
-- **Directos:** melatonina suelta de farmacia, "Mela-Pluss" y similares.
+- **Líder de mercado / referencia:** **Melatol** (Lab. Gramón) — "la melatonina de venta libre N.º 1 en Argentina", +25 años. Línea: Melatol (melatonina 3 mg), Melatol Plus (+ valeriana/passiflora/tilo), Melatol Día Relax. Slogan "Para dormir tranquilo". Tono clínico/institucional, género neutro, sesgo a adultos mayores y jet-lag, eje funcional, formato comprimido/cápsula seca, canal farmacia.
+- **Directos:** Melatol / Melatol Plus, melatonina suelta de farmacia.
 - **Secundarios:** infusiones, magnesio, apps de meditación.
 - **Indirectos:** clonazepam/zolpidem (recetados), "aguantar".
-- **Cómo fallan:** atacan un solo frente del insomnio femenino (mente / sueño / cortisol), o generan resaca/dependencia.
+- **Cómo fallan:** atacan un solo frente del insomnio femenino (mente / sueño / cortisol), generan resaca/dependencia, y no le hablan específicamente a la mujer 30–55 ni a su ansiedad nocturna.
+- **Hueco a explotar vs. Melatol:** género femenino específico + eje emocional ("apagar la mente") + softgel líquido (absorbe 2–3x) + ashwagandha KSM-66 anti-cortisol + canal DTC.
 
 ## 5. Differentiation
 - Fórmula completa de 9 activos vs. melatonina sola.

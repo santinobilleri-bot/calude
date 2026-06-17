@@ -22,6 +22,6 @@ Cada documento alimenta al siguiente: el contexto del Paso 0 se reutiliza en tod
 - [`.agents/product-marketing-context.md`](.agents/product-marketing-context.md) — contexto base que leen las demás skills de marketing.
 
 ## Notas
-- No se pasó una "marca de referencia" (URL) para el análisis del Paso 0; el sistema se construyó desde el brief de producto y de cliente. Si querés, pasame una marca que admires y refino tono/estética.
+- **Marca de referencia / benchmark:** **Melatol** (líder de melatonina de venta libre en Argentina, +25 años). El Paso 0 analiza su comunicación y define el hueco que DOMI explota (femenino, emocional, softgel líquido, anti-cortisol, DTC).
 - DOMI FAST es un **suplemento dietario**, no un medicamento: el copy evita claims de cura y recomienda advertencia médica + registro sanitario.
 - Próximos pasos sugeridos: landing page (HTML o Shopify Liquid), secuencia de email post-compra, y set de creatividades para ads.

@@ -29,9 +29,42 @@
 
 ---
 
-## Análisis de posicionamiento (extracto del brief)
+## Marca de referencia: MELATOL (líder del mercado AR)
 
-> Nota: no se proporcionó una URL de "marca que admiro" como referencia. Este análisis se construye desde el brief de producto y de cliente, que ya es rico en señales. Si más adelante pasás un sitio de referencia (ej. una marca de wellness que te guste), refinamos tono y estética contra esa marca.
+> Marca de referencia elegida para benchmark: **Melatol** (Laboratorios Gramón / Gramón Millet). Se promociona como **"la melatonina de venta libre N.º 1 en Argentina"**, con **+25 años** de trayectoria. Es el comparable directo de DOMI FAST (es el "Mela-Pluss" del brief). Análisis de su comunicación para posicionar DOMI **en su contra**:
+
+**Su propuesta de valor:** "Promover que dormir está bien y es necesario; el buen descanso es la vía al bienestar físico y mental." Slogan: **"Para dormir tranquilo."**
+
+**Su línea de productos:**
+- **Melatol** — melatonina 3 mg (regulador del sueño). Indicado para conciliar el sueño, jet-lag y "adultos mayores".
+- **Melatol Plus** — melatonina + valeriana + passiflora + tilo (inductor del sueño y sedante; "para insomnio asociado a inquietud o intranquilidad").
+- **Melatol Día Relax** — sedante diurno ("si estás ansioso, irritado o nervioso").
+
+**Tono y personalidad:** clínico-tranquilizador, institucional, neutro, de laboratorio. Confiable pero frío. Adjetivos: serio, médico, genérico, "de farmacia".
+
+**Eje de posicionamiento:** **funcional**. Vende "regular la melatonina" y "conciliar el sueño"; el beneficio emocional es secundario y poco desarrollado.
+
+**A quién le habla:** público **neutro en género** y de edad amplia, con sesgo a **adultos mayores** y casos de jet-lag. NO le habla específicamente a la mujer de 30–55 ni a su carga mental/ansiedad nocturna.
+
+**10 palabras/frases que repite:** "para dormir tranquilo", "descanso", "bienestar", "conciliar el sueño", "melatonina", "regular", "natural", "inductor del sueño", "reducir la ansiedad a la hora de dormir", "buen despertar".
+
+### El hueco que deja Melatol (la oportunidad de DOMI)
+
+| | **Melatol (líder)** | **DOMI FAST (retador)** |
+|---|---|---|
+| Género | Neutro | **Femenino, específico** |
+| Edad/foco | Adultos mayores, jet-lag | **Mujer 30–55, carga mental** |
+| Eje | Funcional ("regular melatonina") | **Emocional ("apagar la mente / volver a ser vos")** |
+| Tono | Clínico, de laboratorio | **Cálido, cómplice, de amiga** |
+| Formato | Comprimido recubierto / cápsula seca | **Softgel líquido (absorbe 2–3x)** |
+| Fórmula | Melatonina sola o + 3 botánicos | **9 activos + ashwagandha KSM-66 anti-cortisol** |
+| Compra | Farmacia (venta libre) | **DTC: e-commerce + Instagram/TikTok** |
+
+> **Tesis de posicionamiento:** Melatol es el genérico clínico que "todas conocen y nadie ama". DOMI es la marca que por fin **le habla a ELLA** —la mujer cuya cabeza no se apaga— con una fórmula más completa, un formato más moderno y un tono humano. No competimos por "más melatonina": competimos por **identificación, formato superior y eje anti-cortisol**.
+
+---
+
+## Análisis de posicionamiento (extracto del brief)
 
 **Propuesta de valor principal**
 A mujeres 30–55 con insomnio y ansiedad nocturna, DOMI FAST les promete dormirse en 15–25 minutos, dormir profundo 8 horas reales y despertar descansadas (no atontadas), sin riesgo de adicción ni resaca — y, a las 2 semanas, sentirse más calmas también en el día.
