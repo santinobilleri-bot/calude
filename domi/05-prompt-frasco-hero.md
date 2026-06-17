@@ -8,6 +8,46 @@
 
 ---
 
+## 🖥️ HERO DE LANDING (primera foto de la página · con espacio para el titular)
+
+> Para el hero de la página: fondo más editorial/pulido y con **espacio negativo a la izquierda** para montar el titular en código/Figma. Frasco ámbar a la derecha. Pedir en **16:9** (desktop) y una segunda toma **9:16** (mobile).
+
+### Opción 1 — Editorial nocturno (recomendada para hero)
+
+```
+Editorial hero product photography for a premium sleep supplement landing page, horizontal 16:9 banner composition.
+
+BOTTLE: the amber glass "domi" bottle (lavender wrap label, lowercase vertical "domi" wordmark, "ACTIVADOR DEL SUEÑO") placed on the RIGHT THIRD of the frame, standing on a dark polished stone surface with a soft mirror reflection.
+
+BACKGROUND: a smooth, clean gradient from deep night-blue (#1B2A4A) at the top to warm plum (#3A2A40) at the bottom. A single soft warm pool of light falls on the bottle like moonlight through a window. The LEFT TWO-THIRDS of the frame is kept dark, smooth and empty — clean negative space for headline text. Subtle warm bokeh far in the background, very out of focus.
+
+PROPS: minimal — only two amber softgel capsules near the base and a faint wisp of dried lavender. Nothing cluttered.
+
+LIGHTING: cinematic, controlled, soft warm key light on the bottle, dark elegant falloff. Premium, calm, nocturnal.
+
+COMPOSITION: bottle right, large empty dark space on the left for text, eye-level, sharp focus on the bottle, shallow depth of field. professional editorial product photography, 4K, photorealistic.
+```
+
+### Opción 2 — Lujo limpio / e-commerce premium
+
+```
+Clean luxury hero product shot for a premium wellness landing page, horizontal 16:9.
+
+BOTTLE: the amber glass "domi" bottle (lavender wrap label, vertical "domi", "ACTIVADOR DEL SUEÑO") positioned on the right third, on a soft cream stone surface with a delicate shadow.
+
+BACKGROUND: a smooth seamless gradient from soft lavender (#B7A6C9) to warm cream (#F2EBDD), elegant and minimal. The left side is clean and empty for headline text.
+
+PROPS: two amber softgels and a single dried lavender sprig, very subtle.
+
+LIGHTING: soft, diffused, premium studio light, gentle and calming, no harsh shadows.
+
+COMPOSITION: bottle right, generous negative space left for copy, eye-level, sharp focus, square-to-landscape 16:9. professional product photography, 4K, photorealistic, e-commerce ready.
+```
+
+**Notas hero:** el titular va por encima en código/Figma (lado izquierdo vacío). Versión mobile: regenerar en 9:16 con el frasco abajo y el espacio arriba. Opción 1 (oscura) = titular en blanco, máximo impacto nocturno; Opción 2 (clara) = página luminosa.
+
+---
+
 ## ✅ FRASCO OFICIAL (v3): ÁMBAR + etiqueta limpia tipo blanco, sin luna
 
 > Decisión final: frasco **ámbar** (esencia natural/nocturna/premium) con el **estilo de etiqueta del frasco blanco** (wrap más limpio y grande, tipografía nítida tipo Lipo, nombre "ACTIVADOR DEL SUEÑO"). Sin luna.
