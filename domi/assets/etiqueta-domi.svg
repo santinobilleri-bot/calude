@@ -17,17 +17,18 @@
   <text x="452" y="308" font-family="'Helvetica Neue',Arial,sans-serif" font-size="86" font-weight="700" fill="#33214A">DEL SUEÑO</text>
   <text x="456" y="366" font-family="Georgia,serif" font-size="40" font-style="italic" fill="#5A416F">Cápsulas blandas</text>
 
-  <!-- unica linea: bajo el nombre (color del texto) -->
+  <!-- linea bajo el nombre -->
   <rect x="452" y="404" width="808" height="2" fill="#33214A" opacity="0.4"/>
 
-  <!-- beneficios con viñetas -->
-  <g font-family="'Helvetica Neue',Arial,sans-serif" font-size="44" font-weight="600" fill="#352447">
-    <circle cx="470" cy="498" r="8" fill="#33214A"/><text x="510" y="512">Te dormís en 20 minutos</text>
-    <circle cx="470" cy="584" r="8" fill="#33214A"/><text x="510" y="598">Formulado para mujeres</text>
-    <circle cx="470" cy="670" r="8" fill="#33214A"/><text x="510" y="684">Baja la ansiedad nocturna</text>
-    <circle cx="470" cy="756" r="8" fill="#33214A"/><text x="510" y="770">9 activos · sin resaca</text>
+  <!-- texto corrido (sin viñetas) -->
+  <g font-family="'Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="500" fill="#352447">
+    <text x="452" y="492">Te dormís en 20 minutos y descansás</text>
+    <text x="452" y="552">toda la noche. Formulado para mujeres,</text>
+    <text x="452" y="612">con 9 activos que bajan la ansiedad</text>
+    <text x="452" y="672">nocturna. Despertás descansada,</text>
+    <text x="452" y="732">sin resaca.</text>
   </g>
 
-  <!-- cantidad (sin linea arriba) -->
-  <text x="452" y="900" font-family="'Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="600" fill="#33214A" letter-spacing="1">60 Cápsulas · Suplemento dietario</text>
+  <!-- cantidad -->
+  <text x="452" y="868" font-family="'Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="600" fill="#33214A" letter-spacing="1">60 Cápsulas · Suplemento dietario</text>
 </svg>
