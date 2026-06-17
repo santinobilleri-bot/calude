@@ -17,10 +17,10 @@
   <circle cx="930" cy="95" r="150" fill="#31204A" opacity="0.5"/>
 
   <!-- HEADLINE -->
-  <text x="64" y="135" font-family="Georgia,serif" font-size="54" font-weight="700" fill="#F5EFE6">No es que no puedas dormir.</text>
-  <text x="64" y="200" font-family="Georgia,serif" font-size="54" font-weight="700" fill="#C9B3E6">Tu mente no se apaga.</text>
-  <text x="66" y="256" font-family="'Helvetica Neue',Arial,sans-serif" font-size="27" fill="#CBBEDD">Dos cápsulas por noche te ayudan a frenarla.</text>
-  <text x="66" y="294" font-family="'Helvetica Neue',Arial,sans-serif" font-size="27" fill="#CBBEDD">Sin resaca. Sin volverte adicta.</text>
+  <text x="64" y="135" font-family="Georgia,serif" font-size="54" font-weight="700" fill="#F5EFE6">Tu cuerpo pide descanso.</text>
+  <text x="64" y="200" font-family="Georgia,serif" font-size="54" font-weight="700" fill="#C9B3E6">Tu mente no lo permite.</text>
+  <text x="66" y="256" font-family="'Helvetica Neue',Arial,sans-serif" font-size="27" fill="#CBBEDD">Una cápsula por día calma la mente y favorece</text>
+  <text x="66" y="294" font-family="'Helvetica Neue',Arial,sans-serif" font-size="27" fill="#CBBEDD">el sueño profundo. Sin generar dependencia.</text>
 
   <!-- ====== TARJETAS DE BENEFICIOS (izquierda) ====== -->
   <!-- Card 1 -->
@@ -28,8 +28,8 @@
     <rect x="64" y="360" width="560" height="130" rx="22" fill="#FFFFFF" opacity="0.07"/>
     <circle cx="140" cy="425" r="44" fill="#B7A6C9"/>
     <circle cx="134" cy="425" r="24" fill="#31204A"/><circle cx="146" cy="419" r="21" fill="#B7A6C9"/>
-    <text x="210" y="416" font-family="'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" fill="#F5EFE6">Te dormís rápido</text>
-    <text x="210" y="454" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#CBBEDD">Sin dar vueltas en la cama</text>
+    <text x="210" y="416" font-family="'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" fill="#F5EFE6">Conciliación rápida</text>
+    <text x="210" y="454" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#CBBEDD">Calma la mente antes de dormir</text>
   </g>
   <!-- Card 2 -->
   <g>
@@ -37,8 +37,8 @@
     <circle cx="140" cy="575" r="44" fill="#B7A6C9"/>
     <text x="116" y="567" font-family="Georgia,serif" font-size="30" font-weight="700" fill="#31204A">z</text>
     <text x="136" y="588" font-family="Georgia,serif" font-size="38" font-weight="700" fill="#31204A">Z</text>
-    <text x="210" y="566" font-family="'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" fill="#F5EFE6">Dormís toda la noche</text>
-    <text x="210" y="604" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#CBBEDD">Sin despertarte a las 4 am</text>
+    <text x="210" y="566" font-family="'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" fill="#F5EFE6">Descanso continuo</text>
+    <text x="210" y="604" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#CBBEDD">Reduce los despertares nocturnos</text>
   </g>
   <!-- Card 3 -->
   <g>
@@ -51,8 +51,8 @@
       <line x1="116" y1="701" x2="121" y2="706"/><line x1="159" y1="744" x2="164" y2="749"/>
       <line x1="159" y1="706" x2="164" y2="701"/><line x1="116" y1="749" x2="121" y2="744"/>
     </g>
-    <text x="210" y="716" font-family="'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" fill="#F5EFE6">Despertás descansada</text>
-    <text x="210" y="754" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#CBBEDD">Sin resaca ni atontamiento</text>
+    <text x="210" y="716" font-family="'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" fill="#F5EFE6">Despertar reparador</text>
+    <text x="210" y="754" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#CBBEDD">Sin somnolencia ni resaca</text>
   </g>
   <!-- Card 4 -->
   <g>
@@ -60,8 +60,8 @@
     <circle cx="140" cy="875" r="44" fill="#B7A6C9"/>
     <path d="M140 848 C112 862 112 894 140 902 C168 894 168 862 140 848 Z" fill="#31204A"/>
     <line x1="140" y1="858" x2="140" y2="898" stroke="#B7A6C9" stroke-width="3"/>
-    <text x="210" y="866" font-family="'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" fill="#F5EFE6">Natural y seguro</text>
-    <text x="210" y="904" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#CBBEDD">Sin adicción · 9 activos</text>
+    <text x="210" y="866" font-family="'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" fill="#F5EFE6">Fórmula natural y segura</text>
+    <text x="210" y="904" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#CBBEDD">9 activos · sin dependencia</text>
   </g>
 
   <!-- ====== PRODUCTO (derecha) ====== -->
