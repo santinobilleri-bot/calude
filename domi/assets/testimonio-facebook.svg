@@ -23,8 +23,8 @@
   <circle cx="930" cy="95" r="150" fill="#31204A" opacity="0.5"/>
 
   <!-- HEADLINE -->
-  <text x="72" y="150" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#F5EFE6">De noches en vela</text>
-  <text x="72" y="220" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#C9B3E6">a dormir de corrido.</text>
+  <text x="72" y="150" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#F5EFE6">Apoyo la cabeza</text>
+  <text x="72" y="220" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#C9B3E6">y me duermo.</text>
 
   <!-- estrellas -->
   <use href="#star" x="96" y="270"/>
@@ -39,9 +39,9 @@
     <rect x="72" y="332" width="936" height="408" rx="26" fill="#FFFFFF"/>
     <!-- avatar -->
     <circle cx="148" cy="402" r="44" fill="url(#av)"/>
-    <text x="148" y="414" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="700" fill="#FFFFFF">ML</text>
+    <text x="148" y="414" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="700" fill="#FFFFFF">CM</text>
     <!-- nombre + meta -->
-    <text x="212" y="392" font-family="'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" fill="#050505">María Laura G.</text>
+    <text x="212" y="392" font-family="'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" fill="#050505">Carolina M.</text>
     <text x="212" y="426" font-family="'Helvetica Neue',Arial,sans-serif" font-size="23" fill="#65676B">2 semanas</text>
 
     <!-- texto del comentario -->
