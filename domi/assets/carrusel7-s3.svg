@@ -1,0 +1,25 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#31204A"/><stop offset="1" stop-color="#1F1430"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bgp)"/>
+  <text x="90" y="200" font-family="Georgia,serif" font-size="72" font-weight="700" fill="#F5EFE6">Y qué hace</text>
+  <text x="90" y="284" font-family="Georgia,serif" font-size="72" font-weight="700" fill="#C9B3E6">cada uno</text>
+
+  <g>
+    <rect x="90" y="380" width="900" height="180" rx="22" fill="#FFFFFF" opacity="0.07"/>
+    <text x="130" y="455" font-family="'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="700" fill="#F5EFE6">Melatonina</text>
+    <text x="130" y="510" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" fill="#CBBEDD">Le avisa a tu cuerpo que es de noche.</text>
+
+    <rect x="90" y="590" width="900" height="180" rx="22" fill="#FFFFFF" opacity="0.07"/>
+    <text x="130" y="665" font-family="'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="700" fill="#F5EFE6">Ashwagandha</text>
+    <text x="130" y="720" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" fill="#CBBEDD">Baja el estrés que te despierta a las 4.</text>
+
+    <rect x="90" y="800" width="900" height="180" rx="22" fill="#FFFFFF" opacity="0.07"/>
+    <text x="130" y="875" font-family="'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="700" fill="#F5EFE6">Magnesio + Pasiflora</text>
+    <text x="130" y="930" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" fill="#CBBEDD">Relajan el cuerpo y la mente.</text>
+
+    <rect x="90" y="1010" width="900" height="180" rx="22" fill="#FFFFFF" opacity="0.07"/>
+    <text x="130" y="1085" font-family="'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="700" fill="#F5EFE6">Valeriana</text>
+    <text x="130" y="1140" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" fill="#CBBEDD">Hace que el sueño sea más profundo.</text>
+  </g>
+  <text x="540" y="1290" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="28" fill="#8B7BA5">›››</text>
+</svg>
