@@ -48,7 +48,7 @@
     <circle cx="150" cy="681" r="44" fill="url(#av)"/>
     <text x="150" y="694" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="700" fill="#FFFFFF">P</text>
     <use href="#star" transform="translate(228,656) scale(0.55)"/><use href="#star" transform="translate(254,656) scale(0.55)"/><use href="#star" transform="translate(280,656) scale(0.55)"/><use href="#star" transform="translate(306,656) scale(0.55)"/><use href="#star" transform="translate(332,656) scale(0.55)"/>
-    <text x="216" y="706" font-family="Georgia,serif" font-size="30" font-weight="700" font-style="italic" fill="#1C1E21">“Me levanto descansada, no muerta.”</text>
+    <text x="216" y="706" font-family="Georgia,serif" font-size="30" font-weight="700" font-style="italic" fill="#1C1E21">“Me levanto con pilas otra vez.”</text>
     <text x="216" y="736" font-family="'Helvetica Neue',Arial,sans-serif" font-size="23" fill="#6B6675">Paula, 39 · Córdoba</text>
   </g>
 
