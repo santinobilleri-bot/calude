@@ -13,16 +13,16 @@
   <circle cx="930" cy="86" r="150" fill="#31204A" opacity="0.5"/>
 
   <!-- HEADLINE -->
-  <text x="72" y="140" font-family="Georgia,serif" font-size="60" font-weight="700" fill="#F5EFE6">Más fácil que</text>
-  <text x="72" y="210" font-family="Georgia,serif" font-size="60" font-weight="700" fill="#C9B3E6">contar ovejas.</text>
-  <text x="74" y="256" font-family="'Helvetica Neue',Arial,sans-serif" font-size="27" fill="#CBBEDD">Tu nuevo ritual antes de dormir.</text>
+  <text x="72" y="140" font-family="Georgia,serif" font-size="60" font-weight="700" fill="#F5EFE6">Tu ritual</text>
+  <text x="72" y="210" font-family="Georgia,serif" font-size="60" font-weight="700" fill="#C9B3E6">antes de dormir.</text>
+  <text x="74" y="256" font-family="'Helvetica Neue',Arial,sans-serif" font-size="27" fill="#CBBEDD">Una rutina simple para un descanso real.</text>
 
   <!-- PASO 1 -->
   <g>
     <rect x="72" y="306" width="936" height="130" rx="22" fill="#FFFFFF" opacity="0.07"/>
     <circle cx="152" cy="371" r="46" fill="#B7A6C9"/>
     <text x="152" y="388" text-anchor="middle" font-family="Georgia,serif" font-size="48" font-weight="700" fill="#31204A">1</text>
-    <text x="232" y="362" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="700" fill="#F5EFE6">Tomá 1 cápsula</text>
+    <text x="232" y="362" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="700" fill="#F5EFE6">Tomá una cápsula</text>
     <text x="232" y="402" font-family="'Helvetica Neue',Arial,sans-serif" font-size="25" fill="#CBBEDD">Con un vaso de agua</text>
   </g>
 
@@ -32,7 +32,7 @@
     <circle cx="152" cy="521" r="46" fill="#B7A6C9"/>
     <text x="152" y="538" text-anchor="middle" font-family="Georgia,serif" font-size="48" font-weight="700" fill="#31204A">2</text>
     <text x="232" y="512" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="700" fill="#F5EFE6">20 minutos antes de dormir</text>
-    <text x="232" y="552" font-family="'Helvetica Neue',Arial,sans-serif" font-size="25" fill="#CBBEDD">Se absorbe rápido</text>
+    <text x="232" y="552" font-family="'Helvetica Neue',Arial,sans-serif" font-size="25" fill="#CBBEDD">Se absorbe rápidamente</text>
   </g>
 
   <!-- PASO 3 -->
@@ -40,8 +40,8 @@
     <rect x="72" y="606" width="936" height="130" rx="22" fill="#FFFFFF" opacity="0.07"/>
     <circle cx="152" cy="671" r="46" fill="#B7A6C9"/>
     <text x="152" y="688" text-anchor="middle" font-family="Georgia,serif" font-size="48" font-weight="700" fill="#31204A">3</text>
-    <text x="232" y="662" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="700" fill="#F5EFE6">Se te apaga la mente</text>
-    <text x="232" y="702" font-family="'Helvetica Neue',Arial,sans-serif" font-size="25" fill="#CBBEDD">Y caés sin darte cuenta</text>
+    <text x="232" y="662" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="700" fill="#F5EFE6">Favorece el sueño profundo</text>
+    <text x="232" y="702" font-family="'Helvetica Neue',Arial,sans-serif" font-size="25" fill="#CBBEDD">Calma la mente y el cuerpo</text>
   </g>
 
   <!-- PRODUCTO -->
