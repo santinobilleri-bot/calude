@@ -1,0 +1,18 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#31204A"/><stop offset="1" stop-color="#1F1430"/></linearGradient>
+    <linearGradient id="av" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C9A8D8"/><stop offset="1" stop-color="#8E6FB0"/></linearGradient>
+    <g id="star"><polygon points="0,-18 4.2,-5.7 17.2,-5.6 6.6,2.2 10.6,14.6 0,7 -10.6,14.6 -6.6,2.2 -17.2,-5.6 -4.2,-5.7" fill="#E6B45A"/></g>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bgp)"/>
+  <rect x="80" y="300" width="920" height="760" rx="44" fill="#FBF9FC"/>
+  <circle cx="200" cy="450" r="64" fill="url(#av)"/>
+  <text x="200" y="468" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="54" font-weight="700" fill="#FFFFFF">C</text>
+  <text x="305" y="432" font-family="'Helvetica Neue',Arial,sans-serif" font-size="48" font-weight="700" fill="#1C1E21">Carolina</text>
+  <text x="305" y="486" font-family="'Helvetica Neue',Arial,sans-serif" font-size="32" fill="#6B6675">43 · Vicente López</text>
+  <g><use href="#star" transform="translate(305,560)"/><use href="#star" transform="translate(353,560)"/><use href="#star" transform="translate(401,560)"/><use href="#star" transform="translate(449,560)"/><use href="#star" transform="translate(497,560)"/></g>
+  <text x="540" y="730" text-anchor="middle" font-family="Georgia,serif" font-size="60" font-style="italic" font-weight="700" fill="#1C1E21">“Duermo de corrido</text>
+  <text x="540" y="810" text-anchor="middle" font-family="Georgia,serif" font-size="60" font-style="italic" font-weight="700" fill="#1C1E21">otra vez.</text>
+  <text x="540" y="910" text-anchor="middle" font-family="Georgia,serif" font-size="48" font-style="italic" fill="#4A4452">No lo podía creer.”</text>
+  <text x="540" y="1230" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="30" fill="#C9B3E6">›››</text>
+</svg>
