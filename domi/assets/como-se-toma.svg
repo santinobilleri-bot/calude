@@ -1,0 +1,58 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#31204A"/><stop offset="1" stop-color="#1F1430"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B07A38"/><stop offset="0.5" stop-color="#8A4F1E"/><stop offset="1" stop-color="#6E3D17"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1080" fill="url(#bgp)"/>
+  <circle cx="980" cy="110" r="150" fill="#FFFFFF" opacity="0.04"/>
+  <circle cx="930" cy="86" r="150" fill="#31204A" opacity="0.5"/>
+
+  <!-- HEADLINE -->
+  <text x="72" y="140" font-family="Georgia,serif" font-size="60" font-weight="700" fill="#F5EFE6">Más fácil que</text>
+  <text x="72" y="210" font-family="Georgia,serif" font-size="60" font-weight="700" fill="#C9B3E6">contar ovejas.</text>
+  <text x="74" y="256" font-family="'Helvetica Neue',Arial,sans-serif" font-size="27" fill="#CBBEDD">Tu nuevo ritual antes de dormir.</text>
+
+  <!-- PASO 1 -->
+  <g>
+    <rect x="72" y="306" width="936" height="130" rx="22" fill="#FFFFFF" opacity="0.07"/>
+    <circle cx="152" cy="371" r="46" fill="#B7A6C9"/>
+    <text x="152" y="388" text-anchor="middle" font-family="Georgia,serif" font-size="48" font-weight="700" fill="#31204A">1</text>
+    <text x="232" y="362" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="700" fill="#F5EFE6">Tomá 1 cápsula</text>
+    <text x="232" y="402" font-family="'Helvetica Neue',Arial,sans-serif" font-size="25" fill="#CBBEDD">Con un vaso de agua</text>
+  </g>
+
+  <!-- PASO 2 -->
+  <g>
+    <rect x="72" y="456" width="936" height="130" rx="22" fill="#FFFFFF" opacity="0.07"/>
+    <circle cx="152" cy="521" r="46" fill="#B7A6C9"/>
+    <text x="152" y="538" text-anchor="middle" font-family="Georgia,serif" font-size="48" font-weight="700" fill="#31204A">2</text>
+    <text x="232" y="512" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="700" fill="#F5EFE6">20 minutos antes de dormir</text>
+    <text x="232" y="552" font-family="'Helvetica Neue',Arial,sans-serif" font-size="25" fill="#CBBEDD">Se absorbe rápido</text>
+  </g>
+
+  <!-- PASO 3 -->
+  <g>
+    <rect x="72" y="606" width="936" height="130" rx="22" fill="#FFFFFF" opacity="0.07"/>
+    <circle cx="152" cy="671" r="46" fill="#B7A6C9"/>
+    <text x="152" y="688" text-anchor="middle" font-family="Georgia,serif" font-size="48" font-weight="700" fill="#31204A">3</text>
+    <text x="232" y="662" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="700" fill="#F5EFE6">Se te apaga la mente</text>
+    <text x="232" y="702" font-family="'Helvetica Neue',Arial,sans-serif" font-size="25" fill="#CBBEDD">Y caés sin darte cuenta</text>
+  </g>
+
+  <!-- PRODUCTO -->
+  <g>
+    <rect x="150" y="812" width="86" height="26" rx="9" fill="#241F2B"/>
+    <rect x="135" y="838" width="116" height="170" rx="20" fill="url(#amber)"/>
+    <rect x="135" y="890" width="116" height="92" rx="6" fill="#B7A6C9"/>
+    <text x="166" y="936" transform="rotate(-90 166 936)" text-anchor="middle" font-family="Georgia,serif" font-size="40" font-weight="700" fill="#F5EFE6">domi</text>
+    <text x="210" y="920" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#31204A">ACTIVADOR</text>
+    <text x="210" y="938" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#31204A">DEL SUEÑO</text>
+  </g>
+  <text x="300" y="898" font-family="Georgia,serif" font-size="62" font-weight="700" fill="#F5EFE6">domi</text>
+  <text x="302" y="942" font-family="'Helvetica Neue',Arial,sans-serif" font-size="27" fill="#C9B3E6">Activador del sueño · Suplemento dietario</text>
+</svg>
