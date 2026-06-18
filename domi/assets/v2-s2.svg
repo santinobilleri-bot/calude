@@ -1,0 +1,13 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2A1740"/><stop offset="1" stop-color="#150C24"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <text x="640" y="560" font-family="Arial, sans-serif" font-size="460" font-weight="900" fill="#F0A878" opacity="0.16">1</text>
+  <text x="90" y="200" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="6" fill="#F0A878">RAZÓN 1</text>
+  <text x="86" y="560" font-family="Arial, sans-serif" font-size="112" font-weight="900" fill="#F7F2EC">Tu cabeza</text>
+  <text x="86" y="678" font-family="Arial, sans-serif" font-size="112" font-weight="900" fill="#F7F2EC">no para de</text>
+  <rect x="86" y="718" width="450" height="120" rx="22" fill="#C9B3E6"/>
+  <text x="114" y="812" font-family="Arial, sans-serif" font-size="112" font-weight="900" fill="#2A1740">pensar</text>
+  <text x="90" y="940" font-family="Arial, sans-serif" font-size="40" fill="#B9A7D6">Te acostás muerta… y ahí arranca</text>
+  <text x="90" y="994" font-family="Arial, sans-serif" font-size="40" fill="#B9A7D6">el bla bla bla mental.</text>
+  <circle cx="470" cy="1250" r="14" fill="#F0A878"/><circle cx="520" cy="1250" r="14" fill="#FFFFFF" opacity="0.25"/><circle cx="570" cy="1250" r="14" fill="#FFFFFF" opacity="0.25"/>
+</svg>

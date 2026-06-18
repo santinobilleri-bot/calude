@@ -1,0 +1,18 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2A1740"/><stop offset="1" stop-color="#150C24"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <circle cx="950" cy="170" r="60" fill="#E9C46A"/><circle cx="978" cy="150" r="50" fill="#1d1030"/>
+  <text x="90" y="200" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="6" fill="#C9B3E6">GUÍA PARA DORMIR</text>
+
+  <text x="86" y="560" font-family="Arial, sans-serif" font-size="130" font-weight="900" fill="#F7F2EC">Dormís mal</text>
+  <text x="86" y="690" font-family="Arial, sans-serif" font-size="130" font-weight="900" fill="#F7F2EC">por estas</text>
+  <rect x="86" y="730" width="560" height="135" rx="24" fill="#C9B3E6"/>
+  <text x="116" y="838" font-family="Arial, sans-serif" font-size="130" font-weight="900" fill="#2A1740">3 cosas</text>
+
+  <text x="92" y="950" font-family="Arial, sans-serif" font-size="38" fill="#B9A7D6">(y la melatonina sola arregla solo una)</text>
+
+  <rect x="86" y="1190" width="340" height="92" rx="46" fill="#F0A878"/>
+  <text x="256" y="1250" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="800" fill="#2A1740">Deslizá  →</text>
+</svg>
