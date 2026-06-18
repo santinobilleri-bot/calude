@@ -1,0 +1,66 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#31204A"/>
+      <stop offset="1" stop-color="#1F1430"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B07A38"/><stop offset="0.5" stop-color="#8A4F1E"/><stop offset="1" stop-color="#6E3D17"/>
+    </linearGradient>
+    <linearGradient id="av" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C9A8D8"/><stop offset="1" stop-color="#8E6FB0"/>
+    </linearGradient>
+    <g id="star"><polygon points="0,-18 4.11,-5.66 17.1,-5.56 6.66,2.16 10.58,14.56 0,7 -10.58,14.56 -6.66,2.16 -17.1,-5.56 -4.11,-5.66" fill="#E6B45A"/></g>
+  </defs>
+
+  <rect width="1080" height="1080" fill="url(#bgp)"/>
+  <circle cx="980" cy="110" r="150" fill="#FFFFFF" opacity="0.04"/>
+  <circle cx="930" cy="86" r="150" fill="#31204A" opacity="0.5"/>
+
+  <!-- HEADLINE -->
+  <text x="72" y="138" font-family="Georgia,serif" font-size="60" font-weight="700" fill="#F5EFE6">Mujeres como vos.</text>
+  <text x="72" y="206" font-family="Georgia,serif" font-size="60" font-weight="700" fill="#C9B3E6">Resultados reales.</text>
+  <text x="74" y="252" font-family="'Helvetica Neue',Arial,sans-serif" font-size="27" fill="#CBBEDD">Esto dicen las que ya lo probaron.</text>
+
+  <!-- ===== CARD 1 ===== -->
+  <g>
+    <rect x="72" y="300" width="936" height="138" rx="22" fill="#FBF9FC"/>
+    <circle cx="150" cy="369" r="44" fill="url(#av)"/>
+    <text x="150" y="382" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="700" fill="#FFFFFF">C</text>
+    <use href="#star" transform="translate(228,344) scale(0.55)"/><use href="#star" transform="translate(254,344) scale(0.55)"/><use href="#star" transform="translate(280,344) scale(0.55)"/><use href="#star" transform="translate(306,344) scale(0.55)"/><use href="#star" transform="translate(332,344) scale(0.55)"/>
+    <text x="216" y="394" font-family="Georgia,serif" font-size="32" font-weight="700" font-style="italic" fill="#1C1E21">“No me despierto más a las 4.”</text>
+    <text x="216" y="424" font-family="'Helvetica Neue',Arial,sans-serif" font-size="23" fill="#6B6675">Carolina, 43 · Vicente López</text>
+  </g>
+
+  <!-- ===== CARD 2 ===== -->
+  <g>
+    <rect x="72" y="456" width="936" height="138" rx="22" fill="#FBF9FC"/>
+    <circle cx="150" cy="525" r="44" fill="url(#av)"/>
+    <text x="150" y="538" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="700" fill="#FFFFFF">M</text>
+    <use href="#star" transform="translate(228,500) scale(0.55)"/><use href="#star" transform="translate(254,500) scale(0.55)"/><use href="#star" transform="translate(280,500) scale(0.55)"/><use href="#star" transform="translate(306,500) scale(0.55)"/><use href="#star" transform="translate(332,500) scale(0.55)"/>
+    <text x="216" y="550" font-family="Georgia,serif" font-size="32" font-weight="700" font-style="italic" fill="#1C1E21">“Dejé el clonazepam y duermo igual.”</text>
+    <text x="216" y="580" font-family="'Helvetica Neue',Arial,sans-serif" font-size="23" fill="#6B6675">Marina, 47 · Rosario</text>
+  </g>
+
+  <!-- ===== CARD 3 ===== -->
+  <g>
+    <rect x="72" y="612" width="936" height="138" rx="22" fill="#FBF9FC"/>
+    <circle cx="150" cy="681" r="44" fill="url(#av)"/>
+    <text x="150" y="694" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="700" fill="#FFFFFF">P</text>
+    <use href="#star" transform="translate(228,656) scale(0.55)"/><use href="#star" transform="translate(254,656) scale(0.55)"/><use href="#star" transform="translate(280,656) scale(0.55)"/><use href="#star" transform="translate(306,656) scale(0.55)"/><use href="#star" transform="translate(332,656) scale(0.55)"/>
+    <text x="216" y="706" font-family="Georgia,serif" font-size="32" font-weight="700" font-style="italic" fill="#1C1E21">“Me levanto otra persona.”</text>
+    <text x="216" y="736" font-family="'Helvetica Neue',Arial,sans-serif" font-size="23" fill="#6B6675">Paula, 39 · Córdoba</text>
+  </g>
+
+  <!-- ===== PRODUCTO (abajo) ===== -->
+  <g>
+    <rect x="150" y="812" width="86" height="26" rx="9" fill="#241F2B"/>
+    <rect x="135" y="838" width="116" height="170" rx="20" fill="url(#amber)"/>
+    <rect x="135" y="890" width="116" height="92" rx="6" fill="#B7A6C9"/>
+    <text x="166" y="936" transform="rotate(-90 166 936)" text-anchor="middle" font-family="Georgia,serif" font-size="40" font-weight="700" fill="#F5EFE6">domi</text>
+    <text x="210" y="920" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#31204A">ACTIVADOR</text>
+    <text x="210" y="938" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#31204A">DEL SUEÑO</text>
+  </g>
+  <text x="300" y="898" font-family="Georgia,serif" font-size="62" font-weight="700" fill="#F5EFE6">domi</text>
+  <text x="302" y="942" font-family="'Helvetica Neue',Arial,sans-serif" font-size="27" fill="#C9B3E6">Activador del sueño · Suplemento dietario</text>
+</svg>
