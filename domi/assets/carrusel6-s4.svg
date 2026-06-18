@@ -1,0 +1,10 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#31204A"/><stop offset="1" stop-color="#1F1430"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bgp)"/>
+  <text x="540" y="430" text-anchor="middle" font-family="Georgia,serif" font-size="300" font-weight="700" fill="#6E5C9A">2</text>
+  <text x="540" y="640" text-anchor="middle" font-family="Georgia,serif" font-size="80" font-weight="700" fill="#F5EFE6">Te dormís…</text>
+  <text x="540" y="730" text-anchor="middle" font-family="Georgia,serif" font-size="80" font-weight="700" fill="#F5EFE6">pero te despertás</text>
+  <text x="540" y="860" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="40" fill="#CBBEDD">A las 3 de la mañana ya no</text>
+  <text x="540" y="916" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="40" fill="#CBBEDD">pegás un ojo.</text>
+  <text x="540" y="1270" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="30" fill="#8B7BA5">2 de 3</text>
+</svg>
