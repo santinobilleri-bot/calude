@@ -1,0 +1,44 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1080" fill="#F5F2F8"/>
+
+  <!-- grid dividers -->
+  <g stroke="#E2DAEE" stroke-width="2">
+    <line x1="540" y1="40" x2="540" y2="1040"/>
+    <line x1="60" y1="380" x2="1020" y2="380"/>
+    <line x1="60" y1="720" x2="1020" y2="720"/>
+  </g>
+
+  <!-- 1 · Serif elegante -->
+  <text x="270" y="210" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="96" font-weight="700" fill="#33214A" letter-spacing="2">domi</text>
+  <text x="270" y="300" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" fill="#8B7BA5">1 · Serif elegante</text>
+
+  <!-- 2 · Sans moderno -->
+  <text x="810" y="208" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="88" font-weight="600" fill="#33214A" letter-spacing="-2">domi</text>
+  <text x="810" y="300" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" fill="#8B7BA5">2 · Sans moderno</text>
+
+  <!-- 3 · Lockup con luna arriba -->
+  <g>
+    <circle cx="270" cy="470" r="26" fill="#33214A"/><circle cx="282" cy="463" r="22" fill="#F5F2F8"/>
+    <text x="270" y="560" text-anchor="middle" font-family="Georgia,serif" font-size="80" font-weight="700" fill="#33214A" letter-spacing="2">domi</text>
+  </g>
+  <text x="270" y="640" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" fill="#8B7BA5">3 · Lockup con luna</text>
+
+  <!-- 4 · App icon / monograma -->
+  <g>
+    <rect x="722" y="430" width="176" height="176" rx="40" fill="#33214A"/>
+    <text x="810" y="556" text-anchor="middle" font-family="Georgia,serif" font-size="150" font-weight="700" fill="#F5EFE6">d</text>
+    <circle cx="852" cy="478" r="16" fill="#F5EFE6"/><circle cx="861" cy="473" r="13" fill="#33214A"/>
+  </g>
+  <text x="810" y="650" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" fill="#8B7BA5">4 · Monograma / app icon</text>
+
+  <!-- 5 · Versales espaciado -->
+  <text x="270" y="905" text-anchor="middle" font-family="Georgia,serif" font-size="72" font-weight="500" fill="#33214A" letter-spacing="14">DOMI</text>
+  <text x="270" y="985" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" fill="#8B7BA5">5 · Versales espaciado</text>
+
+  <!-- 6 · Wordmark con luna al lado -->
+  <g>
+    <text x="788" y="912" text-anchor="middle" font-family="Georgia,serif" font-size="82" font-weight="700" fill="#33214A" letter-spacing="2">domi</text>
+    <circle cx="906" cy="876" r="22" fill="#33214A"/><circle cx="916" cy="870" r="18" fill="#F5F2F8"/>
+  </g>
+  <text x="810" y="985" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" fill="#8B7BA5">6 · Con luna al lado</text>
+</svg>
