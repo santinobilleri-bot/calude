@@ -1,0 +1,9 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#31204A"/><stop offset="1" stop-color="#1F1430"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bgp)"/>
+  <circle cx="900" cy="180" r="62" fill="#C9B3E6"/><circle cx="938" cy="158" r="52" fill="#2A1B3D"/>
+  <text x="540" y="560" text-anchor="middle" font-family="Georgia,serif" font-size="96" font-weight="700" fill="#F5EFE6">Dormís mal</text>
+  <text x="540" y="676" text-anchor="middle" font-family="Georgia,serif" font-size="96" font-weight="700" fill="#C9B3E6">por estas 3 cosas</text>
+  <text x="540" y="770" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="36" fill="#CBBEDD">(y la melatonina sola arregla solo una)</text>
+  <text x="540" y="1200" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="600" fill="#C9B3E6">Deslizá  ›  ›  ›</text>
+</svg>

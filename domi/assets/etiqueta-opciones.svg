@@ -1,0 +1,84 @@
+<svg width="2840" height="2120" viewBox="0 0 2840 2120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B3A0CC"/>
+      <stop offset="1" stop-color="#9D86BC"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="2840" height="2120" fill="#F4F1F7"/>
+
+  <!-- ================= OPCION 1 · Limpia (sin lineas) ================= -->
+  <text x="80" y="92" font-family="'Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="700" fill="#33214A">Opción 1 · Limpia (sin líneas)</text>
+  <g transform="translate(80,120)">
+    <rect x="0" y="0" width="1300" height="900" rx="28" fill="url(#bg)"/>
+    <text x="170" y="450" transform="rotate(-90 170 450)" text-anchor="middle" font-family="Georgia,serif" font-size="210" font-weight="700" fill="#F5EFE6" letter-spacing="5">domi</text>
+    <text x="400" y="200" font-family="'Helvetica Neue',Arial,sans-serif" font-size="78" font-weight="700" fill="#33214A">ACTIVADOR</text>
+    <text x="400" y="278" font-family="'Helvetica Neue',Arial,sans-serif" font-size="78" font-weight="700" fill="#33214A">DEL SUEÑO</text>
+    <text x="404" y="332" font-family="Georgia,serif" font-size="36" font-style="italic" fill="#5A416F">Cápsulas blandas</text>
+    <g font-family="'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="600" fill="#352447">
+      <text x="400" y="450">Te dormís en 20 minutos</text>
+      <text x="400" y="528">Formulado para mujeres</text>
+      <text x="400" y="606">Baja la ansiedad nocturna</text>
+      <text x="400" y="684">9 activos · sin resaca</text>
+    </g>
+    <text x="400" y="820" font-family="'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="600" fill="#33214A">60 Cápsulas · Suplemento dietario</text>
+  </g>
+
+  <!-- ================= OPCION 2 · Divisores en color del texto ================= -->
+  <text x="1460" y="92" font-family="'Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="700" fill="#33214A">Opción 2 · Divisores en color del texto</text>
+  <g transform="translate(1460,120)">
+    <rect x="0" y="0" width="1300" height="900" rx="28" fill="url(#bg)"/>
+    <text x="170" y="450" transform="rotate(-90 170 450)" text-anchor="middle" font-family="Georgia,serif" font-size="210" font-weight="700" fill="#F5EFE6" letter-spacing="5">domi</text>
+    <rect x="362" y="150" width="2" height="600" fill="#33214A" opacity="0.4"/>
+    <text x="430" y="200" font-family="'Helvetica Neue',Arial,sans-serif" font-size="78" font-weight="700" fill="#33214A">ACTIVADOR</text>
+    <text x="430" y="278" font-family="'Helvetica Neue',Arial,sans-serif" font-size="78" font-weight="700" fill="#33214A">DEL SUEÑO</text>
+    <text x="434" y="332" font-family="Georgia,serif" font-size="36" font-style="italic" fill="#5A416F">Cápsulas blandas</text>
+    <rect x="430" y="368" width="780" height="2" fill="#33214A" opacity="0.4"/>
+    <g font-family="'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="600" fill="#352447">
+      <text x="430" y="462">Te dormís en 20 minutos</text>
+      <text x="430" y="540">Formulado para mujeres</text>
+      <text x="430" y="618">Baja la ansiedad nocturna</text>
+      <text x="430" y="696">9 activos · sin resaca</text>
+    </g>
+    <rect x="430" y="760" width="780" height="2" fill="#33214A" opacity="0.4"/>
+    <text x="430" y="824" font-family="'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="600" fill="#33214A">60 Cápsulas · Suplemento dietario</text>
+  </g>
+
+  <!-- ================= OPCION 3 · Viñetas en color del texto ================= -->
+  <text x="80" y="1182" font-family="'Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="700" fill="#33214A">Opción 3 · Viñetas en color del texto</text>
+  <g transform="translate(80,1210)">
+    <rect x="0" y="0" width="1300" height="900" rx="28" fill="url(#bg)"/>
+    <text x="170" y="450" transform="rotate(-90 170 450)" text-anchor="middle" font-family="Georgia,serif" font-size="210" font-weight="700" fill="#F5EFE6" letter-spacing="5">domi</text>
+    <text x="400" y="200" font-family="'Helvetica Neue',Arial,sans-serif" font-size="78" font-weight="700" fill="#33214A">ACTIVADOR</text>
+    <text x="400" y="278" font-family="'Helvetica Neue',Arial,sans-serif" font-size="78" font-weight="700" fill="#33214A">DEL SUEÑO</text>
+    <text x="404" y="332" font-family="Georgia,serif" font-size="36" font-style="italic" fill="#5A416F">Cápsulas blandas</text>
+    <rect x="400" y="368" width="780" height="2" fill="#33214A" opacity="0.4"/>
+    <g font-family="'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="600" fill="#352447">
+      <circle cx="416" cy="450" r="7" fill="#33214A"/><text x="452" y="462">Te dormís en 20 minutos</text>
+      <circle cx="416" cy="528" r="7" fill="#33214A"/><text x="452" y="540">Formulado para mujeres</text>
+      <circle cx="416" cy="606" r="7" fill="#33214A"/><text x="452" y="618">Baja la ansiedad nocturna</text>
+      <circle cx="416" cy="684" r="7" fill="#33214A"/><text x="452" y="696">9 activos · sin resaca</text>
+    </g>
+    <text x="400" y="824" font-family="'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="600" fill="#33214A">60 Cápsulas · Suplemento dietario</text>
+  </g>
+
+  <!-- ================= OPCION 4 · Banda bicolor ================= -->
+  <text x="1460" y="1182" font-family="'Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="700" fill="#33214A">Opción 4 · Banda bicolor (domi sobre plum)</text>
+  <g transform="translate(1460,1210)">
+    <rect x="0" y="0" width="1300" height="900" rx="28" fill="url(#bg)"/>
+    <path d="M 28,0 H 360 V 900 H 28 A 28,28 0 0 1 0,872 V 28 A 28,28 0 0 1 28,0 Z" fill="#4A3568"/>
+    <text x="180" y="450" transform="rotate(-90 180 450)" text-anchor="middle" font-family="Georgia,serif" font-size="210" font-weight="700" fill="#F5EFE6" letter-spacing="5">domi</text>
+    <text x="430" y="200" font-family="'Helvetica Neue',Arial,sans-serif" font-size="78" font-weight="700" fill="#33214A">ACTIVADOR</text>
+    <text x="430" y="278" font-family="'Helvetica Neue',Arial,sans-serif" font-size="78" font-weight="700" fill="#33214A">DEL SUEÑO</text>
+    <text x="434" y="332" font-family="Georgia,serif" font-size="36" font-style="italic" fill="#5A416F">Cápsulas blandas</text>
+    <rect x="430" y="368" width="770" height="2" fill="#33214A" opacity="0.4"/>
+    <g font-family="'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="600" fill="#352447">
+      <text x="430" y="462">Te dormís en 20 minutos</text>
+      <text x="430" y="540">Formulado para mujeres</text>
+      <text x="430" y="618">Baja la ansiedad nocturna</text>
+      <text x="430" y="696">9 activos · sin resaca</text>
+    </g>
+    <text x="430" y="824" font-family="'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="600" fill="#33214A">60 Cápsulas · Suplemento dietario</text>
+  </g>
+</svg>

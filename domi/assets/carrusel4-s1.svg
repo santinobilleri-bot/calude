@@ -1,0 +1,14 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#31204A"/><stop offset="1" stop-color="#1F1430"/></linearGradient>
+    <g id="star"><polygon points="0,-22 5.1,-7 21,-6.8 8.1,2.7 13,17.8 0,8.6 -13,17.8 -8.1,2.7 -21,-6.8 -5.1,-7" fill="#E6B45A"/></g>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bgp)"/>
+  <circle cx="900" cy="160" r="58" fill="#C9B3E6"/><circle cx="936" cy="140" r="48" fill="#2A1B3D"/>
+  <g><use href="#star" x="420" y="470"/><use href="#star" x="480" y="470"/><use href="#star" x="540" y="470"/><use href="#star" x="600" y="470"/><use href="#star" x="660" y="470"/></g>
+  <text x="540" y="640" text-anchor="middle" font-family="Georgia,serif" font-size="76" font-weight="700" fill="#F5EFE6">Lo que dicen las</text>
+  <text x="540" y="726" text-anchor="middle" font-family="Georgia,serif" font-size="76" font-weight="700" fill="#C9B3E6">que ya duermen</text>
+  <text x="540" y="812" text-anchor="middle" font-family="Georgia,serif" font-size="76" font-weight="700" fill="#C9B3E6">con domi</text>
+  <text x="540" y="900" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" fill="#CBBEDD">Reseñas reales de clientas 💜</text>
+  <text x="540" y="1230" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="38" font-weight="600" fill="#C9B3E6">Deslizá ›››</text>
+</svg>

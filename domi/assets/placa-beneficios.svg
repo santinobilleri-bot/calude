@@ -1,0 +1,93 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#31204A"/>
+      <stop offset="1" stop-color="#1F1430"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B07A38"/>
+      <stop offset="0.5" stop-color="#8A4F1E"/>
+      <stop offset="1" stop-color="#6E3D17"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1080" fill="url(#bgp)"/>
+  <!-- luna decorativa sutil -->
+  <circle cx="980" cy="120" r="150" fill="#FFFFFF" opacity="0.04"/>
+  <circle cx="930" cy="95" r="150" fill="#31204A" opacity="0.5"/>
+
+  <!-- HEADLINE -->
+  <text x="64" y="135" font-family="Georgia,serif" font-size="54" font-weight="700" fill="#F5EFE6">Tu cuerpo pide descanso.</text>
+  <text x="64" y="200" font-family="Georgia,serif" font-size="54" font-weight="700" fill="#C9B3E6">Tu mente no lo permite.</text>
+  <text x="66" y="256" font-family="'Helvetica Neue',Arial,sans-serif" font-size="27" fill="#CBBEDD">Una cápsula por día calma la mente y favorece</text>
+  <text x="66" y="294" font-family="'Helvetica Neue',Arial,sans-serif" font-size="27" fill="#CBBEDD">el sueño profundo. Sin generar dependencia.</text>
+
+  <!-- ====== TARJETAS DE BENEFICIOS (izquierda) ====== -->
+  <!-- Card 1 -->
+  <g>
+    <rect x="64" y="360" width="560" height="130" rx="22" fill="#FFFFFF" opacity="0.07"/>
+    <circle cx="140" cy="425" r="44" fill="#B7A6C9"/>
+    <circle cx="134" cy="425" r="24" fill="#31204A"/><circle cx="146" cy="419" r="21" fill="#B7A6C9"/>
+    <text x="210" y="416" font-family="'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" fill="#F5EFE6">Conciliación rápida</text>
+    <text x="210" y="454" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#CBBEDD">Calma la mente antes de dormir</text>
+  </g>
+  <!-- Card 2 -->
+  <g>
+    <rect x="64" y="510" width="560" height="130" rx="22" fill="#FFFFFF" opacity="0.07"/>
+    <circle cx="140" cy="575" r="44" fill="#B7A6C9"/>
+    <text x="116" y="567" font-family="Georgia,serif" font-size="30" font-weight="700" fill="#31204A">z</text>
+    <text x="136" y="588" font-family="Georgia,serif" font-size="38" font-weight="700" fill="#31204A">Z</text>
+    <text x="210" y="566" font-family="'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" fill="#F5EFE6">Descanso continuo</text>
+    <text x="210" y="604" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#CBBEDD">Reduce los despertares nocturnos</text>
+  </g>
+  <!-- Card 3 -->
+  <g>
+    <rect x="64" y="660" width="560" height="130" rx="22" fill="#FFFFFF" opacity="0.07"/>
+    <circle cx="140" cy="725" r="44" fill="#B7A6C9"/>
+    <circle cx="140" cy="725" r="18" fill="#31204A"/>
+    <g stroke="#31204A" stroke-width="4" stroke-linecap="round">
+      <line x1="140" y1="690" x2="140" y2="698"/><line x1="140" y1="752" x2="140" y2="760"/>
+      <line x1="105" y1="725" x2="113" y2="725"/><line x1="167" y1="725" x2="175" y2="725"/>
+      <line x1="116" y1="701" x2="121" y2="706"/><line x1="159" y1="744" x2="164" y2="749"/>
+      <line x1="159" y1="706" x2="164" y2="701"/><line x1="116" y1="749" x2="121" y2="744"/>
+    </g>
+    <text x="210" y="716" font-family="'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" fill="#F5EFE6">Despertar reparador</text>
+    <text x="210" y="754" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#CBBEDD">Sin somnolencia ni resaca</text>
+  </g>
+  <!-- Card 4 -->
+  <g>
+    <rect x="64" y="810" width="560" height="130" rx="22" fill="#FFFFFF" opacity="0.07"/>
+    <circle cx="140" cy="875" r="44" fill="#B7A6C9"/>
+    <path d="M140 848 C112 862 112 894 140 902 C168 894 168 862 140 848 Z" fill="#31204A"/>
+    <line x1="140" y1="858" x2="140" y2="898" stroke="#B7A6C9" stroke-width="3"/>
+    <text x="210" y="866" font-family="'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" fill="#F5EFE6">Fórmula natural y segura</text>
+    <text x="210" y="904" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#CBBEDD">9 activos · sin dependencia</text>
+  </g>
+
+  <!-- ====== PRODUCTO (derecha) ====== -->
+  <g>
+    <!-- sombra -->
+    <ellipse cx="850" cy="950" rx="150" ry="26" fill="#000000" opacity="0.25"/>
+    <!-- tapa -->
+    <rect x="772" y="392" width="156" height="58" rx="14" fill="#241F2B"/>
+    <rect x="784" y="382" width="132" height="20" rx="8" fill="#2E2836"/>
+    <!-- cuerpo ambar -->
+    <rect x="752" y="448" width="196" height="468" rx="40" fill="url(#amber)"/>
+    <rect x="772" y="470" width="20" height="420" rx="10" fill="#E0B47C" opacity="0.35"/>
+    <!-- etiqueta -->
+    <rect x="752" y="556" width="196" height="248" rx="6" fill="#B7A6C9"/>
+    <text x="788" y="690" transform="rotate(-90 788 690)" text-anchor="middle" font-family="Georgia,serif" font-size="76" font-weight="700" fill="#F5EFE6" letter-spacing="2">domi</text>
+    <text x="828" y="600" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#31204A">ACTIVADOR</text>
+    <text x="828" y="624" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#31204A">DEL SUEÑO</text>
+    <line x1="828" y1="644" x2="930" y2="644" stroke="#31204A" stroke-width="1.5" opacity="0.5"/>
+    <text x="828" y="690" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#3A2A50">Sueño profundo</text>
+    <text x="828" y="716" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#3A2A50">Menos ansiedad</text>
+    <text x="828" y="742" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#3A2A50">Sin resaca</text>
+    <!-- softgels -->
+    <ellipse cx="770" cy="946" rx="26" ry="15" fill="url(#amber)" transform="rotate(-20 770 946)"/>
+    <ellipse cx="812" cy="956" rx="26" ry="15" fill="url(#amber)" transform="rotate(10 812 956)"/>
+  </g>
+
+  <!-- footer -->
+  <text x="540" y="1030" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#9C8BB5">domi · para la mente femenina que no se apaga</text>
+</svg>

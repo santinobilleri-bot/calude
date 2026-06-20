@@ -1,0 +1,29 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#31204A"/><stop offset="1" stop-color="#1F1430"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bgp)"/>
+  <circle cx="900" cy="150" r="58" fill="#C9B3E6"/><circle cx="936" cy="130" r="48" fill="#2A1B3D"/>
+  <text x="90" y="220" font-family="Georgia,serif" font-size="72" font-weight="700" fill="#F5EFE6">Esto tomás</text>
+  <text x="90" y="304" font-family="Georgia,serif" font-size="72" font-weight="700" fill="#C9B3E6">cada noche</text>
+  <text x="92" y="362" font-family="'Helvetica Neue',Arial,sans-serif" font-size="32" fill="#CBBEDD">9 activos naturales · una sola cápsula</text>
+
+  <g font-family="'Helvetica Neue',Arial,sans-serif" font-size="40" fill="#F5EFE6">
+    <text x="90" y="470">Melatonina</text><text x="990" y="470" text-anchor="end" font-weight="700">2 mg</text>
+    <line x1="90" y1="500" x2="990" y2="500" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+    <text x="90" y="560">L-teanina</text><text x="990" y="560" text-anchor="end" font-weight="700">100 mg</text>
+    <line x1="90" y1="590" x2="990" y2="590" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+    <text x="90" y="650">GABA</text><text x="990" y="650" text-anchor="end" font-weight="700">100 mg</text>
+    <line x1="90" y1="680" x2="990" y2="680" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+    <text x="90" y="740">Glicina</text><text x="990" y="740" text-anchor="end" font-weight="700">100 mg</text>
+    <line x1="90" y1="770" x2="990" y2="770" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+    <text x="90" y="830">Magnesio bisglicinato</text><text x="990" y="830" text-anchor="end" font-weight="700">100 mg</text>
+    <line x1="90" y1="860" x2="990" y2="860" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+    <text x="90" y="920">Pasiflora</text><text x="990" y="920" text-anchor="end" font-weight="700">100 mg</text>
+    <line x1="90" y1="950" x2="990" y2="950" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+    <text x="90" y="1010">Valeriana</text><text x="990" y="1010" text-anchor="end" font-weight="700">100 mg</text>
+    <line x1="90" y1="1040" x2="990" y2="1040" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+    <text x="90" y="1100">Ashwagandha</text><text x="990" y="1100" text-anchor="end" font-weight="700">120 mg</text>
+    <line x1="90" y1="1130" x2="990" y2="1130" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+    <text x="90" y="1190">Vitamina B6</text><text x="990" y="1190" text-anchor="end" font-weight="700">1,4 mg</text>
+  </g>
+  <text x="540" y="1290" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="28" fill="#8B7BA5">Deslizá para ver qué hace cada uno ›››</text>
+</svg>

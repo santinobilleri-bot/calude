@@ -1,0 +1,70 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#31204A"/><stop offset="1" stop-color="#1F1430"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B07A38"/><stop offset="0.5" stop-color="#8A4F1E"/><stop offset="1" stop-color="#6E3D17"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8E6FB0"/><stop offset="1" stop-color="#E9B89C"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1080" fill="url(#bgp)"/>
+  <circle cx="980" cy="110" r="150" fill="#FFFFFF" opacity="0.04"/>
+  <circle cx="930" cy="86" r="150" fill="#31204A" opacity="0.5"/>
+
+  <!-- HEADLINE -->
+  <text x="72" y="138" font-family="Georgia,serif" font-size="60" font-weight="700" fill="#F5EFE6">Así es tu noche</text>
+  <text x="72" y="206" font-family="Georgia,serif" font-size="60" font-weight="700" fill="#C9B3E6">con domi.</text>
+  <text x="74" y="252" font-family="'Helvetica Neue',Arial,sans-serif" font-size="27" fill="#CBBEDD">De la primera cápsula al buen despertar.</text>
+
+  <!-- LINEA TIMELINE -->
+  <rect x="126" y="350" width="6" height="470" rx="3" fill="url(#line)"/>
+  <!-- luna arriba -->
+  <circle cx="129" cy="322" r="22" fill="#C9B3E6"/><circle cx="139" cy="316" r="18" fill="#31204A"/>
+  <!-- sol abajo -->
+  <circle cx="129" cy="848" r="16" fill="#E9B89C"/>
+  <g stroke="#E9B89C" stroke-width="3" stroke-linecap="round">
+    <line x1="129" y1="818" x2="129" y2="826"/><line x1="129" y1="870" x2="129" y2="878"/>
+    <line x1="99" y1="848" x2="107" y2="848"/><line x1="151" y1="848" x2="159" y2="848"/>
+  </g>
+
+  <!-- NODOS -->
+  <g>
+    <circle cx="129" cy="380" r="14" fill="#C9B3E6"/>
+    <text x="190" y="372" font-family="Georgia,serif" font-size="44" font-weight="700" fill="#C9B3E6">23:00</text>
+    <text x="190" y="410" font-family="'Helvetica Neue',Arial,sans-serif" font-size="29" font-weight="600" fill="#F5EFE6">Tomás tu cápsula</text>
+  </g>
+  <g>
+    <circle cx="129" cy="524" r="14" fill="#C9B3E6"/>
+    <text x="190" y="516" font-family="Georgia,serif" font-size="44" font-weight="700" fill="#C9B3E6">23:25</text>
+    <text x="190" y="554" font-family="'Helvetica Neue',Arial,sans-serif" font-size="29" font-weight="600" fill="#F5EFE6">Se apaga la mente</text>
+  </g>
+  <g>
+    <circle cx="129" cy="668" r="14" fill="#C9B3E6"/>
+    <text x="190" y="660" font-family="Georgia,serif" font-size="44" font-weight="700" fill="#C9B3E6">03:00</text>
+    <text x="190" y="698" font-family="'Helvetica Neue',Arial,sans-serif" font-size="29" font-weight="600" fill="#F5EFE6">Seguís durmiendo</text>
+  </g>
+  <g>
+    <circle cx="129" cy="812" r="14" fill="#E9B89C"/>
+    <text x="190" y="804" font-family="Georgia,serif" font-size="44" font-weight="700" fill="#E9B89C">07:00</text>
+    <text x="190" y="842" font-family="'Helvetica Neue',Arial,sans-serif" font-size="29" font-weight="600" fill="#F5EFE6">Despertás descansada</text>
+  </g>
+
+  <!-- PRODUCTO (derecha) -->
+  <g>
+    <ellipse cx="858" cy="730" rx="120" ry="22" fill="#000000" opacity="0.22"/>
+    <rect x="788" y="392" width="140" height="46" rx="12" fill="#241F2B"/>
+    <rect x="772" y="438" width="176" height="300" rx="34" fill="url(#amber)"/>
+    <rect x="788" y="456" width="16" height="262" rx="8" fill="#E0B47C" opacity="0.35"/>
+    <rect x="772" y="520" width="176" height="150" rx="6" fill="#B7A6C9"/>
+    <text x="806" y="612" transform="rotate(-90 806 612)" text-anchor="middle" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#F5EFE6">domi</text>
+    <text x="846" y="566" font-family="'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#31204A">ACTIVADOR</text>
+    <text x="846" y="588" font-family="'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#31204A">DEL SUEÑO</text>
+  </g>
+
+  <!-- firma -->
+  <text x="540" y="1012" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="25" fill="#9C8BB5">domi · activador del sueño · una cápsula por noche</text>
+</svg>
