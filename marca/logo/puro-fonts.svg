@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1560" viewBox="0 0 1200 1560">
+  <defs>
+    <linearGradient id="navy" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#15314f"/><stop offset="1" stop-color="#0c1d30"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1560" fill="url(#navy)"/>
+  <text x="600" y="64" text-anchor="middle" font-family="Outfit" font-size="26" letter-spacing="3" fill="#7f94aa" font-weight="700">PÚRO · elegí la tipografía</text>
+
+  <!-- 1 Marcellus -->
+  <g transform="translate(600,180)" text-anchor="middle">
+    <text y="-78" font-family="Outfit" font-size="20" letter-spacing="4" style="fill:#6f86a0" font-weight="700">1 · MARCELLUS</text>
+    <text y="14" font-family="Marcellus" font-size="118" letter-spacing="10" fill="#F2EFE9">PÚRO</text>
+    <text y="62" font-family="Outfit" font-size="22" letter-spacing="16" fill="#c2703d" font-weight="600">VITALITY</text>
+  </g>
+  <!-- 2 Italiana -->
+  <g transform="translate(600,400)" text-anchor="middle">
+    <text y="-78" font-family="Outfit" font-size="20" letter-spacing="4" style="fill:#6f86a0" font-weight="700">2 · ITALIANA</text>
+    <text y="14" font-family="Italiana" font-size="126" letter-spacing="10" fill="#F2EFE9">PÚRO</text>
+    <text y="62" font-family="Outfit" font-size="22" letter-spacing="16" fill="#c2703d" font-weight="600">VITALITY</text>
+  </g>
+  <!-- 3 Spectral -->
+  <g transform="translate(600,620)" text-anchor="middle">
+    <text y="-78" font-family="Outfit" font-size="20" letter-spacing="4" style="fill:#6f86a0" font-weight="700">3 · SPECTRAL</text>
+    <text y="14" font-family="Spectral" font-size="112" letter-spacing="6" fill="#F2EFE9" font-weight="600">PÚRO</text>
+    <text y="62" font-family="Outfit" font-size="22" letter-spacing="16" fill="#c2703d" font-weight="600">VITALITY</text>
+  </g>
+  <!-- 4 Poiret One -->
+  <g transform="translate(600,840)" text-anchor="middle">
+    <text y="-78" font-family="Outfit" font-size="20" letter-spacing="4" style="fill:#6f86a0" font-weight="700">4 · POIRET ONE</text>
+    <text y="14" font-family="Poiret One" font-size="118" letter-spacing="12" fill="#F2EFE9">PÚRO</text>
+    <text y="62" font-family="Outfit" font-size="22" letter-spacing="16" fill="#c2703d" font-weight="600">VITALITY</text>
+  </g>
+  <!-- 5 Jost -->
+  <g transform="translate(600,1060)" text-anchor="middle">
+    <text y="-78" font-family="Outfit" font-size="20" letter-spacing="4" style="fill:#6f86a0" font-weight="700">5 · JOST (sans, tipo MenLab)</text>
+    <text y="14" font-family="Jost" font-size="112" letter-spacing="14" fill="#F2EFE9" font-weight="500">PÚRO</text>
+    <text y="62" font-family="Outfit" font-size="22" letter-spacing="16" fill="#c2703d" font-weight="600">VITALITY</text>
+  </g>
+  <!-- 6 Outfit -->
+  <g transform="translate(600,1280)" text-anchor="middle">
+    <text y="-78" font-family="Outfit" font-size="20" letter-spacing="4" style="fill:#6f86a0" font-weight="700">6 · OUTFIT (sans, tipo MenLab)</text>
+    <text y="14" font-family="Outfit" font-size="108" letter-spacing="12" fill="#F2EFE9" font-weight="600">PÚRO</text>
+    <text y="62" font-family="Outfit" font-size="22" letter-spacing="16" fill="#c2703d" font-weight="600">VITALITY</text>
+  </g>
+
+  <text x="600" y="1430" text-anchor="middle" font-family="Outfit" font-size="22" style="fill:#6f86a0" font-weight="600">Decime el número y lo dejo como logo final (con el acento en cobre)</text>
+</svg>
