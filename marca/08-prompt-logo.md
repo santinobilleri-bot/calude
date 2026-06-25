@@ -25,3 +25,21 @@ Vector, sharp, perfectly legible text, high contrast, professional brand identit
 **Tips:** lo más difícil es el acento sobre la Ú y que escriba "PURO" bien. Si sale mal, regeneralo o pedí "keep the text exactly PURO with a copper accent over the U". Para variantes: agregá "give me 3 variations".
 
 > Nota: en `logo/puro-logo.svg` hay una versión **vectorial editable** ya hecha (logo principal, horizontal, avatar y negativo).
+
+---
+
+## Logo final · letras azul + acento cobre + fondo blanco
+
+```
+Create a clean, minimalist wordmark logo for a men's vitality supplement brand. JUST the text, nothing else — no icon, no badge, no tagline, no background graphics.
+
+TEXT: the single word "PÚRO" in uppercase.
+
+TYPEFACE: a modern, geometric, slightly rounded sans-serif (like Outfit / Poppins / Futura), bold weight, with generous, even letter-spacing. Clean, premium, masculine but elegant.
+
+COLORS: all letters in deep navy blue (#1C3A5E). The acute accent mark over the "U" — making it "PÚRO" — must be in COPPER / burnt-orange (#C2703D). The copper accent is the only differently-colored element.
+
+BACKGROUND: solid pure white, flat, no shadows, no gradients, no texture.
+
+STYLE: flat vector logo, perfectly centered, sharp crisp edges, high resolution, professional brand identity, logotype only. The text must read exactly P-U-R-O with only the accent over the U colored copper. Square 1:1.
+```
