@@ -110,9 +110,12 @@ Igual que v4, pero cambiá el bullet del medio:
 ```
 - three white bullets:
    • Más energía y vitalidad
-   • Acompaña el metabolismo de las grasas
+   • Apoya el metabolismo y la figura
    • Formulado para hombres
 ```
+
+Otras opciones para el bullet del medio (sin la palabra "grasa"):
+"Favorece un metabolismo activo" · "Metabolismo activo, cuerpo firme" · "Acompaña tu metabolismo masculino" · "Para recuperar la figura"
 
 > En el frasco NO usar "baja de peso / quema grasa / adelgaza" (claim de medicamento → rechazo ANMAT). Esos mensajes van en ads/web, no en el rótulo.
 
