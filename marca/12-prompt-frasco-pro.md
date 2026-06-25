@@ -79,6 +79,28 @@ STYLE: minimalist, elegant, masculine, premium men's-health look. Clean seamless
 
 > Claves de esta versión: **(1)** "no gold, no copper, no colored lines/frames" repetido → saca el dorado. **(2)** acento descrito como un solo trazo diagonal prolijo → deja de salir feo. **(3)** "the bottle fills most of the frame" → frasco protagonista.
 
+---
+
+## ✅ VERSIÓN v4 — misma info, etiqueta MÁS LLAMATIVA (sigue todo azul)
+
+```
+Tight, premium studio product photo of ONE single men's supplement bottle. ONLY the bottle, hero, filling most of the frame, centered. Vertical 4:5.
+
+BOTTLE: real AMBER GLASS (warm honey / caramel brown, translucent, capsules visible), matte black cap.
+
+LABEL — keep ALL the same text and layout as before, but make the DESIGN more striking and eye-catching, while staying strictly in a BLUE + WHITE palette (NO gold, NO copper, NO orange):
+- Use TWO shades of blue for depth: a deep navy (#10243B) base with a brighter ELECTRIC / COBALT BLUE (#2E6BD6) accent.
+- A bold cobalt-blue band or angled panel behind the brand name to make "PÚRO" pop.
+- Subtle tonal pattern in the navy background (very faint geometric / topographic lines, darker-on-navy) for texture and a premium feel.
+- "PÚRO" in glossy embossed WHITE, bold italic uppercase, large, with a clean single white accent over the U (crisp, not distorted).
+- Soft inner glow / subtle gradient on the label so it looks dimensional, not flat.
+- Keep the white texts exactly: "VITALIDAD MASCULINA NATURAL"; bullets "Más energía y vitalidad / Apoya el metabolismo / Formulado para hombres"; line "Maca · Ashwagandha · Zinc · Magnesio · Vitamina D"; bottom "Suplemento Dietario" + "60 Cápsulas".
+
+STYLE: premium, masculine, modern, high-contrast and eye-catching but elegant. Clean seamless soft white background, soft shadow, warm glow through the amber glass. Photorealistic, ultra-sharp legible text, 4K. Blue-and-white only, two-tone blue for visual punch.
+```
+
+> Idea: el **azul eléctrico de contraste + relieve + textura tonal** hace que la etiqueta "salte" sin perder lo premium ni meter dorado. Si lo querés todavía más fuerte, agregá *"a diagonal cobalt-blue stripe across the label"*.
+
 ## Variantes rápidas
 - **Aún más natural:** cambiá la etiqueta a *"matte deep forest-green (#1C3B2E) label with copper accents and kraft-paper texture"*.
 - **Para mobile/hero:** repetí en **1:1** o **4:5**, frasco centrado y un poco de aire arriba.
