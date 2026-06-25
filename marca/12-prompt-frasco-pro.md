@@ -101,6 +101,21 @@ STYLE: premium, masculine, modern, high-contrast and eye-catching but elegant. C
 
 > Idea: el **azul eléctrico de contraste + relieve + textura tonal** hace que la etiqueta "salte" sin perder lo premium ni meter dorado. Si lo querés todavía más fuerte, agregá *"a diagonal cobalt-blue stripe across the label"*.
 
+---
+
+## ✅ v5 — mismo diseño v4, bullet de metabolismo apuntando al peso (ANMAT-safe)
+
+Igual que v4, pero cambiá el bullet del medio:
+
+```
+- three white bullets:
+   • Más energía y vitalidad
+   • Acompaña el metabolismo de las grasas
+   • Formulado para hombres
+```
+
+> En el frasco NO usar "baja de peso / quema grasa / adelgaza" (claim de medicamento → rechazo ANMAT). Esos mensajes van en ads/web, no en el rótulo.
+
 ## Variantes rápidas
 - **Aún más natural:** cambiá la etiqueta a *"matte deep forest-green (#1C3B2E) label with copper accents and kraft-paper texture"*.
 - **Para mobile/hero:** repetí en **1:1** o **4:5**, frasco centrado y un poco de aire arriba.
