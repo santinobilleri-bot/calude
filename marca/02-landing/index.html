@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PÚRO Vitality Boost — Volvé a sentirte el hombre que eras</title>
+<meta name="description" content="PÚRO Vitality Boost: suplemento natural para hombres +40. El Sistema T6 (Maca, Tongkat Ali, Zinc, B6, D3, Magnesio) para recuperar energía, firmeza y deseo. 1 cápsula al día.">
+<style>
+  :root{
+    --negro:#0E0E0E; --carbon:#161616; --panel:#1c1c1c; --oro:#C9A24B; --oro2:#e8c97a;
+    --hueso:#F2EFE9; --verde:#1C3B2E; --gris:#9a9a93;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{font-family:'Helvetica Neue',Arial,sans-serif;background:var(--negro);color:var(--hueso);line-height:1.6}
+  h1,h2,h3{font-family:'Arial Black','Helvetica Neue',Arial,sans-serif;font-weight:900;line-height:1.05;text-transform:uppercase;letter-spacing:.5px}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+  .gold{color:var(--oro)}
+  .btn{display:inline-block;background:linear-gradient(180deg,var(--oro2),var(--oro));color:#1a1306;
+       text-decoration:none;font-weight:800;text-transform:uppercase;letter-spacing:1px;
+       padding:18px 38px;border-radius:8px;border:none;cursor:pointer;font-size:1rem;
+       box-shadow:0 10px 30px rgba(201,162,75,.3);transition:transform .15s}
+  .btn:hover{transform:translateY(-2px)}
+  .btn-lg{font-size:1.15rem;padding:22px 50px}
+
+  .topbar{background:var(--oro);color:#1a1306;text-align:center;font-size:.82rem;font-weight:700;padding:9px;letter-spacing:.5px;text-transform:uppercase}
+
+  /* HERO */
+  header{padding:64px 0 80px;text-align:center;
+    background:radial-gradient(ellipse at top,#222 0,var(--negro) 60%)}
+  .brand{font-family:'Arial Black',Arial,sans-serif;font-weight:900;font-size:2rem;letter-spacing:8px;color:var(--oro)}
+  .brand small{display:block;font-size:.7rem;letter-spacing:6px;color:var(--hueso);font-weight:600;margin-top:4px}
+  header h1{font-size:3rem;margin:26px auto 18px;max-width:780px}
+  header h1 em{font-style:normal;color:var(--oro)}
+  header p.sub{font-size:1.2rem;max-width:640px;margin:0 auto 30px;color:#d6d3cc}
+  .badges{margin-top:26px;display:flex;gap:26px;justify-content:center;flex-wrap:wrap;font-size:.85rem;color:var(--gris);text-transform:uppercase;letter-spacing:1px}
+  .badges span::before{content:"✦ ";color:var(--oro)}
+
+  section{padding:62px 0}
+  .alt{background:var(--carbon)}
+  h2{font-size:2rem;text-align:center;margin-bottom:14px}
+  h2 .gold{color:var(--oro)}
+  .lead{text-align:center;max-width:680px;margin:0 auto 42px;font-size:1.08rem;color:#c8c5be}
+
+  .grid{display:grid;gap:20px}
+  .g4{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+  .g3{grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+  .g2{grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
+
+  .card{background:var(--panel);border:1px solid #2a2a2a;border-radius:14px;padding:24px}
+  .card h3{font-size:1.05rem;color:var(--oro);margin-bottom:8px;letter-spacing:.5px}
+  .card p{color:#bdbab3;font-size:.96rem}
+
+  /* stats */
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:24px;text-align:center}
+  .stat .n{font-family:'Arial Black',Arial,sans-serif;font-size:3.4rem;color:var(--oro);line-height:1}
+  .stat p{color:#d6d3cc;margin-top:8px}
+  .src{text-align:center;color:var(--gris);font-size:.78rem;margin-top:26px;font-style:italic}
+
+  /* ingredientes / sistema T6 */
+  .ingr{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}
+  .ing{background:var(--panel);border-left:3px solid var(--oro);border-radius:10px;padding:18px 20px}
+  .ing h3{color:var(--hueso);font-size:1rem;margin-bottom:4px}
+  .ing p{color:#a9a69f;font-size:.9rem}
+
+  .steps{counter-reset:s}
+  .step{position:relative;padding-left:64px;margin-bottom:24px}
+  .step::before{counter-increment:s;content:counter(s);position:absolute;left:0;top:0;
+    width:44px;height:44px;background:var(--oro);color:#1a1306;border-radius:50%;
+    display:flex;align-items:center;justify-content:center;font-weight:900;font-size:1.3rem;font-family:'Arial Black',Arial}
+  .step h3{color:var(--oro);font-size:1.05rem}
+  .step p{color:#bdbab3}
+
+  /* pricing */
+  .pricing{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:22px;align-items:stretch}
+  .plan{background:var(--panel);border:1px solid #2a2a2a;border-radius:16px;padding:28px;text-align:center;position:relative}
+  .plan.best{border:2px solid var(--oro);box-shadow:0 14px 40px rgba(201,162,75,.18)}
+  .plan .tag{position:absolute;top:-13px;left:50%;transform:translateX(-50%);background:var(--oro);color:#1a1306;font-size:.72rem;font-weight:800;padding:4px 16px;border-radius:999px;text-transform:uppercase;letter-spacing:1px;white-space:nowrap}
+  .plan h3{font-size:1.2rem;color:var(--hueso)}
+  .price{font-family:'Arial Black',Arial;font-size:2.4rem;color:var(--oro);margin:10px 0}
+  .price small{display:block;font-size:.95rem;color:var(--gris);text-decoration:line-through;font-family:Arial}
+
+  .quote{background:var(--panel);border:1px solid #2a2a2a;border-radius:14px;padding:24px}
+  .quote .stars{color:var(--oro);letter-spacing:2px}
+  .quote p{color:#cfccc5;font-style:italic;margin:8px 0}
+  .quote footer{color:var(--oro);font-weight:700;font-size:.88rem}
+  .ph{outline:2px dashed var(--oro);outline-offset:4px}
+
+  details{background:var(--panel);border:1px solid #2a2a2a;border-radius:12px;margin-bottom:12px;padding:2px 20px}
+  summary{cursor:pointer;font-weight:700;padding:16px 0;color:var(--oro)}
+  details p{padding-bottom:16px;color:#bdbab3}
+
+  .guarantee{background:linear-gradient(135deg,#1f1a0d,#0E0E0E);border:1px solid var(--oro);border-radius:18px;padding:42px;text-align:center}
+
+  footer.site{background:#080808;color:#76736c;font-size:.8rem;padding:40px 0;text-align:center}
+  footer.site p{max-width:780px;margin:0 auto 10px}
+
+  @media(max-width:600px){header h1{font-size:2.1rem}h2{font-size:1.6rem}.stat .n{font-size:2.6rem}}
+</style>
+</head>
+<body>
+
+<div class="topbar">🔥 Envío gratis a todo el país en el pack de 3 · Caja discreta</div>
+
+<header>
+  <div class="wrap">
+    <div class="brand">PÚRO<small>VITALITY BOOST</small></div>
+    <h1>Volvé a sentirte <em>el hombre que eras</em></h1>
+    <p class="sub">El <strong>Sistema T6</strong> ataca las 3 cosas que te apagaron: energía baja, eje masculino caído y cero ganas. Natural. 1 cápsula al día.</p>
+    <a href="#oferta" class="btn btn-lg">Quiero volver a ser yo</a>
+    <div class="badges">
+      <span>6 ingredientes naturales</span>
+      <span>Formulado para hombres</span>
+      <span>1 cápsula al día</span>
+    </div>
+  </div>
+</header>
+
+<!-- PROBLEMA -->
+<section>
+  <div class="wrap">
+    <h2>No es la edad. <span class="gold">Es tu cuerpo pidiendo apoyo.</span></h2>
+    <p class="lead">Si pasaste los 40 y esto te suena, no estás solo — y tiene solución.</p>
+    <div class="grid g4">
+      <div class="card"><h3>La panza no afloja</h3><p>Entrenás, comés más o menos bien, y seguís sintiéndote pesado y blando.</p></div>
+      <div class="card"><h3>El pecho se ablandó</h3><p>Te incomoda sacarte la remera. No te reconocés del todo en el espejo.</p></div>
+      <div class="card"><h3>Cero energía</h3><p>Llegás a la tarde fundido. Te cuesta arrancar y rendir como antes.</p></div>
+      <div class="card"><h3>Bajaron las ganas</h3><p>El deseo no es el de antes. Y eso te pesa más de lo que admitís.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- STATS (datos reales del cliente) -->
+<section class="alt">
+  <div class="wrap">
+    <h2>Los hombres que lo usan, <span class="gold">lo notan</span></h2>
+    <div class="stats">
+      <div class="stat"><div class="n">93%</div><p>redujeron pecho blando y grasa abdominal en 3 meses</p></div>
+      <div class="stat"><div class="n">91%</div><p>experimentaron aumento de masa muscular en al menos dos grupos</p></div>
+      <div class="stat"><div class="n">89%</div><p>sintieron que su vitalidad había mejorado significativamente</p></div>
+    </div>
+    <p class="src">*Encuesta a 847 usuarios — 90 días de uso. Los resultados pueden variar de persona a persona.</p>
+  </div>
+</section>
+
+<!-- SISTEMA T6 / INGREDIENTES -->
+<section>
+  <div class="wrap">
+    <h2>El <span class="gold">Sistema T6</span></h2>
+    <p class="lead">6 ingredientes naturales que trabajan en 3 frentes a la vez. Por eso PÚRO se siente distinto.</p>
+    <div class="ingr">
+      <div class="ing"><h3>Maca Peruana</h3><p>Apoya la energía, la resistencia y el deseo, ayudando al equilibrio hormonal masculino.</p></div>
+      <div class="ing"><h3>Tongkat Ali</h3><p>Acompaña la vitalidad masculina, el rendimiento físico y el empuje.</p></div>
+      <div class="ing"><h3>Vitamina B6</h3><p>Contribuye al metabolismo energético normal y a reducir la fatiga.</p></div>
+      <div class="ing"><h3>Vitamina D3</h3><p>Apoya el sistema inmune y el equilibrio del organismo masculino.</p></div>
+      <div class="ing"><h3>Zinc</h3><p>Contribuye al mantenimiento de niveles normales de testosterona y a la recuperación.</p></div>
+      <div class="ing"><h3>Magnesio</h3><p>Favorece la energía sostenida y ayuda a reducir la fatiga.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- CÓMO FUNCIONA -->
+<section class="alt">
+  <div class="wrap">
+    <h2>Tan simple como <span class="gold">esto</span></h2>
+    <div class="grid g3" style="margin-top:30px">
+      <div class="step"><h3>Tomá 1 cápsula</h3><p>Por la mañana, con un vaso de agua. Sin rutinas imposibles.</p></div>
+      <div class="step"><h3>Seguí tu día</h3><p>El Sistema T6 acompaña tu vitalidad sin que cambies todo.</p></div>
+      <div class="step"><h3>Sentí la diferencia</h3><p>Día a día, recuperás energía, firmeza y ganas.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- OFERTA -->
+<section id="oferta">
+  <div class="wrap">
+    <h2>Elegí tu <span class="gold">tratamiento</span></h2>
+    <p class="lead">La transformación no es de una semana. La mayoría arranca con el pack de 3 meses.</p>
+    <div class="pricing">
+      <div class="plan">
+        <h3>1 Mes</h3>
+        <div class="price">$[PRECIO1]</div>
+        <p>Probá el Sistema T6.</p>
+        <a href="#" class="btn">Comprar</a>
+      </div>
+      <div class="plan best">
+        <div class="tag">★ Más elegido · Envío gratis</div>
+        <h3>3 Meses</h3>
+        <div class="price"><small>$[TACHADO]</small>$[PRECIO3]</div>
+        <p>Tratamiento completo + mejor precio por frasco.</p>
+        <a href="#" class="btn">Lo quiero</a>
+      </div>
+      <div class="plan">
+        <h3>2 Meses</h3>
+        <div class="price">$[PRECIO2]</div>
+        <p>El equilibrio justo.</p>
+        <a href="#" class="btn">Comprar</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TESTIMONIOS -->
+<section class="alt">
+  <div class="wrap">
+    <h2>De panza pesada a <span class="gold">cuerpo liviano y firme</span></h2>
+    <p class="lead ph">⚠️ PLACEHOLDER: pegá acá los testimonios REALES con consentimiento (texto + foto). No inventar.</p>
+    <div class="grid g3">
+      <div class="quote"><div class="stars">★★★★★</div><p>"[Testimonio real]"</p><footer>— [Nombre], [Ciudad]</footer></div>
+      <div class="quote"><div class="stars">★★★★★</div><p>"[Testimonio real]"</p><footer>— [Nombre], [Ciudad]</footer></div>
+      <div class="quote"><div class="stars">★★★★★</div><p>"[Testimonio real]"</p><footer>— [Nombre], [Ciudad]</footer></div>
+    </div>
+  </div>
+</section>
+
+<!-- GARANTÍA -->
+<section>
+  <div class="wrap">
+    <div class="guarantee">
+      <h2>Comprá <span class="gold">tranquilo</span></h2>
+      <p style="max-width:620px;margin:14px auto 28px;color:#d6d3cc">Si no quedás conforme, escribinos dentro de los [X] días y te ayudamos con la devolución según nuestra política. Caja neutra y discreta: nadie sabe qué hay adentro más que vos.</p>
+      <a href="#oferta" class="btn btn-lg">Empezar mi transformación</a>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="alt">
+  <div class="wrap" style="max-width:760px">
+    <h2>Preguntas <span class="gold">frecuentes</span></h2>
+    <details><summary>¿Qué es PÚRO Vitality Boost?</summary><p>Un suplemento dietario natural para hombres, con 6 ingredientes (Sistema T6) que apoyan tu energía, vitalidad y composición corporal.</p></details>
+    <details><summary>¿Cómo se toma?</summary><p>1 cápsula por día con un vaso de agua, preferentemente por la mañana.</p></details>
+    <details><summary>¿En cuánto se notan resultados?</summary><p>Cada cuerpo es distinto. La mayoría lo toma de forma sostenida durante semanas. No es magia: acompaña tus hábitos. (Encuesta a 847 usuarios a 90 días.)</p></details>
+    <details><summary>¿Es seguro? ¿Tiene hormonas?</summary><p>Es natural y sin hormonas. Ante cualquier duda, si tomás medicación, embarazo o lactancia, consultá con tu médico. No reemplaza una dieta variada ni un tratamiento médico.</p></details>
+    <details><summary>¿Cómo llega el pedido?</summary><p>En caja neutra y discreta, a todo el país. [Completar tiempos y costos.]</p></details>
+  </div>
+</section>
+
+<!-- CTA final -->
+<section style="text-align:center">
+  <div class="wrap">
+    <h2>Volvé a <span class="gold">sentirte vos</span></h2>
+    <p class="lead">Energía. Firmeza. Deseo. De forma natural.</p>
+    <a href="#oferta" class="btn btn-lg">Quiero volver a ser yo</a>
+  </div>
+</section>
+
+<footer class="site">
+  <div class="wrap">
+    <p><strong style="color:var(--oro)">PÚRO™ Vitality Boost</strong> · Suplemento dietario. RNPA [Nº] · RNE [Nº].</p>
+    <p>Este producto es un suplemento dietario. No es un medicamento. No reemplaza una alimentación variada y equilibrada. Consultá a tu médico antes de consumirlo. Los resultados pueden variar de persona a persona.</p>
+    <p>© <span id="y"></span> PURO Argentina · Términos · Privacidad · Contacto</p>
+  </div>
+</footer>
+<script>document.getElementById('y').textContent=new Date().getFullYear();</script>
+</body>
+</html>
