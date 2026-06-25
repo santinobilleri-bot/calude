@@ -55,6 +55,30 @@ LIGHTING: soft diffused studio daylight, warm golden rim-light glowing through t
 
 > Si igual te lo hace azul: agregá al inicio **"AMBER glass bottle, brown pharmacy glass like a beer/medicine bottle"** y al final **"the glass is amber brown, never blue"**.
 
+---
+
+## ✅ VERSIÓN v3 — TODO AZUL, sin líneas doradas, acento prolijo, frasco protagonista
+
+```
+Tight, premium studio product photo of ONE single men's supplement bottle. ONLY the bottle — no box, no props. The bottle is the hero and fills most of the frame (close-up, large, centered). Vertical 4:5.
+
+BOTTLE: real AMBER GLASS — warm honey / caramel brown, translucent, dark capsules visible through the glass. Matte black screw cap.
+
+LABEL: matte deep navy-blue (#10243B) wrap-around label. IMPORTANT: the whole design is ONLY navy blue and white — NO gold, NO copper, NO orange, NO colored lines or frames anywhere. No borders. Clean and minimal. Typography in clean white, sharp and legible:
+- BRAND "PÚRO" — big, bold italic uppercase sans-serif, WHITE. The acute accent over the U must be a SINGLE clean, small, well-formed diagonal stroke (slanting up to the right), perfectly centered above the U, white, crisp and elegant — not doubled, not distorted, not a smudge.
+- small white descriptor: "VITALIDAD MASCULINA NATURAL"
+- three white bullets:
+   • Más energía y vitalidad
+   • Apoya el metabolismo
+   • Formulado para hombres
+- small white line: "Maca · Ashwagandha · Zinc · Magnesio · Vitamina D"
+- bottom: "Suplemento Dietario" + "60 Cápsulas"
+
+STYLE: minimalist, elegant, masculine, premium men's-health look. Clean seamless soft white background, bright, soft shadow under the bottle. Soft diffused studio light with a warm glow through the amber glass. Photorealistic, ultra-sharp legible white text, 4K. Monochrome navy-and-white label, no metallic accents.
+```
+
+> Claves de esta versión: **(1)** "no gold, no copper, no colored lines/frames" repetido → saca el dorado. **(2)** acento descrito como un solo trazo diagonal prolijo → deja de salir feo. **(3)** "the bottle fills most of the frame" → frasco protagonista.
+
 ## Variantes rápidas
 - **Aún más natural:** cambiá la etiqueta a *"matte deep forest-green (#1C3B2E) label with copper accents and kraft-paper texture"*.
 - **Para mobile/hero:** repetí en **1:1** o **4:5**, frasco centrado y un poco de aire arriba.
