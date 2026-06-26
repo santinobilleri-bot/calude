@@ -1,52 +1,100 @@
-# Análisis de marcas de vitalidad masculina — Mundo + Argentina
+# Análisis de 100 marcas de vitalidad masculina — Mundo + Argentina
 
-> Investigación automatizada (multi-agente) de marcas del mismo rubro que PÚRO: testosterona / vitalidad / metabolismo masculino. Cada ficha analiza qué vende, con qué fotos y por qué funciona. Generado para la marca PÚRO.
+> Investigación multi-agente de 100 marcas del mismo rubro que PÚRO (testosterona / vitalidad / metabolismo masculino): qué venden, con qué fotos y por qué funcionan, + resumen y conclusiones para PÚRO. Marcas: 50 del mundo + 50 de Argentina.
 
 
-## 🧠 RESUMEN EJECUTIVO
+## 🧠 RESUMEN EJECUTIVO Y CONCLUSIONES
 
-**Qué se analizó:** 50 marcas del mundo (Nugenix, Prime Male, TestoFuel, Testogen, TestoPrime, Hims, Roman/Ro, Numan, Hunter Test, Force Factor, etc.) y 47 de Argentina (MenLab, PURO, Winner, Star Nutrition, Ultratech, Gold Nutrition, Weider, + decenas de "Tribulus/ZMA/Testo booster" de sports nutrition).
+# Resumen ejecutivo: 100 marcas de vitalidad/salud masculina (Mundo + Argentina)
 
-### 1. La diferencia MUNDO vs ARGENTINA (la oportunidad)
-- **Mundo = mercado MADURO.** Marcas con branding premium, web con storytelling, transparencia de ingredientes con mg, garantías de devolución, prueba social masiva (reviews, UGC, antes/después), bundles 1/3/6, y telemedicina (Hims, Roman) que **sacó la vergüenza** con diseño limpio y hombres reales. Venden identidad y confianza, no "una pastilla".
-- **Argentina = mercado INMADURO y fragmentado.** La enorme mayoría son **productos de sports nutrition** ("Tribulus", "ZMA", "Testo Booster") con **etiqueta negra genérica**, vendidos sueltos en **MercadoLibre**, sin marca, sin historia, compitiendo por **precio**. Casi nadie hace branding emocional ni confianza.
-- **→ El hueco es gigante:** en Argentina casi NADIE trae la fórmula del mundo (marca premium + storytelling + prueba social + garantía). **MenLab es prácticamente el único** haciéndolo bien (frasco ámbar, lifestyle, anuncios que arrancan por el problema). PÚRO puede ocupar ese lugar.
+## 1. Patrones de FOTOS: qué se repite y qué vende mejor
 
-### 2. El benchmark real = MenLab (lo demás es ruido)
-MenLab no gana por la fórmula (vimos que es un "quemador" con dosis flojas), gana por **marketing y marca**: posicionamiento claro ("activá tu metabolismo"), foto editorial, UGC con antes/después, sello ANMAT, prueba social. **Tu competencia real es MenLab**, no los 30 "Tribulus" de ML.
+### Lo que MÁS se repite (por frecuencia)
+- **Packshot de producto en estudio (casi universal, ~95%):** frasco oscuro/negro sobre fondo limpio (blanco o negro), iluminación dramática. Es el piso de la categoría, no un diferenciador. En Argentina + MercadoLibre es prácticamente *lo único* (la foto 1 sobre fondo blanco es requisito del marketplace).
+- **Infografías de ingredientes / Supplement Facts:** segundo recurso más común. Funciona como "prueba de transparencia" (open-label, dosis a la vista, sellos GMP/ANMAT/Non-GMO).
+- **Flatlay de ingredientes botánicos** (raíces, hierbas, cápsulas) para reforzar el código "natural/premium".
+- **Lifestyle aspiracional de hombre maduro activo** (gym, deporte, exteriores, pareja/familia): muy fuerte en el mundo, casi ausente en Argentina.
 
-### 3. Patrones de FOTOS que venden (lo que se repite arriba)
-1. **Producto limpio** sobre fondo claro (base).
-2. **Lifestyle / hombre real** usando el producto en su día.
-3. **UGC / testimonios** con cara y nombre (lo que más confía un escéptico).
-4. **Ingredientes con texto** (qué hace cada uno) = transparencia.
-5. **Antes/después** (potente, pero prohibido en Meta si implica transformación garantizada).
-En Argentina **casi no se usan** lifestyle ni UGC → ahí está tu diferencial.
+### Lo que MEJOR VENDE (los diferenciadores reales)
+- **UGC + antes-después fotográfico** es el activo más persuasivo donde aparece, pero está sorprendentemente **subutilizado**: muchos lo declaran y pocos lo muestran con foto comparativa real. Quienes lo explotan bien (TestoFuel, Prime Male, CrazyBulk, Instant Knockout, Andro400, PURO) lo usan como motor de conversión.
+- **Prueba cuantitativa (capturas de labs antes/después)** en telehealth premium (Maximus, Hone): convierte un beneficio intangible (energía/libido) en un número verificable (T total 288→502 ng/dL). Más creíble que el músculo.
+- **Endoso de figura creíble** (Frank Thomas/Nugenix, Dolph Lundgren/Prime Male, Robby Robinson/TestoFuel, Tom Platz/Old School, Jocko Willink, founder-as-proof en UMZU): autoridad que reemplaza UGC masivo.
+- **Activo visual diferenciador memorable:** envase en forma de puño (Instant Knockout), cápsula DuoCap (GNC), mano sosteniendo resina (Shilajit), gotero (PURO). Rompe la sopa de frascos negros idénticos.
+- **Estética que "des-estigmatiza"** (Hims, Numan, Mosh, MangoRx): hombres reales sonrientes, paletas cálidas (salvia/beige/mango), ilustración editorial. Vende permiso emocional, no físico.
 
-### 4. Por qué venden (mecanismos que más aparecen)
-- Arrancan por el **PROBLEMA** (panza, energía, libido), no por la marca.
-- **Identidad**: "volvé a sentirte el hombre que eras".
-- **Transparencia** (mg a la vista) + **prueba social** + **garantía de devolución**.
-- Tono **honesto/empático** (Hims) convierte más que el "alfa agresivo".
-- **Oferta 1/3/5** con el pack de 3 como "más elegido".
+**Conclusión de fotos:** el packshot negro premium es tabla rasa; el que gana es el que suma **prueba (UGC/labs/antes-después) + cara creíble + un activo visual único**.
 
-### 5. Conclusiones accionables para PÚRO (hombre 45, Argentina)
-1. **No copies a los "Tribulus" de ML** (genéricos, precio). Copiá el manual del MUNDO: marca + historia + confianza.
-2. **Tu rival es MenLab** → igualá su nivel visual y superalo en **honestidad** y **prueba social real**.
-3. **Fotos lifestyle + UGC de hombres reales 45+** (casi nadie las usa en AR) = ventaja.
-4. **Transparencia de fórmula** (mg a la vista) → te diferencia de los genéricos.
-5. **Garantía 30 días** bien visible → desarma el "otra estafa".
-6. **Posicionamiento honesto** (energía/vitalidad/figura, NO "adelgazá") → menos devoluciones, más recompra.
-7. **Página propia** (no solo ML) con estructura DTC: problema → producto → ingredientes → prueba social → garantía → oferta.
-8. **Oferta 1/3/5** con pack de 3 destacado + envío gratis.
-9. **Anuncios que abren con el problema** y tono cercano argentino (mate, asado, "volvé a ser vos").
-10. **Cuidá ANMAT/Meta**: sin claims de cura/testosterona/adelgazar en rótulo ni ads.
+## 2. Qué venden y POR QUÉ: mecanismos de persuasión recurrentes
+
+**Qué venden realmente:** no un suplemento, sino **recuperar identidad masculina** (energía, libido, fuerza, confianza, "volver a ser vos / a tu prime"). El producto es secundario; el "yo deseado" es el producto.
+
+### Mecanismos que más aparecen (ordenados por frecuencia)
+- **Dolor emocional concreto del hombre 40+:** caída de energía, panza, libido baja, fatiga, "perder masculinidad". Reencuadran un problema de esfuerzo como problema fisiológico solucionable (quita culpa).
+- **Enemigo nombrable:** "exceso de estrógeno" (PURO, MenLab), "testosterona que cae 1%/año", "Low T". Externaliza la culpa → da un villano que atacar.
+- **Autoridad / credibilidad técnica:** ingredientes con marca (KSM-66, Tesnor, Testofen, LJ100), dosis visibles, "clínicamente estudiado", claims numéricos ("+42%", "+64% NO", "en 7 días"), sellos (GMP, ANMAT, FDA, Made in USA).
+- **Transparencia como gancho:** open-label / "sin proprietary blends" / "sin fillers" → diferenciador frente a la "caja negra" del rubro.
+- **Reversión de riesgo:** garantías largas (60–100 días), "money-back con frasco vacío". Baja la fricción en categoría escéptica.
+- **Prueba social:** Trustpilot/Amazon, reseñas con nombre+edad (espeja al target), o en Argentina la maquinaria de MercadoLibre (estrellas, "+vendido", reputación).
+- **"Natural / sin hormonas / sin receta":** desactiva el miedo a esteroides y TRT (objeción #1).
+- **Arquitectura de oferta:** packs 3+1, bundles, suscripción con descuento → suben ticket y LTV, alineados con que los resultados tardan meses.
+- **Identidad tribal:** Golden Era (Old School), táctico/militar (Jocko), faith-based + león (PeterMD), powerlifter (Landerfit). Pertenencia > química.
+
+## 3. MUNDO vs ARGENTINA
+
+| Dimensión | Marcas del Mundo | Marcas de Argentina |
+|---|---|---|
+| **Madurez** | Alta: marca propia, funnel sofisticado, narrativa de identidad, telehealth con receta/labs/TRT | Baja-media: dependen de marketplace (MercadoLibre), reventa de marcas de terceros, poca marca propia |
+| **Fotos** | Lifestyle + UGC + antes-después + labs + endosos de celebridad; dirección de arte real (agencias: Pentagram, Onwards, Three Rooms) | Casi solo packshot sobre fondo blanco + placas de claims con texto; lifestyle/UGC vive en Instagram, no en la ficha |
+| **Tono** | Dos polos: hiper-masculino "bro" (CrazyBulk, Force Factor) **o** des-estigmatizado/editorial (Hims, Numan, Mosh) | Directo, transaccional, "beneficio + precio sobre la imagen"; estética cruda de marketplace; algunos casos agresivos/engañosos (PURO con deepfakes) |
+| **Producto** | Boosters premium, telehealth, TRT, kits de testeo, longevidad | Mayormente Tribulus, ZMA, maca, shilajit y "pro-hormonales" en cápsulas/polvo; categoría commoditizada |
+| **Precio** | Premium justificado por estética + transparencia + garantía; suscripción | Accesible; competencia por precio, cuotas sin interés, descuento por transferencia, envío gratis |
+| **Confianza** | Construida por la marca (autoridad clínica, prensa, founder) | Prestada del retailer (ML, ANMAT, marca importada "USA", farmacia) |
+
+**Gap clave:** en Argentina casi nadie construye **marca propia con narrativa de identidad ni usa fotografía/UGC real**. La persuasión está delegada a MercadoLibre y al packaging. Hay espacio enorme para una marca DTC con dirección de arte.
+
+## 4. Errores comunes / oportunidades
+
+### Errores
+- **"Sopa de frascos negros":** estética indistinguible; nadie recuerda quién es quién.
+- **Declarar UGC/antes-después pero no mostrarlo:** la mayoría se queda en testimonios de texto cuando la foto comparativa convierte más.
+- **Tribulus genérico:** evidencia científica débil + commodity + sin diferenciación = guerra de precios en ML (gran parte de Argentina cae acá).
+- **Marketing engañoso (PURO, Andro400 señalados por terceros):** deepfakes, claims inflados, demoras de reembolso → riesgo reputacional y regulatorio.
+- **Sin marca propia:** revender SKUs de terceros impide construir LTV, comunidad ni pricing power.
+- **Hablarle al "gym bro" cuando el target real (45+) responde a vitalidad/salud/identidad, no a fisicoculturismo.**
+
+### Oportunidades
+- **UGC + antes-después + labs/medición** casi nadie lo hace bien en AR → diferenciador inmediato.
+- **Des-estigmatizar** (estilo Hims/Numan/Mosh) en un mercado AR que aún es crudo/agresivo.
+- **Ángulo cuerpo-mente / vitalidad** (Centrapeak) en vez de solo "testosterona": amplía público y baja incomodidad.
+- **Telehealth/labs livianos** (kit de testeo, dato medible) inexistente localmente.
+- **Activo visual propietario** (formato gotero, color, ritual) para romper el packshot genérico.
+
+## 5. Conclusiones accionables para una marca nueva argentina (tipo PÚRO, target hombre de 45)
+
+1. **Construí marca propia con narrativa de identidad, no un SKU más en ML.** Vendé "recuperá tu energía/confianza a los 45", no "Tribulus 1000mg". El producto es el vehículo; la identidad es el producto. ML como canal secundario, sitio propio + funnel como core.
+
+2. **Diferenciá la estética: salí del frasco negro genérico.** Elegí un activo visual propietario (formato, color, ritual) y una paleta que des-estigmatice (cálida/editorial estilo Numan/Mosh) en vez del "bro" agresivo. El target 45+ quiere sentirse digno, no inseguro.
+
+3. **Invertí en UGC y antes-después REALES con cara, nombre y ciudad argentina.** Es el activo más persuasivo y el más subutilizado localmente. "Clientes reales, no actores, no stock" (estilo Andro400) genera identificación inmediata en el público 45+.
+
+4. **Sumá medición/prueba objetiva si podés:** kit de testeo, recomendación de medir testosterona, o timeline de resultados por etapas (mes 1 / mes 3). Convertir lo intangible en un número es lo que mejor funciona en telehealth premium y casi nadie lo hace en AR.
+
+5. **Dale un enemigo nombrable y un mecanismo simple:** "el estrógeno y el cortisol que suben con la edad bajan tu energía". Externaliza la culpa y da racional sin sonar a medicamento. Cuidado con claims sin respaldo: usá condicionales y evidencia real (riesgo legal/reputacional).
+
+6. **Apilá señales de confianza locales y reales:** sello ANMAT, GMP/BPM, "hecho en Argentina", garantía de devolución larga (60–90 días). En una categoría escéptica, la reversión de riesgo + autoridad regulatoria bajan la fricción más que cualquier claim.
+
+7. **Posicioná "natural / sin hormonas / sin receta" como des-activador de miedo,** pero evitá la trampa del Tribulus commodity: usá ingredientes-héroe reconocibles y con algo de respaldo (Ashwagandha/KSM-66, Shilajit, Zinc, Boro) y mostrá dosis (transparencia open-label como diferenciador).
+
+8. **Diseñá la oferta para LTV:** packs multi-mes y suscripción con descuento, alineados al mensaje "los resultados llegan en 8–12 semanas, no saltes días". Sube ticket y retención. En AR, sumá cuotas sin interés, descuento por transferencia y envío gratis (no negociables del canal).
+
+9. **Reencuadrá de "testosterona/músculo" a "vitalidad cuerpo-mente":** energía, foco, ánimo, libido, dormir mejor, sentirse uno mismo. Amplía el público (no solo gym), baja la incomodidad y le habla mejor al hombre de 45 que al de 25.
+
+10. **Usá una cara/voz creíble y comunidad:** un embajador par (hombre maduro real argentino, no fisicoculturista neón) o el founder como prueba viviente. Construí comunidad (Instagram/WhatsApp) para prueba social orgánica y recompra, en vez de depender solo de la reputación prestada de MercadoLibre.
 
 
 ---
 
-
-## 🌎 MARCAS DEL MUNDO (50)
+## 🌎 50 MARCAS DEL MUNDO
 
 ### Nugenix
 
@@ -62,11 +110,11 @@ Prime Male (Propura) es un booster natural de testosterona en cápsulas para hom
 ### TestoFuel
 TestoFuel (Roar Ambition, UK; venta global DTC) vende un booster de testosterona natural en cápsulas (120/bote, 4/día) para hombres de gimnasio y mayores de 30-40 que buscan músculo, fuerza, energía, ánimo y libido. Su sitio (no verificado de primera mano: bloqueó el acceso, 403; descrito vía reseñas) apoya la venta en muchas fotos de hombres musculosos y antes-después de clientes reales con testimonio, más el endoso del Mr. Olympia Robby Robinson y producto/packaging en estudio; estética fitness aspiracional y masculina. La página combina fórmula transparente con dosis abiertas, prueba social abundante, garantía de 100 días y ofertas tipo "comprá 3, llevá 2 gratis" con envío gratis. Funciona por su mezcla de credibilidad (antes-después + autoridad), transparencia y reductores de riesgo. Precio referencial ~US$65/bote (no verificado).
 
-### TestoPrime
-Booster de testosterona natural en cápsulas (fórmula de 12 ingredientes: D-Aspartic Acid, KSM-66 Ashwagandha, Panax Ginseng, etc.) para hombres adultos, sobre todo +40/+50, que sienten caída de energía, músculo y líbido. La landing es long-form de respuesta directa: hero con frasco negro premium, bloque de dolor ("worn-out"), beneficios, ingredientes con dosis y sellos (FDA/GMP/ISO), testimonios con nombre+edad y garantía de 60 días. Fotos: producto en estudio muy renderizado, lifestyle de hombres maduros atléticos, visuales de ingredientes y badges; estética masculina, premium, alto contraste negro/dorado. Antes-después explícitos en home: no verificado. Oferta gancho 3+1 (frasco gratis) y packs de 6 con mejor precio por unidad; rango ~USD 60–75 el frasco (precio exacto no verificado, sitio dio 403). Funciona por su persuasión y reducción de riesgo, aunque las reseñas externas son mixtas (~3.4–3.7/5).
-
 ### Testogen
 Booster de testosterona natural en capsulas (formula "Ultimate", 13 ingredientes, tecnologia ENDOSYSTEM, etiqueta limpia sin fillers) para hombres adultos que sienten baja energia, menos fuerza/libido y peor enfoque y quieren recuperar vitalidad sin TRT. La pagina es DTC long-form: hero sobre la formula, seccion de ingredientes con dosis, prueba social por etapas (mes 1 vs mes 3) y Trustpilot (~4.1-4.4, no verificado). Visualmente domina el packaging/producto en estudio premium y oscuro mas ingredientes/flatlay y lifestyle de hombre fit; testimonios sobre todo en texto, antes-despues no verificado (sitio devolvio 403). Funciona por mezclar autoridad cientifica con dolor emocional masculino, "clean label" diferenciador y riesgo invertido: envio gratis mundial y garantia de 100 dias. Precios aproximados: ~US$59.99-69.99 1 mes; ~US$179.99 pack 3 meses; pack 5 meses con mayor ahorro (no verificado).
+
+### TestoPrime
+Booster de testosterona natural en cápsulas (fórmula de 12 ingredientes: D-Aspartic Acid, KSM-66 Ashwagandha, Panax Ginseng, etc.) para hombres adultos, sobre todo +40/+50, que sienten caída de energía, músculo y líbido. La landing es long-form de respuesta directa: hero con frasco negro premium, bloque de dolor ("worn-out"), beneficios, ingredientes con dosis y sellos (FDA/GMP/ISO), testimonios con nombre+edad y garantía de 60 días. Fotos: producto en estudio muy renderizado, lifestyle de hombres maduros atléticos, visuales de ingredientes y badges; estética masculina, premium, alto contraste negro/dorado. Antes-después explícitos en home: no verificado. Oferta gancho 3+1 (frasco gratis) y packs de 6 con mejor precio por unidad; rango ~USD 60–75 el frasco (precio exacto no verificado, sitio dio 403). Funciona por su persuasión y reducción de riesgo, aunque las reseñas externas son mixtas (~3.4–3.7/5).
 
 ### Hunter Test (Roar Ambition)
 Booster de testosterona premium de Roar Ambition (UK) para hombres ambiciosos de 30+: 9 ingredientes a dosis clínicas, etiqueta transparente, sin blends ni rellenos. Su fuerza es el posicionamiento premium honesto: packaging minimalista y sobrio (no "gym bro"), con acentos tipo "black gold". Las fotos (no verificadas al 100% por bloqueo del sitio) combinan producto en estudio (botella + cápsulas), lifestyle del hombre exitoso y probables gráficos de ingredientes; no confirmé UGC ni antes-después. La página suma secciones de Ingredientes, Testimonios y FAQs, con claims de "dosis más altas que la competencia" y fabricación gold-standard USA/UK, en tono aspiracional. Precio alto (~USD 90/botella) compensado con 3+1 gratis, envío gratis y garantía 100% risk-free a 90 días. Venta exclusiva DTC en hunterevolve.com.
@@ -110,13 +158,13 @@ EVLTest es un booster de testosterona en tabletas (marca estadounidense EVL/Evlu
 
 Booster de testosterona diario en cápsulas (fenogreco, boro, zinc, longjack) para hombres que entrenan y buscan fuerza, energía y vitalidad. Visualmente se apoya en foto de producto en estudio: botella negra con etiqueta de alto contraste (acentos azules/rojos), estética "performance/clínica", más infografías de ingredientes y Supplement Facts que venden transparencia ("sin proprietary blends", dosis exactas visibles). La página es ficha retail clásica: hero, beneficios, ingredientes dosificados, modo de uso y reseñas (rating ≈4.5/5 reportado; conteo no verificado). Funciona por autoridad de marca ("America's #1 selling", 140+ países), claims medibles y rápidos (boro "en 7 días") y precio bajo (~US$24.99/120 caps). Fotos lifestyle/UGC y bundles oficiales: no verificado; recall reportado feb-2025.
 
-### Nugenix Total-T
-
-Booster de testosterona en cápsulas (3/día) para hombres 40+ que sienten caída de energía, fuerza y libido. La PDP es venta directa clásica: hero del frasco rojo/negro, bloque de ingredientes con respaldo "clínico" (Tesnor, elevATP, boro), y prueba social potente: el vocero Frank Thomas (Hall of Fame), testimonios nombrados, "8x GNC award winner" y ~15.000 reviews (~4.0/5 en Amazon). Las fotos mezclan producto en estudio, infografías de ingredientes con sellos (Made in USA, NSF/cGMP), y estética lifestyle masculina/performance de hombre maduro en forma; los testimonios son más texto que antes-después visual (no verificado). Funciona por autoridad de celebridad, credibilidad técnica, prueba social masiva y reductores de riesgo (garantía money-back, trial). Precio ~US$69.99/frasco con bundles por volumen; cifras como referencia, no verificadas en sitio oficial (403).
-
 ### Six Star Testosterone Booster
 
 Booster de testosterona en caplets (60 ct) de Six Star Pro Nutrition, "de los creadores de MuscleTech", dirigido a hombres atletas/gym que buscan fuerza, energía y rendimiento. Su fórmula clave es boro (100 mg citrato / 5 mg activo) más rodiola (386 mg) y ginkgo. La página es un PDP Shopify estándar: galería, precio ~$9.99, Subscribe & Save, 15% off primer pedido, estrellas y reseñas, bloques de beneficios y supplement facts. Las fotos son sobre todo de packaging en estudio (frasco negro/dorado "elite") más infografías de claims y panel de ingredientes; poco UGC, lifestyle o antes-después (no verificado en el sitio oficial por bloqueo de acceso). Persuade por autoridad ("America's #1"), claim científico-específico ("+testosterona activa en 7 días") y precio bajo con riesgo mínimo.
+
+### Nugenix Total-T
+
+Booster de testosterona en cápsulas (3/día) para hombres 40+ que sienten caída de energía, fuerza y libido. La PDP es venta directa clásica: hero del frasco rojo/negro, bloque de ingredientes con respaldo "clínico" (Tesnor, elevATP, boro), y prueba social potente: el vocero Frank Thomas (Hall of Fame), testimonios nombrados, "8x GNC award winner" y ~15.000 reviews (~4.0/5 en Amazon). Las fotos mezclan producto en estudio, infografías de ingredientes con sellos (Made in USA, NSF/cGMP), y estética lifestyle masculina/performance de hombre maduro en forma; los testimonios son más texto que antes-después visual (no verificado). Funciona por autoridad de celebridad, credibilidad técnica, prueba social masiva y reductores de riesgo (garantía money-back, trial). Precio ~US$69.99/frasco con bundles por volumen; cifras como referencia, no verificadas en sitio oficial (403).
 
 ### GNC Mega Men / Testosterone Support
 
@@ -125,12 +173,12 @@ GNC vende boosters de testosterona y kits de vitalidad masculina para hombres 35
 ### Hone Health
 Telehealth estadounidense de salud masculina y longevidad: vende labs avanzados (50+ biomarcadores), consulta con médico y planes personalizados, con TRT (testosterona, enclomifeno) como producto estrella, para hombres 30-55+ con baja energía, libido o foco. La página es un funnel de salud (hero aspiracional, "how it works" en 3 pasos, grilla de síntomas/biomarcadores) con prueba social potente: 4.8/5 y 10.000+ reseñas en Trustpilot, prensa (NYT, Forbes, GQ) y brazo editorial "The Edge". Las fotos (no verificadas directamente, sitio bloqueado) tienden a lifestyle aspiracional de hombres adultos saludables, retratos cálidos de fundador/médicos y dashboards de datos, en una estética clean, moderna y "medical-premium", más que packaging o flatlay. Oferta de entrada $65 (labs + consulta); membresías ~$25-155/mes. Funciona por convertir un tema tabú en optimización aspiracional, con tripwire de bajo riesgo y fuerte apilamiento de autoridad clínica.
 
-### Fountain TRT
-Clinica de telehealth estadounidense que vende terapia de testosterona (TRT) por membresia mensual a hombres con sintomas de "Low T". Su angulo diferenciador es "sin agujas": una crema topica diaria como producto estrella (tambien inyecciones, enclomifeno y meds auxiliares). La estetica es lifestyle aspiracional -hombres en forma en gym/hogar/trabajo, rol de padre/pareja- mas retrato del medico co-fundador (urologo board-certified) para autoridad, packaging de la crema y visuales del flujo telehealth; no verifique fotos antes-despues ni UGC real (sitio bloqueado, 403). La pagina es un funnel DTC en pasos con testimonios, Trustpilot (~4 estrellas) y precio all-inclusive de ~US$199/mes (labs, videoconsulta, envio y soporte incluidos). Funciona por neutralizar el miedo a las agujas, el respaldo medico y el precio unico y predecible.
-
 ### Maximus (Maximus Tribe)
 
 Telehealth masculina de EE.UU. que vende "performance medicine": protocolos recetados de testosterona (enclomifeno, TRT oral/crema/inyectable), tests hormonales en casa, más GLP-1, caída de pelo y ED. Apunta a hombres que buscan optimizar energía, libido, foco y masa magra, no solo tratar una patología. La página es un funnel bien diseñado con su "King Protocol", white papers, página de ciencia y una de prueba dedicada; tono científico, masculino y aspiracional. Su persuasión más fuerte es la prueba objetiva: resultados de laboratorio antes/después (más que fotos de transformación), respaldados por un advisory médico de élite (Harvard, UNC, Tulane), ~1000 reviews en Trustpilot y comunidad en Discord/YouTube. Imágenes: lifestyle masculino, retratos médicos, packaging del kit y gráficos de labs (detalle exacto no verificado). Precios desde $99.99/mes; test $99.99.
+
+### Fountain TRT
+Clinica de telehealth estadounidense que vende terapia de testosterona (TRT) por membresia mensual a hombres con sintomas de "Low T". Su angulo diferenciador es "sin agujas": una crema topica diaria como producto estrella (tambien inyecciones, enclomifeno y meds auxiliares). La estetica es lifestyle aspiracional -hombres en forma en gym/hogar/trabajo, rol de padre/pareja- mas retrato del medico co-fundador (urologo board-certified) para autoridad, packaging de la crema y visuales del flujo telehealth; no verifique fotos antes-despues ni UGC real (sitio bloqueado, 403). La pagina es un funnel DTC en pasos con testimonios, Trustpilot (~4 estrellas) y precio all-inclusive de ~US$199/mes (labs, videoconsulta, envio y soporte incluidos). Funciona por neutralizar el miedo a las agujas, el respaldo medico y el precio unico y predecible.
 
 ### MangoRx (Mango Health)
 Plataforma DTC de telehealth masculino (Mangoceuticals, NASDAQ: MGRX) que vende testosterona oral "Prime" (Kyzatrex FDA-approved), TRT inyectable, "Mojo", ED, caída de cabello y GLP-1, por suscripción y a hombres adultos que buscan vitalidad sin fricción de consultorio. Su branding es naranja/mango, fresco y con humor "tongue-in-cheek", desestigmatizando el tema. La fotografía (no verificada al 100% por bloqueo del sitio, según la agencia White Unicorn) combina packshots de estudio sobre color sólido, metáforas visuales con la fruta y lifestyle de "hombres normales en su mejor versión"; sin evidencia clara de UGC ni antes-después. La página es ecommerce con precios visibles, consulta médica integrada, claims clínicos (96% eficacia al día 90) y testimonios on-site (autenticidad no verificada). Funciona por mezclar autoridad médica, branding cálido y ofertas agresivas (TRT a $99/mes; Prime ~$199-249/mes, con meses gratis de lanzamiento) que bajan el costo de prueba.
@@ -164,16 +212,16 @@ Suplemento de control de peso (30 tabletas vegetarianas, 1/día) con G. pentaphy
 ### LifeVantage PhysIQ / AXIO
 Marca estadounidense (modelo MLM/distribuidores) de suplementos de "vitalidad celular" con relato nutrigenómico. Vende AXIO (polvos de energía nootrópica sin azúcar, en sobres), PhysIQ (Fat Burn, whey, prebiótico) y Protandim (NRF1/NRF2/NAD), apuntando a adultos activos y "high performers" que buscan energía limpia, foco y antiedad sin el crash del café. Las fotos (no verificadas a fondo: sitio bloquea scraping) combinan packshot de estudio sobre fondo limpio con el vaso de bebida de color frutal, lifestyle aspiracional ("I am powered by AXIO") y flatlay de ingredientes; estética clínica-premium. Las PDP usan claims científicos, bullets de beneficios y suscripción. Funciona por el encuadre "energía limpia sin crash", el aura de ciencia y la recurrencia por suscripción. Precios aprox.: AXIO ~US$60.99/30 sobres (~US$50.99 suscripción); PhysIQ System ~US$168.99.
 
+### Old School Labs Vintage Boost
+
+Booster de testosterona natural wave-loaded (126 capsulas veggie) para hombres de gym amantes de la estetica Golden Era del culturismo; promete fuerza, dureza muscular, energia, libido y recuperacion. Ronda los US$70/mes (de los mas caros), con descuentos por bundle/stack (oferta exacta de la PDP no verificada: la pagina bloqueo la captura). Visualmente apoya su venta en packshots de estudio del frasco negro y dorado retro, imagenes sepia de fisicoculturismo clasico (Muscle Beach, embajadores como Tom Platz), flatlays de ingredientes con dosis e infografias; UGC y antes-despues en la propia ficha: no verificado. Funciona por una identidad nostalgica diferenciadora, narrativa Supplements That Make Sense (sin rellenos/GMO, cGMP, third-party tested), transparencia de dosis y prueba social fuerte (~4.3/5, 1.600+ reseñas), que reposicionan el precio premium como señal de calidad. Tono masculino, honesto y anti-hype.
+
 ### Snap Supplements Testosterone Booster
 
 Booster de testosterona en cápsulas (D-Aspartic Acid + Tongkat Ali y ~10-14 plantas/vitaminas, con BioPerine) dirigido a hombres activos que buscan energía, libido, fuerza y músculo con un enfoque "natural/clean label, doctor-backed". El sitio bloquea el acceso automatizado (403), así que las fotos no se verificaron al detalle; el patrón típico combina packshot de estudio, infografías de beneficios/ingredientes, sellos de calidad (Non-GMO, gluten-free, GMP, Made in USA) y reseñas como prueba social (UGC y antes-después: no verificado). La página sigue el playbook DTC: claims de beneficio, ingredientes "héroe", rating alto (~4.6/5, ~527 reseñas), garantía de 90 días y suscripción/auto-ship con ~20% off. Funciona por ingredientes reconocibles, apilado de confianza, prueba social, garantía sin riesgo y bundles ("Buy 2 Get 1", "Buy 3 Get 2") que elevan ticket y LTV. Precios oficiales: no verificado.
 
 ### Onnit Total Human / T+
 Onnit vende soporte de testosterona, fuerza y rendimiento masculino; la URL apunta hoy a "T+ / Total Strength + Performance", pre-entreno sin estimulantes con botánicos y adaptógenos (la versión "Total Human Testosterone" original parece discontinuada). Público: hombres atletas y fans de la optimización. No pude inspeccionar las fotos directamente (sitio bloquea scraping, 403); por estilo de marca usa packaging en estudio (negro, tipografía bold), lifestyle de atletas en gimnasio, retratos del fundador Aubrey Marcus y atletas patrocinados, y flatlays de ingredientes, con estética oscura y premium-deportiva. La página combina claims con respaldo científico (estudio de Florida State: ~36% más fuerza vs placebo), prueba social por estrellas (~3,7/5) y suscripción con ~15% de descuento. Precio: ~US$59,95/30 servicios. Funciona por autoridad de marca, prueba científica y tribu masculina de fitness.
-
-### Old School Labs Vintage Boost
-
-Booster de testosterona natural wave-loaded (126 capsulas veggie) para hombres de gym amantes de la estetica Golden Era del culturismo; promete fuerza, dureza muscular, energia, libido y recuperacion. Ronda los US$70/mes (de los mas caros), con descuentos por bundle/stack (oferta exacta de la PDP no verificada: la pagina bloqueo la captura). Visualmente apoya su venta en packshots de estudio del frasco negro y dorado retro, imagenes sepia de fisicoculturismo clasico (Muscle Beach, embajadores como Tom Platz), flatlays de ingredientes con dosis e infografias; UGC y antes-despues en la propia ficha: no verificado. Funciona por una identidad nostalgica diferenciadora, narrativa Supplements That Make Sense (sin rellenos/GMO, cGMP, third-party tested), transparencia de dosis y prueba social fuerte (~4.3/5, 1.600+ reseñas), que reposicionan el precio premium como señal de calidad. Tono masculino, honesto y anti-hype.
 
 ### Ageless Male Max
 Suplemento de New Vitality (USA) que promete subir testosterona TOTAL y óxido nítrico en hombres 40+ con KSM-66 (ashwagandha) y NOXPerform. Apunta a hombres que pierden energía, libido, fuerza y recuperación y quieren "seguir activos". Estéticamente combina producto en estudio (caja/frasco azul, look OTC/As Seen on TV) con imagen lifestyle de hombres maduros y en forma (gym, aire libre) y callouts de ingredientes/sellos clínicos; no vi UGC ni antes-después fotográfico (layout exacto de la web: no verificado, dio 403). La página usa claims fuertes, respaldo clínico, prueba social ("#1 recomendado por médicos", IQVIA, ~4.2/5) y garantía de devolución. Precio ~US$35-70; ofertas de "50% off", pack de 3 (~$59/frasco), cupones y suscripción. Funciona por inseguridad + autoridad + transformación aspiracional + oferta urgente.
@@ -182,20 +230,20 @@ Suplemento de New Vitality (USA) que promete subir testosterona TOTAL y óxido n
 
 Andro400 vende un booster de testosterona en cápsulas (líneas Andro400, Max y UltraMax T) basado en Tongkat Ali, apuntado a hombres 40+ que quieren bajar la panza, recuperar energía y libido. La página es una landing larga de direct-response/infomercial: claim fuerte, un ingrediente "héroe" clínicamente estudiado, claims agresivos (libido +90%, "derrite grasa"), FAQ extensa y garantía de 90 días. Su apuesta visual es la prueba social "real": se posiciona con "Real customers. Real experiences. No actors. No stock photos.", con testimonios con nombre, ciudad y "Verified Customer", packshot sobrio del frasco negro y un vocero mayor en video. Funciona por identificación emocional y bajo riesgo percibido. Precio ~US$34,95/botella, packs y auto-envío ~US$29,95. Antes-después en foto y flatlay de ingredientes: no verificado.
 
+### Crazy Nutrition T-Max (Mr Hyde)
+Booster natural de testosterona (Crazy Nutrition / Wolfson Brands) para hombres adultos, sobre todo +40, que buscan energía, fuerza, libido y foco sin receta. Nota de honestidad: la página de producto bloquea bots (403), así que sus fotos y precios exactos no pudieron verificarse directamente; lo siguiente se infiere del house style de la marca. Visualmente predomina el bote en estudio sobre fondo oscuro/limpio, flatlays de ingredientes y sellos de "science-backed / dosis transparentes" que sostienen el claim de pureza. La página es un funnel DTC largo: hero con beneficio, selector de packs con descuento por volumen, ingredientes sin blends propietarios, prueba social con estrellas y FAQ. Funciona por la mezcla de autoridad científica, dolor emocional masculino y reductores de riesgo verificados: garantía de 60 días y suscripción con 30% off. Precio exacto y referencia "Mr Hyde": no verificados.
+
 ### TestRX
 
 Booster natural de testosterona (base ZMA + D-aspártico, fenogreco, D3, zinc) para hombres 40+ que buscan recuperar músculo, energía, libido y ánimo "sin esteroides ni inyecciones", con foco en ganancia de masa y rendimiento en el gym. La página es una landing DTC clásica: hero con claim "#1", beneficios, lista de ingredientes con dosis exactas (transparencia = confianza), prueba social fuerte (citan 4.7/5 y 2.814+ reseñas, testimonios con cifras de músculo) y garantía de 67 días, hecho en USA/cGMP. Visualmente (sitio bloqueado, parcialmente no verificado): packshot del frasco, lifestyle de hombres atléticos entrenando y supuestos antes-después de testimonios; estética masculina fitness/performance. Precios reportados: ~$69 (1), ~$59/u (3) y ~$49/u (6) con envío y ebooks gratis. Funciona por encaje miedo-promesa, prueba social y reductores de riesgo.
 
-### Crazy Nutrition T-Max (Mr Hyde)
-Booster natural de testosterona (Crazy Nutrition / Wolfson Brands) para hombres adultos, sobre todo +40, que buscan energía, fuerza, libido y foco sin receta. Nota de honestidad: la página de producto bloquea bots (403), así que sus fotos y precios exactos no pudieron verificarse directamente; lo siguiente se infiere del house style de la marca. Visualmente predomina el bote en estudio sobre fondo oscuro/limpio, flatlays de ingredientes y sellos de "science-backed / dosis transparentes" que sostienen el claim de pureza. La página es un funnel DTC largo: hero con beneficio, selector de packs con descuento por volumen, ingredientes sin blends propietarios, prueba social con estrellas y FAQ. Funciona por la mezcla de autoridad científica, dolor emocional masculino y reductores de riesgo verificados: garantía de 60 días y suscripción con 30% off. Precio exacto y referencia "Mr Hyde": no verificados.
+### Performance Lab T
+
+Performance Lab T (T+) es un booster natural de testosterona en cápsulas vegetales para hombres activos —deportistas y profesionales— que buscan vigor, músculo y libido sin TRT. Su diferencial es la estética: en un rubro de packaging gritón, usa packshots de estudio sobre fondo blanco, botella negra minimalista con tipografía limpia y renders de las cápsulas, proyectando un look premium "clean-label" tipo tech/farma (lifestyle sobrio; sin UGC ni antes-después). La página es una PDP DTC clásica: hero con la botella, claims científicos, fórmula 100% transparente y dosificada (sin proprietary blend), sellos GMP/non-GMO/vegano y garantía de 30 días. Funciona por autoridad y pureza, no por hype. Precio: ~USD 50/mes, con bundle "compra 3, llevá 4" (-25%) y suscripción -10%. (Precios e imágenes exactas: no verificadas directamente, la web bloqueó el acceso.)
 
 ### Roar Ambition / Instant Knockout (T support line)
 
 Quemador de grasa termogénico en cápsulas (Instant Knockout Cut) con 10 ingredientes naturales —té verde, cayena, glucomanano, vitamina D y zinc para apoyar testosterona—, dirigido a hombres activos y atletas que buscan "shredear" grasa conservando músculo. Su activo visual es el envase con forma de puño cerrado, fotografiado en estudio sobre estética "fighter-grade" oscura y masculina. La prueba social mezcla autoridad atlética (peleadores de MMA como Diego Sanchez y el coach Greg Jackson) con UGC masivo de transformaciones antes-después de clientes reales. La landing larga combina claims agresivos, supplement facts, garantía y packs con descuento por volumen (1 frasco ~$65; stack 3+1 ~$195) más bonus Boss Shred. Funciona por su diferenciación memorable, doble prueba (expertos + gente común) y reducción de riesgo. Precios/garantías: no verificados al 100% (sitio bloqueado a acceso directo).
-
-### Performance Lab T
-
-Performance Lab T (T+) es un booster natural de testosterona en cápsulas vegetales para hombres activos —deportistas y profesionales— que buscan vigor, músculo y libido sin TRT. Su diferencial es la estética: en un rubro de packaging gritón, usa packshots de estudio sobre fondo blanco, botella negra minimalista con tipografía limpia y renders de las cápsulas, proyectando un look premium "clean-label" tipo tech/farma (lifestyle sobrio; sin UGC ni antes-después). La página es una PDP DTC clásica: hero con la botella, claims científicos, fórmula 100% transparente y dosificada (sin proprietary blend), sellos GMP/non-GMO/vegano y garantía de 30 días. Funciona por autoridad y pureza, no por hype. Precio: ~USD 50/mes, con bundle "compra 3, llevá 4" (-25%) y suscripción -10%. (Precios e imágenes exactas: no verificadas directamente, la web bloqueó el acceso.)
 
 ### Numan TRT / Testosterone Replacement
 Numan (UK) vende un programa de telemedicina TRT para hombres con testosterona baja: análisis de sangre a domicilio, consulta con clínico, medicación y monitoreo por suscripción. Su fortaleza visual es la dirección de arte de Pentagram: retratos editoriales en blanco y negro de hombres reales y diversos, tomas abstractas de la forma humana, tipografía bold en itálicas e iconos "técnicos" que suman confianza; los testimonios añaden fotos tipo cliente real. La página es un funnel claro (cómo funciona en pasos), con prueba social potente (Trustpilot ~4★, ~33.500 reseñas — no verificado hoy), historias con cifras (de 4.5 a 13 nmol/L) y sello CQC. Tono empático y desestigmatizante. Precios reportados: diagnóstico y tratamiento desde ~£74.50/mes, planes hasta ~£160/mes (no verificado en vivo).
@@ -229,7 +277,7 @@ Numan (UK) vende tratamiento online de disfunción eréctil —sildenafilo y tad
 
 ---
 
-## 🇦🇷 MARCAS DE ARGENTINA (47)
+## 🇦🇷 50 MARCAS DE ARGENTINA
 
 ### PURO Vitality Boost (gotas)
 Suplemento masculino en gotas (gotero 30 ml, sublingual) con DIM, Shilajit, Ashwagandha, Zinc y Magnesio, vendido como "detox de estrógeno" que sube testosterona, quema grasa (panza/pecho) y devuelve energía y confianza, a hombres ~30-55. No pude abrir el sitio .shop ni MercadoLibre (DNS/proxy bloqueado, 403), así que el detalle visual es no verificado de primera mano; por sus listings y campaña usa antes/después de abdomen, frasco en estudio, flatlay de ingredientes naturales y testimonios UGC, con tono advertorial directo y urgente ("recuperá tu cuerpo de hombre"). Funciona por su enemigo nombrable (estrógeno), promesa visual medible, formato "potente", prueba social y packs con envío gratis. Precio exacto no verificado; se venden packs (x2, x3). Honestidad: terceros lo acusan de marketing engañoso (deepfakes, claims sin respaldo).
@@ -322,12 +370,12 @@ Suplemento en cápsulas (Zinc + Magnesio + Vitamina B6, a veces con Arginina) pa
 
 ENA es una marca argentina líder de suplementos deportivos; dentro de su catálogo ofrece un Tribulus Terrestris "pro-hormonal", posicionado como soporte natural de testosterona, libido, energía y rendimiento, apuntando a hombres de gimnasio y deportistas. No pude abrir la ficha exacta (sitio y MercadoLibre dieron 403), así que las fotos específicas del SKU quedan "no verificadas"; por la marca se confirma packshot de producto en estudio con el frasco/etiqueta clínica como héroe, más lifestyle deportivo y aspiracional en Instagram (+143K, "#PreparateParaSuperarte"). Su web Shopify es institucional, con tono de autoridad ("laboratorio", ANMAT) y prueba social fuerte (Tienda Oficial ML, ~4.7 estrellas). Funciona por confianza de marca y encuadre "natural". Precio del SKU: no verificado; categoría Tribulus en ML ~$11.000–$48.500 ARS.
 
+### Xtrenght Nutrition - Tribulus / Testo
+Marca argentina de suplementos (laboratorio reconocido en gimnasios, dueño de Cutter y Nitrogain) que vende cápsulas de Tribulus Terrestris como precursor natural de testosterona, dirigidas a hombres del mundo fitness que buscan energía, libido, vigor y apoyo muscular. Se comercializa principalmente vía MercadoLibre. Las fotos no pude verificarlas en detalle (las páginas devolvieron 403): el patrón esperable es producto/packaging sobre fondo blanco de estudio más placas de claims, con una estética de marca deportiva y de alto contraste en redes (@xtrenghtoficial, ~19K seguidores). Funciona por confianza de marca conocida, prueba social fuerte en el marketplace (rating ~4,6/5 con ~165 valoraciones, dato puntual), envío rápido y cuotas. Precio observado: ~$14.081 ARS (no verificado en vivo); packs y cantidad de cápsulas, no verificados.
+
 ### Now Sports - Tribulus 90 tabs
 
 Suplemento importado de Tribulus terrestris (Now Sports, 1000 mg, 90 tabs) vendido por SNS Suplementos Nutricionales (Salta, Argentina) dentro del rubro "Pro-hormonales". Apunta a hombres adultos y deportistas que buscan testosterona, vitalidad, energía y libido. El copy combina claims técnicos ("1000 mg, 45% saponinas") con promesas de rendimiento y salud sexual, y un anclaje tradicional (uso en Grecia, India, África). Su fuerza está en la categoría auto-segmentadora, la marca importada confiable y la persuasión técnica concreta. Las fotos no pude verificarlas (la página devolvió 403); por convención esperaría un packshot de estudio del frasco sobre fondo blanco, sin lifestyle ni UGC. Precio, packs y prueba social: no verificados.
-
-### Xtrenght Nutrition - Tribulus / Testo
-Marca argentina de suplementos (laboratorio reconocido en gimnasios, dueño de Cutter y Nitrogain) que vende cápsulas de Tribulus Terrestris como precursor natural de testosterona, dirigidas a hombres del mundo fitness que buscan energía, libido, vigor y apoyo muscular. Se comercializa principalmente vía MercadoLibre. Las fotos no pude verificarlas en detalle (las páginas devolvieron 403): el patrón esperable es producto/packaging sobre fondo blanco de estudio más placas de claims, con una estética de marca deportiva y de alto contraste en redes (@xtrenghtoficial, ~19K seguidores). Funciona por confianza de marca conocida, prueba social fuerte en el marketplace (rating ~4,6/5 con ~165 valoraciones, dato puntual), envío rápido y cuotas. Precio observado: ~$14.081 ARS (no verificado en vivo); packs y cantidad de cápsulas, no verificados.
 
 ### GAT Sport - Tribulus 90 caps
 
@@ -337,12 +385,12 @@ Suplemento de Tribulus Terrestris (750 mg, 45% saponinas, 90 cáps.) de la marca
 
 VA Suplementos (Argentina) revende este Tribulus importado de Nutrex como soporte natural de testosterona, libido y rendimiento, apuntando a hombres adultos de gimnasio y vitalidad masculina. La venta se apoya en la marca "USA" y la dosis alta visible (1400 mg), no en producción propia: las fotos -no verificadas en detalle por bloqueo del sitio- son básicamente packaging/producto en estudio (frasco negro, etiqueta blanca) sobre fondo blanco, estética e-commerce limpia tipo Tiendanube, sin lifestyle, UGC ni antes-después. La ficha es estándar: título, precio con descuento por transferencia (~$68.490 desde ~$76.100), cuotas, envío gratis, y una lista larga de claims de salud (testosterona, libido, fertilidad, músculo, ánimo). Funciona por confianza de marca, dosis y disparadores de precio; prueba social en página no verificada.
 
-### Disfit - Tribulus Testosterona Booster
-Disfit (Argentina) es un retailer de suplementos deportivos que revende este Tribulus en cápsulas (marca MAG) como "booster" natural de testosterona, libido y vitalidad, dirigido a hombres del mundo gym y a quienes buscan virilidad y bienestar sexual. La ficha y sus imágenes devuelven 403, así que no pude verificarlas en detalle: lo esperable es foto de packaging/producto en estudio sobre fondo neutro, sin evidencia de lifestyle, UGC, flatlay ni antes-después. La página parece una ficha de e-commerce estándar con claims fuertes (testosterona, libido, función eréctil, vitalidad) y tono de nicho. Su fuerza persuasiva está en un deseo masculino de alta intención más el respaldo de marca (tienda oficial en MercadoLibre, 61K en Instagram). Precio, packs y reseñas: no verificados. La evidencia científica del Tribulus es débil/mixta.
-
 ### Optimum Nutrition - Tribulus 625 mg 100 caps
 
 Ficha de producto en VA Suplementos (Argentina, Tiendanube) que vende el Tribulus 625 mg de Optimum Nutrition (extracto estandarizado al 40% de saponinas) como potenciador natural de testosterona, libido y rendimiento, dirigido a hombres que entrenan o buscan vitalidad. Las fotos son de producto en estudio sobre fondo blanco mostrando el packaging oficial (etiqueta negra ON), estética limpia y de catálogo; no se verificaron imágenes lifestyle, UGC ni flatlay. La página es simple y técnica: precio $49.900 ARS, descuento por medio de pago, envíos nacionales, descripción con claims (+30-50% testosterona) y dosis (1-2 caps/día). Funciona apalancando la confianza en la marca ON y capturando demanda que ya busca el producto por nombre. Prueba social y cuotas: no verificadas.
+
+### Disfit - Tribulus Testosterona Booster
+Disfit (Argentina) es un retailer de suplementos deportivos que revende este Tribulus en cápsulas (marca MAG) como "booster" natural de testosterona, libido y vitalidad, dirigido a hombres del mundo gym y a quienes buscan virilidad y bienestar sexual. La ficha y sus imágenes devuelven 403, así que no pude verificarlas en detalle: lo esperable es foto de packaging/producto en estudio sobre fondo neutro, sin evidencia de lifestyle, UGC, flatlay ni antes-después. La página parece una ficha de e-commerce estándar con claims fuertes (testosterona, libido, función eréctil, vitalidad) y tono de nicho. Su fuerza persuasiva está en un deseo masculino de alta intención más el respaldo de marca (tienda oficial en MercadoLibre, 61K en Instagram). Precio, packs y reseñas: no verificados. La evidencia científica del Tribulus es débil/mixta.
 
 ### Renkai - línea testosterona / Testo
 
@@ -406,3 +454,13 @@ KN Nutrition vende una categoría de boosters de testosterona natural (DHEA 25/5
 ### Hedgehog - Aumentadores de Testosterona Natural (línea)
 
 No es una marca DTC propia sino una categoría de una tienda multimarca argentina (CABA, Palermo/Parque Patricios) que agrupa boosters de terceros: DHEA de KN Nutrition, ZMA de Star Nutrition y pre-entrenos de Painlabs/Nutrex. Apunta a hombres de gimnasio que buscan subir testosterona "de forma natural". La página es un catálogo e-commerce clásico: grilla de productos, navegación por marca/categoría y doble precio (lista vs. efectivo con ~10% off), envío gratis sobre ~$42.000 y retiro en local. Las fotos no las pude inspeccionar (sitio bloqueado): lo esperable es packaging/producto en estudio sobre fondo blanco provisto por cada marca, sin lifestyle ni UGC dentro del store. Persuade por confianza (producto original, lote/vencimiento, 4,7★ con ~200 reseñas) y precio más que por estética de marca. Precios DHEA: 25mg ~$23.000, 50mg ~$30.600, 100mg ~$37.400.
+
+### Scimmia - Testo Booster Ultra Tech 120 caps
+Scimmia (cadena sanjuanina, tienda Tiendanube) revende el Testo Booster Ultra Tech 120 comp., un estímulo "natural" de testosterona para hombres adultos que buscan energía, fuerza, músculo y vitalidad. No pude abrir la ficha (bloqueo 403), pero por patrón de tienda la imagen central es el packshot de estudio del frasco sobre fondo neutro con la etiqueta de Ultra Tech; sin lifestyle, UGC, flatlay de ingredientes ni antes-después (no verificado). La página sigue el layout e-commerce clásico con copy educativo-pseudocientífico (ingredientes, estudios citados, modo de uso) y claims de testosterona, energía y libido "sin hormonas". Precio listado ~$58.600 ARS; 3 cuotas sin interés y 15% off por transferencia. Su fuerza no es el branding del producto sino la confianza del retailer: marca conocida, respaldo de cadena física y facilidades de pago que bajan el riesgo percibido.
+
+### Weider - Testo 360 Black (MercadoLibre AR)
+Suplemento en cápsulas (frascos de 90 / 2400 mg) posicionado como precursor de testosterona y vigorizante masculino, vendido en MercadoLibre AR como "Original USA" para hombres que buscan energía, libido, fertilidad y rendimiento. Verificado: precio ~$11.780 ARS (desde ~$12.400), 3 cuotas sin interés y envío gratis, con promo destacada x2 frascos. El listado sigue el formato típico de ML: título cargado de keywords, bullets de beneficios y claims fuertes de salud sexual. No pude ver las fotos ni la página de cerca (403 de las tiendas); lo esperable es frasco negro en estudio sobre fondo blanco más infografías de ingredientes/claims, sin lifestyle ni UGC confirmados. Funciona por marca + confianza de la plataforma, sello USA y promesa emocional de potencia.
+
+### Potenciadores de Testosterona (categoría MercadoLibre AR)
+
+Es una categoría de marketplace (múltiples marcas: Winner Power Nutrition, HochSport, Weider, Star Nutrition, Gold Nutrition, RX24), no una marca única. Vende cápsulas/tabletas con Tribulus, Maca, Zinc y Vitamina D para hombres que buscan energía, libido, fuerza y masa muscular. La página es una grilla de listado con títulos cargados de keywords, filtros por precio, y prueba social nativa de ML: estrellas, conteo de reseñas (RX24 ~4.4-4.9), badges "Más vendido", "Envío gratis", cuotas sin interés y entrega rápida. Fotos: por convención, packaging en estudio sobre fondo blanco más flatlay de ingredientes y tabla nutricional; lifestyle/UGC/antes-después no verificados (las páginas bloquean el fetch directo). Funciona por reseñas masivas, "100% natural", precio agresivo y financiación. Rangos: hasta $15.000 a +$45.000; packs existen, condiciones no verificadas.
