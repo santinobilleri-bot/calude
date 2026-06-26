@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" font-family="Outfit, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#15314f"/><stop offset="1" stop-color="#0a1726"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eef0f3"/><stop offset="1" stop-color="#dfe4ea"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0b878"/><stop offset="1" stop-color="#d98a3f"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+
+  <!-- right light panel with bottle -->
+  <path d="M690 0 L1080 0 L1080 1080 L630 1080 Z" fill="url(#panel)"/>
+  <image href="/root/.claude/uploads/31d96a02-b6d0-5e75-89c9-bcc759c6bfef/13e3fd78-571622AA0078436CB1409914EFA8D67B.png"
+         x="660" y="300" width="430" height="430" preserveAspectRatio="xMidYMid meet"/>
+
+  <!-- kicker -->
+  <text x="55" y="92" font-size="30" font-weight="800" fill="#f0b878" letter-spacing="0.5">+10.000 HOMBRES YA HICIERON EL CAMBIO</text>
+
+  <!-- headline -->
+  <g fill="#F6F4EE" font-weight="800">
+    <text x="52" y="178" font-size="74">Volvé a sentirte</text>
+    <text x="52" y="252" font-size="74">el hombre</text>
+    <text x="52" y="326" font-size="74">que <tspan fill="#f0b878">eras</tspan>.</text>
+  </g>
+  <text x="55" y="392" font-size="34" font-weight="700" fill="#bcd0e6">Sin riesgo. Solo resultados.</text>
+
+  <!-- benefit cards 2x2 -->
+  <g>
+    <!-- card 1 -->
+    <g transform="translate(50,470)">
+      <rect width="300" height="138" rx="18" fill="#ffffff"/>
+      <text x="26" y="58" font-size="34" font-weight="800" fill="#1f4fa8">ENERGÍA</text>
+      <text x="26" y="100" font-size="26" font-weight="600" fill="#33475c">Adiós a los bajones</text>
+    </g>
+    <!-- card 2 -->
+    <g transform="translate(372,470)">
+      <rect width="300" height="138" rx="18" fill="#ffffff"/>
+      <text x="26" y="58" font-size="34" font-weight="800" fill="#1f4fa8">METABOLISMO</text>
+      <text x="26" y="100" font-size="26" font-weight="600" fill="#33475c">Apoyá tu figura</text>
+    </g>
+    <!-- card 3 -->
+    <g transform="translate(50,630)">
+      <rect width="300" height="138" rx="18" fill="#ffffff"/>
+      <text x="26" y="58" font-size="34" font-weight="800" fill="#1f4fa8">ÁNIMO Y GANAS</text>
+      <text x="26" y="100" font-size="26" font-weight="600" fill="#33475c">Volvé a sentirte vos</text>
+    </g>
+    <!-- card 4 -->
+    <g transform="translate(372,630)">
+      <rect width="300" height="138" rx="18" fill="#ffffff"/>
+      <text x="26" y="58" font-size="34" font-weight="800" fill="#1f4fa8">DESCANSO</text>
+      <text x="26" y="100" font-size="26" font-weight="600" fill="#33475c">Menos estrés</text>
+    </g>
+  </g>
+
+  <!-- footer strip on navy -->
+  <text x="52" y="880" font-size="27" font-weight="800" fill="#F6F4EE">100% Natural · Sin hormonas · 1 al día</text>
+  <text x="52" y="922" font-size="21" letter-spacing="2" font-weight="600" fill="#7fa6d8">SUPLEMENTO DIETARIO · INDUSTRIA ARGENTINA</text>
+  <!-- CTA pill -->
+  <g transform="translate(52,962)">
+    <rect width="330" height="74" rx="37" fill="url(#amber)"/>
+    <text x="165" y="49" text-anchor="middle" font-size="30" font-weight="800" fill="#0a1726">QUIERO VOLVER A SER YO</text>
+  </g>
+</svg>
