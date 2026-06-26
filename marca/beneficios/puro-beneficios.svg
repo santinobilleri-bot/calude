@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" font-family="Outfit, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#15314f"/><stop offset="1" stop-color="#0b1a2c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="18%" r="60%">
+      <stop offset="0" stop-color="#2E6BD6" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#2E6BD6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0b878"/><stop offset="1" stop-color="#d98a3f"/>
+    </linearGradient>
+    <linearGradient id="cobalt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3f7ce6"/><stop offset="1" stop-color="#1f4fa8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <rect width="1080" height="1080" fill="url(#glow)"/>
+
+  <!-- header -->
+  <text x="540" y="118" text-anchor="middle" font-size="26" letter-spacing="8" fill="#7fa6d8" font-weight="600">VITALIDAD MASCULINA NATURAL</text>
+  <g text-anchor="middle">
+    <text x="529" y="210" font-size="120" font-weight="800" font-style="italic" fill="#F4F1EA">PÚRO</text>
+    <!-- amber accent over U -->
+    <polygon points="497,118 521,92 533,101 509,128" fill="url(#amber)"/>
+  </g>
+  <text x="540" y="270" text-anchor="middle" font-size="38" font-weight="700" fill="#ffffff">¿Qué hace por vos?</text>
+  <rect x="470" y="296" width="140" height="5" rx="2.5" fill="url(#amber)"/>
+
+  <!-- benefit rows -->
+  <g>
+    <!-- row 1 ENERGIA -->
+    <g transform="translate(110,360)">
+      <circle cx="55" cy="55" r="55" fill="#102a44" stroke="#2E6BD6" stroke-width="2"/>
+      <polygon points="60,22 38,62 54,62 46,90 74,48 56,48 66,22" fill="url(#amber)"/>
+      <text x="150" y="46" font-size="40" font-weight="800" fill="#ffffff">ENERGÍA TODO EL DÍA</text>
+      <text x="150" y="88" font-size="28" fill="#b9c8da">De la mañana a la noche, sin bajones.</text>
+    </g>
+    <!-- row 2 METABOLISMO -->
+    <g transform="translate(110,510)">
+      <circle cx="55" cy="55" r="55" fill="#102a44" stroke="#2E6BD6" stroke-width="2"/>
+      <path d="M55 16 C 61 35, 79 41, 70 65 C 66 77, 55 85, 45 80 C 35 75, 34 63, 42 55 C 44 63, 50 64, 50 64 C 43 49, 56 39, 55 16 Z" fill="url(#amber)"/>
+      <text x="150" y="46" font-size="40" font-weight="800" fill="#ffffff">METABOLISMO Y FIGURA</text>
+      <text x="150" y="88" font-size="28" fill="#b9c8da">Apoya tu metabolismo y un cuerpo firme.</text>
+    </g>
+    <!-- row 3 VITALIDAD -->
+    <g transform="translate(110,660)">
+      <circle cx="55" cy="55" r="55" fill="#102a44" stroke="#2E6BD6" stroke-width="2"/>
+      <polygon points="55,18 64,46 92,55 64,64 55,92 46,64 18,55 46,46" fill="url(#amber)"/>
+      <text x="150" y="46" font-size="40" font-weight="800" fill="#ffffff">VITALIDAD Y GANAS</text>
+      <text x="150" y="88" font-size="28" fill="#b9c8da">Recuperá el ánimo y las ganas del de antes.</text>
+    </g>
+    <!-- row 4 DESCANSO -->
+    <g transform="translate(110,810)">
+      <circle cx="55" cy="55" r="55" fill="#102a44" stroke="#2E6BD6" stroke-width="2"/>
+      <path d="M72 55 a20 20 0 1 1 -20 -20 a16 16 0 1 0 20 20 Z" fill="url(#amber)"/>
+      <text x="150" y="46" font-size="40" font-weight="800" fill="#ffffff">MENOS ESTRÉS, MEJOR DESCANSO</text>
+      <text x="150" y="88" font-size="28" fill="#b9c8da">Ashwagandha para bajar un cambio.</text>
+    </g>
+  </g>
+
+  <!-- footer band -->
+  <rect x="0" y="952" width="1080" height="128" fill="#0a1726"/>
+  <text x="540" y="1018" text-anchor="middle" font-size="29" font-weight="700" letter-spacing="1" fill="#F4F1EA">100% Natural  ·  Sin hormonas  ·  1 cápsula por día</text>
+  <text x="540" y="1056" text-anchor="middle" font-size="22" letter-spacing="3" fill="#7fa6d8" font-weight="600">SUPLEMENTO DIETARIO · INDUSTRIA ARGENTINA</text>
+</svg>
