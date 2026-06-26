@@ -12,25 +12,25 @@ Sección: arriba de todo. Producto premium, "marca seria".
 ## 2. FRASCO EN LA MANO (confianza + escala real)
 Va en: debajo del hero o como hero mobile. Muestra tamaño real y "es de verdad".
 ```
-Use the uploaded PÚRO bottle, keep label identical. A close-up of a real 47-year-old Argentine man's hand holding the amber PÚRO bottle, in a softly lit modern bathroom in the morning. Natural skin, average guy, not a fitness model. Shallow depth of field, warm light, photorealistic, premium lifestyle photography. 4:5.
+Use the uploaded PÚRO bottle, keep label identical. A close-up of a real 47-year-old Argentine man's hand holding the amber PÚRO bottle, in a softly lit modern bathroom in the morning. Natural skin, average guy, not a fitness model. Shallow depth of field, warm light, photorealistic, premium lifestyle photography. 1:1.
 ```
 
 ## 3. "EL ANTES" — el dolor (empatía)
 Va en: sección del problema ("¿Te pasa esto?"). Diego se reconoce.
 ```
-Editorial lifestyle photo of a tired 46-year-old Argentine man with a slight belly, standing shirtless-ish in a t-shirt looking at himself in a bathroom mirror with a worried, low-energy expression, soft moody morning light. Real, relatable, average dad body, NOT a model. Muted tones, photorealistic, cinematic. 4:5.
+Editorial lifestyle photo of a tired 46-year-old Argentine man with a slight belly, standing shirtless-ish in a t-shirt looking at himself in a bathroom mirror with a worried, low-energy expression, soft moody morning light. Real, relatable, average dad body, NOT a model. Muted tones, photorealistic, cinematic. 1:1.
 ```
 
 ## 4. "EL DESPUÉS" — la transformación (deseo)
 Va en: después de presentar el producto. El sueño de Diego.
 ```
-Editorial lifestyle photo of the same 47-year-old Argentine man now looking confident and energetic, standing tall, firmer body, getting dressed in a bright bedroom, subtle natural smile, healthy and refreshed. Real and believable, not an overly ripped model. Warm bright light, photorealistic, aspirational. 4:5.
+Editorial lifestyle photo of the same 47-year-old Argentine man now looking confident and energetic, standing tall, firmer body, getting dressed in a bright bedroom, subtle natural smile, healthy and refreshed. Real and believable, not an overly ripped model. Warm bright light, photorealistic, aspirational. 1:1.
 ```
 
 ## 5. RITUAL DIARIO — fácil de usar (rompe objeción "no tengo tiempo")
 Va en: sección "Cómo se toma". 1 al día, simple.
 ```
-Use the uploaded PÚRO bottle, keep label identical. The amber bottle on a clean kitchen counter next to a mate, car keys and a phone, warm morning light through a window, Argentine home setting. Lifestyle still life, photorealistic, premium, cozy. 4:5.
+Use the uploaded PÚRO bottle, keep label identical. The amber bottle on a clean kitchen counter next to a mate, car keys and a phone, warm morning light through a window, Argentine home setting. Lifestyle still life, photorealistic, premium, cozy. 1:1.
 ```
 
 ## 6. INGREDIENTES NATURALES (transparencia + "natural")
@@ -42,13 +42,13 @@ Use the uploaded PÚRO bottle, keep label identical. Clean top-down flat lay on 
 ## 7. MACRO DE CÁPSULAS (calidad del producto)
 Va en: cerca de la fórmula o garantía. Cue de calidad farmacéutica.
 ```
-Use the uploaded PÚRO bottle, keep label identical. Macro close-up of the open amber bottle with the dark capsules spilling out slightly onto a clean white surface, soft studio light, premium pharmaceutical quality look, sharp detail, photorealistic. 4:5.
+Use the uploaded PÚRO bottle, keep label identical. Macro close-up of the open amber bottle with the dark capsules spilling out slightly onto a clean white surface, soft studio light, premium pharmaceutical quality look, sharp detail, photorealistic. 1:1.
 ```
 
 ## 8. VÍNCULO / VIDA QUE RECUPERA (payoff emocional)
 Va en: cerca del CTA final. Por qué lo hace: su familia, su pareja.
 ```
-Editorial lifestyle photo of an energetic 48-year-old Argentine dad playing football in a backyard or plaza with his young son at golden hour, laughing, full of energy, real and warm. Average real man, not a model. Photorealistic, cinematic, aspirational. 16:9.
+Editorial lifestyle photo of an energetic 48-year-old Argentine dad playing football in a backyard or plaza with his young son at golden hour, laughing, full of energy, real and warm. Average real man, not a model. Photorealistic, cinematic, aspirational. 1:1.
 ```
 
 ---
@@ -69,12 +69,12 @@ Use the uploaded PÚRO bottle, keep label identical. Studio product photo of the
 
 ### B. Calidad / control (industria argentina, sin claims médicos)
 ```
-Use the uploaded PÚRO bottle, keep label identical. Clean professional photo of the PÚRO bottle on a bright white lab/clean-production background, slightly clinical but warm, conveying quality control and safety, soft depth of field, premium pharmaceutical brand feel, photorealistic. 4:5.
+Use the uploaded PÚRO bottle, keep label identical. Clean professional photo of the PÚRO bottle on a bright white lab/clean-production background, slightly clinical but warm, conveying quality control and safety, soft depth of field, premium pharmaceutical brand feel, photorealistic. 1:1.
 ```
 
 ### C. "Hecho por hombres, para hombres" (founder / equipo)
 ```
-Editorial brand photo of a trustworthy 40-something Argentine man (founder type) in a clean modern setting, arms crossed, calm confident expression, holding or next to the PÚRO bottle, natural light, real and approachable, premium men's-health brand photography, photorealistic. 4:5.
+Editorial brand photo of a trustworthy 40-something Argentine man (founder type) in a clean modern setting, arms crossed, calm confident expression, holding or next to the PÚRO bottle, natural light, real and approachable, premium men's-health brand photography, photorealistic. 1:1.
 ```
 
 ### D. Elementos de confianza (NO son fotos — se diseñan en Canva como íconos/sellos)
