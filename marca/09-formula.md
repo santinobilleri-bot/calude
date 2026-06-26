@@ -4,6 +4,26 @@
 
 ---
 
+## ⭐ FÓRMULA DEFINITIVA — 1 CÁPSULA AL DÍA
+> Presentación elegida: **1 cápsula por día** (cápsula "00", ~720 mg de polvo). Usa extractos concentrados para que entre todo en una sola toma. **Se quitan Magnesio y Té verde por volumen** (no entran en 1 cápsula). Las versiones A/B de abajo quedan como referencia/alternativa de 2 cápsulas.
+
+| Activo | Por cápsula | Para qué |
+|---|---|---|
+| Ashwagandha KSM-66 (5% withanólidos) | 300 mg | Estrés, descanso, apoyo a T |
+| Maca (extracto 10:1) | 150 mg | Energía y vitalidad |
+| Tongkat Ali (Eurycoma 100:1) | 100 mg | Vitalidad masculina *(confirmar habilitación ANMAT)* |
+| Zinc (bisglicinato) | 15 mg | Equilibrio hormonal y metabolismo |
+| Boro (citrato) | 3 mg | Soporte hormonal |
+| Vitamina D3 | 1000 UI | Músculo e inmunidad |
+| Vitamina B6 | 1,4 mg | Energía / función hormonal |
+| Vitamina B12 | 2,4 mcg | Antifatiga |
+
+- **Modo de uso:** Tomar **1 cápsula por día** con el desayuno.
+- **Envase:** 60 cápsulas (2 meses) o 30 cápsulas (1 mes), a definir.
+- **Trade-off honesto:** 1 cápsula = máxima comodidad y mejor marketing, pero sin Magnesio ni Té verde (el ángulo metabólico es más fuerte en la versión de 2 caps). El llenado real y las densidades las confirma el elaborador.
+
+---
+
 ## 0. Marco regulatorio (lo que tenés que saber sí o sí)
 
 - **Categoría:** Suplemento dietario (no medicamento). Autoridad: **INAL / ANMAT**.

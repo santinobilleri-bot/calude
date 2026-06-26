@@ -5,31 +5,29 @@
   <image href="bottle-cutout.png" x="-10" y="300" width="420" height="540" preserveAspectRatio="xMidYMid meet"/>
 
   <!-- table right -->
-  <!-- header -->
   <text x="440" y="318" font-size="28" font-weight="700" fill="#1a1a1a">Ingrediente</text>
-  <text x="1024" y="318" text-anchor="end" font-size="28" font-weight="700" fill="#1a1a1a">Por porción</text>
+  <text x="1024" y="318" text-anchor="end" font-size="28" font-weight="700" fill="#1a1a1a">Por cápsula</text>
   <line x1="440" y1="338" x2="1024" y2="338" stroke="#222" stroke-width="2"/>
 
-  <!-- rows -->
   <g font-size="27" fill="#2a2a2a">
-    <text x="440" y="392">Maca (extracto)</text>
-    <text x="1024" y="392" text-anchor="end" font-weight="600">500 mg</text>
+    <text x="440" y="392">Ashwagandha KSM-66</text>
+    <text x="1024" y="392" text-anchor="end" font-weight="600">300 mg</text>
     <line x1="440" y1="416" x2="1024" y2="416" stroke="#e6e6e6" stroke-width="1.5"/>
 
-    <text x="440" y="458">Ashwagandha KSM-66</text>
-    <text x="1024" y="458" text-anchor="end" font-weight="600">600 mg</text>
+    <text x="440" y="458">Maca (extracto 10:1)</text>
+    <text x="1024" y="458" text-anchor="end" font-weight="600">150 mg</text>
     <line x1="440" y1="482" x2="1024" y2="482" stroke="#e6e6e6" stroke-width="1.5"/>
 
-    <text x="440" y="524">Té verde (EGCG)</text>
-    <text x="1024" y="524" text-anchor="end" font-weight="600">250 mg</text>
+    <text x="440" y="524">Tongkat Ali (100:1)</text>
+    <text x="1024" y="524" text-anchor="end" font-weight="600">100 mg</text>
     <line x1="440" y1="548" x2="1024" y2="548" stroke="#e6e6e6" stroke-width="1.5"/>
 
     <text x="440" y="590">Zinc (bisglicinato)</text>
     <text x="1024" y="590" text-anchor="end" font-weight="600">15 mg</text>
     <line x1="440" y1="614" x2="1024" y2="614" stroke="#e6e6e6" stroke-width="1.5"/>
 
-    <text x="440" y="656">Magnesio (bisglicinato)</text>
-    <text x="1024" y="656" text-anchor="end" font-weight="600">200 mg</text>
+    <text x="440" y="656">Boro (citrato)</text>
+    <text x="1024" y="656" text-anchor="end" font-weight="600">3 mg</text>
     <line x1="440" y1="680" x2="1024" y2="680" stroke="#e6e6e6" stroke-width="1.5"/>
 
     <text x="440" y="722">Vitamina D3</text>
@@ -44,5 +42,5 @@
     <text x="1024" y="854" text-anchor="end" font-weight="600">2,4 mcg</text>
   </g>
 
-  <text x="440" y="916" font-size="20" fill="#8a8a8a">Porción: 2 cápsulas · 60 cápsulas por envase · Suplemento dietario</text>
+  <text x="440" y="916" font-size="20" fill="#8a8a8a">Tomar 1 cápsula por día · 60 cápsulas por envase · Suplemento dietario</text>
 </svg>
