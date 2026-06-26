@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" font-family="Outfit, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16314e"/><stop offset="1" stop-color="#091625"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="76%" cy="50%" r="44%">
+      <stop offset="0" stop-color="#2E6BD6" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#091625" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0b878"/><stop offset="1" stop-color="#d98a3f"/>
+    </linearGradient>
+    <g id="star"><polygon points="11,2 13.6,8.2 20,8.6 15,12.8 16.7,19 11,15.4 5.3,19 7,12.8 2,8.6 8.4,8.2" fill="#f0b878"/></g>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <rect width="1080" height="1080" fill="url(#glow)"/>
+
+  <!-- header -->
+  <g transform="translate(56,86)">
+    <text x="0" y="0" font-size="44" font-style="italic" font-weight="800" fill="#F8F6F0">PÚRO</text>
+    <polygon points="35,-44 51,-58 59,-51 43,-37" fill="url(#amber)"/>
+  </g>
+
+  <!-- bottle -->
+  <image href="bottle-cutout.png" x="615" y="300" width="450" height="690" preserveAspectRatio="xMidYMid meet"/>
+
+  <!-- kicker -->
+  <text x="58" y="300" font-size="27" font-weight="800" letter-spacing="2" fill="#f0b878">PARA HOMBRES DE +40</text>
+
+  <!-- headline -->
+  <g font-weight="800" font-size="78" fill="#F8F6F0">
+    <text x="56" y="392">Menos panza.</text>
+    <text x="56" y="480">Más energía.</text>
+    <text x="56" y="568" fill="#f0b878">Más vos.</text>
+  </g>
+
+  <!-- subhead -->
+  <text x="58" y="636" font-size="30" font-weight="600" fill="#bcd0e6">No es la edad. Es que te faltaba esto.</text>
+
+  <!-- mini bullets -->
+  <g font-size="26" font-weight="600" fill="#dCe7f2">
+    <text x="58" y="712">✓ Energía de la mañana a la noche</text>
+    <text x="58" y="758">✓ Apoya el metabolismo y la figura</text>
+    <text x="58" y="804">✓ Natural · 1 cápsula al día</text>
+  </g>
+
+  <!-- social proof -->
+  <g transform="translate(58,860)">
+    <use href="#star" x="0"/><use href="#star" x="30"/><use href="#star" x="60"/><use href="#star" x="90"/><use href="#star" x="120"/>
+    <text x="160" y="18" font-size="25" font-weight="700" fill="#a9c0d8">+10.000 hombres ya hicieron el cambio</text>
+  </g>
+
+  <!-- footer -->
+  <rect x="0" y="966" width="1080" height="114" fill="#070f1a"/>
+  <text x="540" y="1014" text-anchor="middle" font-size="26" font-weight="800" fill="#F8F6F0">Garantía 30 días · Sin hormonas</text>
+  <text x="540" y="1050" text-anchor="middle" font-size="20" letter-spacing="2" font-weight="600" fill="#7fa6d8">SUPLEMENTO DIETARIO · INDUSTRIA ARGENTINA</text>
+</svg>
