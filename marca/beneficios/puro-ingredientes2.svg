@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" font-family="Outfit, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#15314f"/><stop offset="1" stop-color="#0a1726"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0b878"/><stop offset="1" stop-color="#d98a3f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+
+  <!-- title -->
+  <text x="540" y="84" text-anchor="middle" font-size="46" font-weight="800" fill="#F8F6F0">QUÉ LLEVA <tspan font-style="italic" fill="#f0b878">PÚRO</tspan> Y PARA QUÉ</text>
+  <text x="540" y="126" text-anchor="middle" font-size="24" font-weight="500" fill="#9fb6cf">Cada activo, con sus mg a la vista.</text>
+
+  <!-- ================= CARDS ================= -->
+  <!-- card template: rect + circle icon + texts -->
+
+  <!-- 1 MACA -->
+  <g transform="translate(56,166)">
+    <rect width="484" height="216" rx="22" fill="#102a44" stroke="#274463" stroke-width="1.5"/>
+    <circle cx="118" cy="108" r="66" fill="#13344f"/>
+    <g transform="translate(118,108)">
+      <ellipse cx="0" cy="-6" rx="26" ry="33" fill="#e0a35c"/>
+      <ellipse cx="-8" cy="-14" rx="8" ry="12" fill="#f0c08a" opacity="0.7"/>
+      <path d="M-10,24 q -3,16 -7,22 M2,28 q 0,16 1,24 M12,22 q 4,15 9,20" stroke="#c98f4f" stroke-width="4" fill="none" stroke-linecap="round"/>
+    </g>
+    <text x="206" y="86" font-size="33" font-weight="800" fill="#ffffff">MACA</text>
+    <text x="206" y="126" font-size="27" font-weight="800" fill="#f0b878">500 mg</text>
+    <text x="206" y="166" font-size="22" font-weight="500" fill="#a9c0d8">Energía y vitalidad</text>
+  </g>
+
+  <!-- 2 ASHWAGANDHA -->
+  <g transform="translate(540,166)">
+    <rect width="484" height="216" rx="22" fill="#102a44" stroke="#274463" stroke-width="1.5"/>
+    <circle cx="118" cy="108" r="66" fill="#13344f"/>
+    <g transform="translate(118,108)">
+      <path d="M-16,-30 q 8,-10 16,0 q 8,-10 16,0 q -2,12 -16,14 q -14,-2 -16,-14 Z" fill="#6fbf73"/>
+      <ellipse cx="0" cy="6" rx="14" ry="22" fill="#d9b389"/>
+      <path d="M-6,26 q -2,12 -5,18 M3,28 q 1,12 2,18 M9,24 q 4,11 8,16" stroke="#bd9568" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+      <circle cx="-18" cy="-2" r="6" fill="#d8533e"/><circle cx="18" cy="-4" r="6" fill="#d8533e"/>
+    </g>
+    <text x="206" y="86" font-size="30" font-weight="800" fill="#ffffff">ASHWAGANDHA</text>
+    <text x="206" y="126" font-size="27" font-weight="800" fill="#f0b878">600 mg</text>
+    <text x="206" y="166" font-size="22" font-weight="500" fill="#a9c0d8">Menos estrés, mejor descanso</text>
+  </g>
+
+  <!-- 3 TE VERDE -->
+  <g transform="translate(56,398)">
+    <rect width="484" height="216" rx="22" fill="#102a44" stroke="#274463" stroke-width="1.5"/>
+    <circle cx="118" cy="108" r="66" fill="#13344f"/>
+    <g transform="translate(118,108)">
+      <path d="M-2,34 C -28,18 -28,-22 4,-34 C 30,-18 26,22 -2,34 Z" fill="#5fb16a"/>
+      <path d="M-2,32 C -4,8 0,-14 4,-32" stroke="#2f7d43" stroke-width="3" fill="none"/>
+    </g>
+    <text x="206" y="86" font-size="33" font-weight="800" fill="#ffffff">TÉ VERDE</text>
+    <text x="206" y="126" font-size="27" font-weight="800" fill="#f0b878">250 mg</text>
+    <text x="206" y="166" font-size="22" font-weight="500" fill="#a9c0d8">Apoya el metabolismo</text>
+  </g>
+
+  <!-- 4 ZINC -->
+  <g transform="translate(540,398)">
+    <rect width="484" height="216" rx="22" fill="#102a44" stroke="#274463" stroke-width="1.5"/>
+    <circle cx="118" cy="108" r="66" fill="#13344f"/>
+    <g transform="translate(118,108)">
+      <polygon points="0,-38 33,-19 33,19 0,38 -33,19 -33,-19" fill="none" stroke="url(#amber)" stroke-width="5"/>
+      <text x="0" y="13" text-anchor="middle" font-size="38" font-weight="800" fill="#f0b878">Zn</text>
+    </g>
+    <text x="206" y="86" font-size="33" font-weight="800" fill="#ffffff">ZINC</text>
+    <text x="206" y="126" font-size="27" font-weight="800" fill="#f0b878">15 mg</text>
+    <text x="206" y="166" font-size="22" font-weight="500" fill="#a9c0d8">Equilibrio hormonal masculino</text>
+  </g>
+
+  <!-- 5 MAGNESIO -->
+  <g transform="translate(56,630)">
+    <rect width="484" height="216" rx="22" fill="#102a44" stroke="#274463" stroke-width="1.5"/>
+    <circle cx="118" cy="108" r="66" fill="#13344f"/>
+    <g transform="translate(118,108)">
+      <polygon points="0,-38 33,-19 33,19 0,38 -33,19 -33,-19" fill="none" stroke="url(#amber)" stroke-width="5"/>
+      <text x="0" y="13" text-anchor="middle" font-size="36" font-weight="800" fill="#f0b878">Mg</text>
+    </g>
+    <text x="206" y="86" font-size="33" font-weight="800" fill="#ffffff">MAGNESIO</text>
+    <text x="206" y="126" font-size="27" font-weight="800" fill="#f0b878">200 mg</text>
+    <text x="206" y="166" font-size="22" font-weight="500" fill="#a9c0d8">Menos fatiga</text>
+  </g>
+
+  <!-- 6 VITAMINA D3 -->
+  <g transform="translate(540,630)">
+    <rect width="484" height="216" rx="22" fill="#102a44" stroke="#274463" stroke-width="1.5"/>
+    <circle cx="118" cy="108" r="66" fill="#13344f"/>
+    <g transform="translate(118,108)" stroke="url(#amber)" stroke-width="5" stroke-linecap="round">
+      <circle cx="0" cy="0" r="18" fill="#f0b878" stroke="none"/>
+      <line x1="0" y1="-30" x2="0" y2="-42"/><line x1="0" y1="30" x2="0" y2="42"/>
+      <line x1="-30" y1="0" x2="-42" y2="0"/><line x1="30" y1="0" x2="42" y2="0"/>
+      <line x1="-22" y1="-22" x2="-31" y2="-31"/><line x1="22" y1="-22" x2="31" y2="-31"/>
+      <line x1="-22" y1="22" x2="-31" y2="31"/><line x1="22" y1="22" x2="31" y2="31"/>
+    </g>
+    <text x="206" y="86" font-size="33" font-weight="800" fill="#ffffff">VITAMINA D3</text>
+    <text x="206" y="126" font-size="27" font-weight="800" fill="#f0b878">1000 UI</text>
+    <text x="206" y="166" font-size="22" font-weight="500" fill="#a9c0d8">Músculo e inmunidad</text>
+  </g>
+
+  <!-- footer -->
+  <rect x="0" y="958" width="1080" height="122" fill="#0a1726"/>
+  <text x="540" y="1008" text-anchor="middle" font-size="28" font-weight="800" fill="#F8F6F0">1 al día · Natural, sin hormonas</text>
+  <text x="540" y="1046" text-anchor="middle" font-size="21" letter-spacing="2" font-weight="600" fill="#7fa6d8">SUPLEMENTO DIETARIO · INDUSTRIA ARGENTINA</text>
+</svg>
