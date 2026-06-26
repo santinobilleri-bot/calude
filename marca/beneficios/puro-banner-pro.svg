@@ -73,14 +73,9 @@
   </g>
 
   <!-- trust chips -->
-  <g transform="translate(60,902)" font-size="23" font-weight="700" fill="#dce7f2">
-    <use href="#check" x="0" y="-18"/>   <text x="36" y="2">Sin hormonas</text>
-    <use href="#check" x="230" y="-18"/> <text x="266" y="2">Industria Argentina</text>
-  </g>
-
-  <!-- CTA -->
-  <g transform="translate(60,948)">
-    <rect width="384" height="80" rx="40" fill="url(#amber)"/>
-    <text x="192" y="52" text-anchor="middle" font-size="31" font-weight="800" fill="#0a1726">QUIERO VOLVER A SER YO</text>
+  <g transform="translate(60,952)" font-size="24" font-weight="700" fill="#dce7f2">
+    <use href="#check" x="0" y="-18"/>   <text x="38" y="2">Sin hormonas</text>
+    <use href="#check" x="232" y="-18"/> <text x="270" y="2">1 cápsula al día</text>
+    <use href="#check" x="470" y="-18"/> <text x="508" y="2">Industria Argentina</text>
   </g>
 </svg>
