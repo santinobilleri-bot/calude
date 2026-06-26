@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" font-family="Outfit, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#15314f"/><stop offset="1" stop-color="#0a1726"/>
+    </linearGradient>
+    <radialGradient id="spot" cx="80%" cy="56%" r="50%">
+      <stop offset="0" stop-color="#2E6BD6" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#0a1726" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0b878"/><stop offset="1" stop-color="#d98a3f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <rect width="1080" height="1080" fill="url(#spot)"/>
+
+  <!-- title -->
+  <text x="60" y="112" font-size="54" font-weight="800" fill="#F8F6F0">BAJÁ LA PANZA <tspan fill="#f0b878">DE VERDAD</tspan></text>
+  <text x="62" y="158" font-size="28" font-weight="500" fill="#9fb6cf">El plan simple: 2 hábitos + PÚRO. Sin magia.</text>
+  <rect x="62" y="184" width="120" height="6" rx="3" fill="url(#amber)"/>
+
+  <!-- bottle right -->
+  <image href="bottle-cutout.png" x="708" y="300" width="356" height="640" preserveAspectRatio="xMidYMax meet"/>
+
+  <!-- TIP 1 caminar -->
+  <g transform="translate(70,288)">
+    <circle cx="55" cy="55" r="55" fill="url(#amber)"/>
+    <g transform="translate(55,55)" stroke="#0a1726" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <circle cx="2" cy="-28" r="9" fill="#0a1726" stroke="none"/>
+      <path d="M2,-16 L-2,4"/>
+      <path d="M-2,4 L-16,24 M-2,4 L14,20"/>
+      <path d="M0,-8 L16,-2 M0,-8 L-14,-12"/>
+    </g>
+    <text x="140" y="44" font-size="35" font-weight="800" fill="#ffffff">Caminá 30 min por día</text>
+    <text x="140" y="86" font-size="25" font-weight="500" fill="#a9c0d8">Moverte un poco ya hace la diferencia.</text>
+  </g>
+
+  <!-- TIP 2 tomar PURO -->
+  <g transform="translate(70,470)">
+    <circle cx="55" cy="55" r="55" fill="url(#amber)"/>
+    <g transform="translate(55,55) rotate(45)">
+      <rect x="-32" y="-13" width="64" height="26" rx="13" fill="#0a1726"/>
+      <rect x="0" y="-13" width="32" height="26" rx="13" fill="#13344f"/>
+      <rect x="-32" y="-13" width="64" height="26" rx="13" fill="none" stroke="#0a1726" stroke-width="3"/>
+    </g>
+    <text x="140" y="44" font-size="35" font-weight="800" fill="#ffffff">Tomá PÚRO todos los días</text>
+    <text x="140" y="86" font-size="25" font-weight="500" fill="#a9c0d8">1 toma al día. Te acompaña con energía.</text>
+  </g>
+
+  <!-- TIP 3 agua -->
+  <g transform="translate(70,652)">
+    <circle cx="55" cy="55" r="55" fill="url(#amber)"/>
+    <path transform="translate(55,55)" d="M0,-30 C 18,-6 24,6 12,22 C 2,33 -16,30 -22,16 C -26,4 -16,-8 0,-30 Z" fill="#0a1726"/>
+    <text x="140" y="44" font-size="35" font-weight="800" fill="#ffffff">Tomá 2-3 litros de agua</text>
+    <text x="140" y="86" font-size="25" font-weight="500" fill="#a9c0d8">Hidratado rendís y comés mejor.</text>
+  </g>
+
+  <!-- footer -->
+  <rect x="0" y="958" width="1080" height="122" fill="#0a1726"/>
+  <text x="540" y="1008" text-anchor="middle" font-size="27" font-weight="800" fill="#F8F6F0">PÚRO te da la energía. Vos ponés los hábitos.</text>
+  <text x="540" y="1046" text-anchor="middle" font-size="21" letter-spacing="2" font-weight="600" fill="#7fa6d8">NATURAL · SIN HORMONAS · SUPLEMENTO DIETARIO</text>
+</svg>
