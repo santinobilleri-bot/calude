@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" font-family="Outfit, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16314e"/><stop offset="1" stop-color="#091625"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0b878"/><stop offset="1" stop-color="#d98a3f"/>
+    </linearGradient>
+    <g id="ok"><circle cx="0" cy="0" r="20" fill="#3fae6b"/><path d="M-9 0 l6 6 l12 -13" fill="none" stroke="#fff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g id="no"><circle cx="0" cy="0" r="20" fill="#3a5066"/><path d="M-8 -8 l16 16 M8 -8 l-16 16" fill="none" stroke="#cdd9e5" stroke-width="4.5" stroke-linecap="round"/></g>
+    <g id="dash"><circle cx="0" cy="0" r="20" fill="#3a5066"/><path d="M-9 0 h18" fill="none" stroke="#cdd9e5" stroke-width="4.5" stroke-linecap="round"/></g>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+
+  <!-- header -->
+  <g transform="translate(56,90)">
+    <text x="0" y="0" font-size="40" font-style="italic" font-weight="800" fill="#F8F6F0">PÚRO</text>
+    <polygon points="32,-40 47,-53 55,-46 40,-33" fill="url(#amber)"/>
+  </g>
+  <text x="540" y="190" text-anchor="middle" font-size="52" font-weight="800" fill="#F8F6F0">PÚRO vs. <tspan fill="#f0b878">LOS DEMÁS</tspan></text>
+  <text x="540" y="234" text-anchor="middle" font-size="26" font-weight="500" fill="#9fb6cf">Lo que otros suplementos no te dan.</text>
+
+  <!-- PURO column highlight -->
+  <rect x="852" y="280" width="172" height="610" rx="20" fill="#13344f" stroke="#f0b878" stroke-width="2.5"/>
+
+  <!-- column headers -->
+  <text x="730" y="332" text-anchor="middle" font-size="30" font-weight="800" fill="#9fb6cf">OTROS</text>
+  <text x="938" y="332" text-anchor="middle" font-size="32" font-weight="800" fill="#f0b878">PÚRO</text>
+
+  <!-- rows -->
+  <g font-size="27" font-weight="600" fill="#eaf1f8">
+    <text x="56" y="408">Energía + metabolismo + ánimo + descanso</text>
+    <use href="#no" x="730" y="400"/><use href="#ok" x="938" y="400"/>
+    <line x1="56" y1="440" x2="1024" y2="440" stroke="#274463" stroke-width="1.5"/>
+
+    <text x="56" y="496">Fórmula transparente (ves los mg)</text>
+    <use href="#no" x="730" y="488"/><use href="#ok" x="938" y="488"/>
+    <line x1="56" y1="528" x2="1024" y2="528" stroke="#274463" stroke-width="1.5"/>
+
+    <text x="56" y="584">Adaptógeno para el estrés (Ashwagandha)</text>
+    <use href="#no" x="730" y="576"/><use href="#ok" x="938" y="576"/>
+    <line x1="56" y1="616" x2="1024" y2="616" stroke="#274463" stroke-width="1.5"/>
+
+    <text x="56" y="672">100% natural, sin hormonas</text>
+    <use href="#ok" x="730" y="664"/><use href="#ok" x="938" y="664"/>
+    <line x1="56" y1="704" x2="1024" y2="704" stroke="#274463" stroke-width="1.5"/>
+
+    <text x="56" y="760">Garantía de 30 días</text>
+    <use href="#no" x="730" y="752"/><use href="#ok" x="938" y="752"/>
+    <line x1="56" y1="792" x2="1024" y2="792" stroke="#274463" stroke-width="1.5"/>
+
+    <text x="56" y="848">Industria Argentina, pensado para +40</text>
+    <use href="#dash" x="730" y="840"/><use href="#ok" x="938" y="840"/>
+  </g>
+
+  <!-- footer -->
+  <rect x="0" y="958" width="1080" height="122" fill="#070f1a"/>
+  <text x="540" y="1006" text-anchor="middle" font-size="27" font-weight="800" fill="#F8F6F0">Otros atacan una cosa. PÚRO, las cuatro.</text>
+  <text x="540" y="1044" text-anchor="middle" font-size="20" letter-spacing="2" font-weight="600" fill="#7fa6d8">NATURAL · SIN HORMONAS · GARANTÍA 30 DÍAS</text>
+</svg>
