@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" font-family="Outfit, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#eef1f4"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0b878"/><stop offset="1" stop-color="#d98a3f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+
+  <!-- bottle left -->
+  <image href="bottle-cutout.png" x="-10" y="250" width="420" height="640" preserveAspectRatio="xMidYMid meet"/>
+  <text x="195" y="945" text-anchor="middle" font-size="30" font-style="italic" font-weight="800" fill="#10243B">PÚRO</text>
+  <text x="195" y="975" text-anchor="middle" font-size="16" letter-spacing="2" font-weight="600" fill="#7e93a8">VITALIDAD MASCULINA</text>
+
+  <!-- title -->
+  <text x="430" y="150" font-size="42" font-weight="800" fill="#10243B">INGREDIENTES</text>
+  <text x="432" y="190" font-size="24" font-weight="500" fill="#5a708a">Por porción · 2 cápsulas</text>
+
+  <!-- table header -->
+  <rect x="430" y="222" width="600" height="56" rx="10" fill="#10243B"/>
+  <text x="452" y="259" font-size="23" letter-spacing="1" font-weight="700" fill="#ffffff">INGREDIENTE</text>
+  <text x="1008" y="259" text-anchor="end" font-size="23" letter-spacing="1" font-weight="700" fill="#f0b878">CANTIDAD</text>
+
+  <!-- rows -->
+  <g font-size="27">
+    <text x="452" y="338" font-weight="700" fill="#10243B">Maca (extracto)</text>
+    <text x="1008" y="338" text-anchor="end" font-weight="800" fill="#10243B">500 mg</text>
+    <line x1="430" y1="364" x2="1030" y2="364" stroke="#dde3e9" stroke-width="2"/>
+
+    <text x="452" y="412" font-weight="700" fill="#10243B">Ashwagandha KSM-66</text>
+    <text x="1008" y="412" text-anchor="end" font-weight="800" fill="#10243B">600 mg</text>
+    <line x1="430" y1="438" x2="1030" y2="438" stroke="#dde3e9" stroke-width="2"/>
+
+    <text x="452" y="486" font-weight="700" fill="#10243B">Té verde (EGCG)</text>
+    <text x="1008" y="486" text-anchor="end" font-weight="800" fill="#10243B">250 mg</text>
+    <line x1="430" y1="512" x2="1030" y2="512" stroke="#dde3e9" stroke-width="2"/>
+
+    <text x="452" y="560" font-weight="700" fill="#10243B">Zinc (bisglicinato)</text>
+    <text x="1008" y="560" text-anchor="end" font-weight="800" fill="#10243B">15 mg</text>
+    <line x1="430" y1="586" x2="1030" y2="586" stroke="#dde3e9" stroke-width="2"/>
+
+    <text x="452" y="634" font-weight="700" fill="#10243B">Magnesio (bisglicinato)</text>
+    <text x="1008" y="634" text-anchor="end" font-weight="800" fill="#10243B">200 mg</text>
+    <line x1="430" y1="660" x2="1030" y2="660" stroke="#dde3e9" stroke-width="2"/>
+
+    <text x="452" y="708" font-weight="700" fill="#10243B">Vitamina D3</text>
+    <text x="1008" y="708" text-anchor="end" font-weight="800" fill="#10243B">1000 UI</text>
+    <line x1="430" y1="734" x2="1030" y2="734" stroke="#dde3e9" stroke-width="2"/>
+
+    <text x="452" y="782" font-weight="700" fill="#10243B">Vitamina B6</text>
+    <text x="1008" y="782" text-anchor="end" font-weight="800" fill="#10243B">1,4 mg</text>
+    <line x1="430" y1="808" x2="1030" y2="808" stroke="#dde3e9" stroke-width="2"/>
+
+    <text x="452" y="856" font-weight="700" fill="#10243B">Vitamina B12</text>
+    <text x="1008" y="856" text-anchor="end" font-weight="800" fill="#10243B">2,4 mcg</text>
+  </g>
+
+  <!-- footer -->
+  <rect x="430" y="906" width="600" height="2" fill="#cbd3db"/>
+  <text x="432" y="952" font-size="21" font-weight="600" fill="#5a708a">60 cápsulas por envase · 30 días · Suplemento dietario</text>
+  <text x="432" y="984" font-size="21" font-weight="700" fill="#d98a3f">Natural · Sin hormonas · Industria Argentina</text>
+</svg>
