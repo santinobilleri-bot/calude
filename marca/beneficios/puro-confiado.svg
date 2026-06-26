@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" font-family="Outfit, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16314e"/><stop offset="1" stop-color="#091625"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="55%" r="46%">
+      <stop offset="0" stop-color="#2E6BD6" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#091625" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="cardsh" x="-20%" y="-20%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="7" stdDeviation="12" flood-color="#000" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <rect width="1080" height="1080" fill="url(#glow)"/>
+
+  <!-- bottle -->
+  <image href="bottle-cutout.png" x="690" y="372" width="400" height="700" preserveAspectRatio="xMidYMax meet"/>
+
+  <!-- kicker -->
+  <text x="56" y="96" font-size="32" font-weight="800" fill="#F4F1EA">+10.000 Clientes Satisfechos</text>
+
+  <!-- headline -->
+  <g fill="#F8F6F0" font-weight="800" font-size="58">
+    <text x="54" y="186">Confiado por miles</text>
+    <text x="54" y="252">de hombres que</text>
+    <text x="54" y="318">hicieron el cambio</text>
+  </g>
+  <text x="56" y="382" font-size="34" font-weight="800" fill="#f0b878">¡Sin riesgo, solo resultados!</text>
+
+  <!-- cards 2x2 (sin guiones) -->
+  <g filter="url(#cardsh)">
+    <g transform="translate(56,440)">
+      <rect width="294" height="150" rx="22" fill="#ffffff"/>
+      <text x="28" y="64" font-size="34" font-weight="800" fill="#d57e34">Energía</text>
+      <text x="28" y="108" font-size="26" font-weight="600" fill="#23364d">Más pila todo el día</text>
+    </g>
+    <g transform="translate(372,440)">
+      <rect width="294" height="150" rx="22" fill="#ffffff"/>
+      <text x="28" y="64" font-size="33" font-weight="800" fill="#d57e34">Metabolismo</text>
+      <text x="28" y="108" font-size="26" font-weight="600" fill="#23364d">Apoya tu figura</text>
+    </g>
+    <g transform="translate(56,612)">
+      <rect width="294" height="150" rx="22" fill="#ffffff"/>
+      <text x="28" y="64" font-size="34" font-weight="800" fill="#d57e34">Ánimo</text>
+      <text x="28" y="108" font-size="26" font-weight="600" fill="#23364d">Volvé a sentirte vos</text>
+    </g>
+    <g transform="translate(372,612)">
+      <rect width="294" height="150" rx="22" fill="#ffffff"/>
+      <text x="28" y="64" font-size="34" font-weight="800" fill="#d57e34">Descanso</text>
+      <text x="28" y="108" font-size="26" font-weight="600" fill="#23364d">Dormís mejor</text>
+    </g>
+  </g>
+
+  <!-- footer trust -->
+  <text x="56" y="872" font-size="28" font-weight="800" fill="#F4F1EA">100% Natural · Sin hormonas · 1 al día</text>
+  <text x="56" y="910" font-size="21" letter-spacing="2" font-weight="600" fill="#7fa6d8">SUPLEMENTO DIETARIO · INDUSTRIA ARGENTINA</text>
+</svg>
