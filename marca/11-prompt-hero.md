@@ -30,13 +30,13 @@ LIGHTING & STYLE: soft diffused studio lighting, gentle warm rim-light on the am
 ```
 Use the supplement bottle in the image I uploaded as the exact product — keep the bottle, the amber glass and the label design 100% identical, do not change any text or colors.
 
-Create a premium 1:1 square hero image for a men's-health brand website that looks like a big, well-established, trustworthy brand.
+Create a premium 1:1 square advertising hero image for a men's-health brand that looks like a big, well-established, serious brand campaign.
 
-SCENE: the PÚRO amber bottle as the hero, standing on a subtle glossy white podium / surface with a soft mirror reflection. A few matching dark capsules artfully placed at the base, and one small natural element (a maca root or a green botanical sprig) to signal "natural", kept minimal and elegant.
+SCENE: the PÚRO amber bottle as the clear hero, centered, standing on a clean glossy white surface with a soft subtle mirror reflection underneath. NO leaves, NO plants, NO botanicals, NO props — just the bottle. Optionally two or three matching dark capsules placed cleanly near the base.
 
-BACKGROUND: clean bright studio white with a very soft cool-blue gradient glow behind the bottle (subtle halo), gentle vignette, lots of clean space. Premium, airy, expensive-looking.
+BACKGROUND: pure professional all-white seamless studio background, bright and clean, with a very soft light-grey gradient and a gentle soft shadow for depth. Minimal, premium, lots of clean negative space.
 
-LIGHTING & STYLE: soft diffused studio light, warm rim-light glowing through the amber glass, crisp reflections, advertising / magazine campaign quality, photorealistic, ultra sharp, 4K. High-end, masculine, clean. Square 1:1.
+LIGHTING & STYLE: crisp professional studio advertising lighting, soft highlights, warm rim-light glowing through the amber glass, sharp clean reflections, high-end commercial product photography, magazine ad quality, photorealistic, ultra sharp, 4K. Serious, masculine, premium. Square 1:1.
 ```
 
 ### Si lo generás de cero (sin subir el frasco)
