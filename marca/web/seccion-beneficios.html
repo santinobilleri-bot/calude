@@ -1,27 +1,28 @@
 <style>
-.purob{background:#ffffff;padding:18px 12px 20px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;box-sizing:border-box;}
+.purob{background:#ffffff;padding:16px 12px 18px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;box-sizing:border-box;}
 .purob *{box-sizing:border-box}
-.purob-wrap{max-width:640px;margin:0 auto}
+.purob-wrap{max-width:680px;margin:0 auto}
 .purob-top{text-align:center;margin-bottom:14px}
-.purob-rating{display:inline-flex;align-items:center;gap:6px;background:#fbf1e6;border:1px solid #e8c79f;padding:4px 10px;border-radius:999px;margin-bottom:9px}
+.purob-rating{display:inline-flex;align-items:center;gap:6px;background:#fbf1e6;border:1px solid #e8c79f;padding:4px 10px;border-radius:999px;margin-bottom:8px}
 .purob-rating .s{color:#d98a3f;font-size:11px;letter-spacing:.8px;line-height:1}
 .purob-rating span{color:#0B2747;font-size:10px;font-weight:700}
-.purob-title{margin:0;color:#0B2747;font-size:21px;line-height:1.12;font-weight:900;letter-spacing:-.4px}
+.purob-title{margin:0;color:#0B2747;font-size:22px;line-height:1.1;font-weight:900;letter-spacing:-.4px}
 .purob-title em{color:#d98a3f;font-style:normal}
 .purob-sub{margin:5px 0 0;color:#6a7c8f;font-size:12px;font-weight:600}
-.purob-grid{display:grid;grid-template-columns:1fr;gap:8px;margin-top:14px}
-.purob-card{display:flex;gap:11px;align-items:center;background:#f6f8fa;border:1px solid #e7ecf1;border-radius:13px;padding:11px 12px;transition:transform .15s,border-color .15s}
-.purob-card:hover{transform:translateY(-2px);border-color:#e8c79f}
-.purob-ico{width:38px;height:38px;border-radius:10px;background:linear-gradient(135deg,#f0b878,#d98a3f);display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0;box-shadow:0 4px 10px rgba(217,138,63,.28)}
-.purob-ct h3{margin:0 0 2px;color:#0B2747;font-size:14px;font-weight:800;line-height:1.15}
-.purob-ct p{margin:0;color:#5a6b7d;font-size:11.5px;line-height:1.35;font-weight:500}
-@media(min-width:640px){
-  .purob{padding:26px 18px 28px}
-  .purob-title{font-size:27px}
+/* 2 columnas en celular */
+.purob-grid{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-top:14px}
+.purob-card{text-align:center;background:#f6f8fa;border:1px solid #e7ecf1;border-radius:14px;padding:14px 10px;}
+.purob-ico{width:42px;height:42px;border-radius:12px;margin:0 auto 9px;background:linear-gradient(135deg,#f0b878,#d98a3f);display:flex;align-items:center;justify-content:center;font-size:20px;box-shadow:0 4px 11px rgba(217,138,63,.28)}
+.purob-card h3{margin:0 0 3px;color:#0B2747;font-size:13.5px;font-weight:800;line-height:1.15}
+.purob-card p{margin:0;color:#5a6b7d;font-size:11px;line-height:1.35;font-weight:500}
+@media(min-width:680px){
+  .purob{padding:28px 18px 30px}
+  .purob-title{font-size:30px}
   .purob-sub{font-size:13px}
-  .purob-grid{grid-template-columns:1fr 1fr;gap:10px;margin-top:18px}
-  .purob-ct h3{font-size:15px}
-  .purob-ct p{font-size:12px}
+  .purob-grid{grid-template-columns:1fr 1fr 1fr;gap:12px;margin-top:20px}
+  .purob-ico{width:50px;height:50px;font-size:24px}
+  .purob-card h3{font-size:15px}
+  .purob-card p{font-size:12.5px}
 }
 </style>
 
@@ -33,12 +34,12 @@
       <p class="purob-sub">Una cápsula al día. Natural. Para el hombre de +40.</p>
     </div>
     <div class="purob-grid">
-      <div class="purob-card"><div class="purob-ico">🔥</div><div class="purob-ct"><h3>Activá tu metabolismo</h3><p>Menos hinchazón y esa panza que no afloja.</p></div></div>
-      <div class="purob-card"><div class="purob-ico">⚡</div><div class="purob-ct"><h3>Chau al bajón de las 6</h3><p>Energía real para tus hijos, el laburo y el asado.</p></div></div>
-      <div class="purob-card"><div class="purob-ico">🧘</div><div class="purob-ct"><h3>Menos estrés y picoteo</h3><p>El Ashwagandha te ayuda a bajar un cambio.</p></div></div>
-      <div class="purob-card"><div class="purob-ico">👕</div><div class="purob-ct"><h3>Cómodo con tu ropa</h3><p>Sacate la remera en la pileta sin pensarlo.</p></div></div>
-      <div class="purob-card"><div class="purob-ico">💊</div><div class="purob-ct"><h3>Una cápsula al día</h3><p>Sin dietas imposibles, sin vivir en el gym.</p></div></div>
-      <div class="purob-card"><div class="purob-ico">⏱️</div><div class="purob-ct"><h3>La diferencia en 21 días</h3><p>Con constancia, volvés a ser vos.</p></div></div>
+      <div class="purob-card"><div class="purob-ico">🔥</div><h3>Activá tu metabolismo</h3><p>Menos hinchazón y panza.</p></div>
+      <div class="purob-card"><div class="purob-ico">⚡</div><h3>Chau al bajón de las 6</h3><p>Energía real todo el día.</p></div>
+      <div class="purob-card"><div class="purob-ico">🧘</div><h3>Menos estrés</h3><p>Bajás un cambio y dormís mejor.</p></div>
+      <div class="purob-card"><div class="purob-ico">👕</div><h3>Cómodo con tu ropa</h3><p>Sacate la remera sin pensarlo.</p></div>
+      <div class="purob-card"><div class="purob-ico">💊</div><h3>Una cápsula al día</h3><p>Sin dietas, sin gym.</p></div>
+      <div class="purob-card"><div class="purob-ico">⏱️</div><h3>Cambios en 21 días</h3><p>Con constancia, volvés a ser vos.</p></div>
     </div>
   </div>
 </section>
