@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" font-family="Outfit, sans-serif">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#143a2f"/><stop offset="1" stop-color="#0c241d"/>
+      <stop offset="0" stop-color="#15314f"/><stop offset="1" stop-color="#0a1726"/>
     </linearGradient>
     <radialGradient id="spot" cx="78%" cy="60%" r="55%">
-      <stop offset="0" stop-color="#1d5142" stop-opacity="0.7"/>
-      <stop offset="1" stop-color="#0c241d" stop-opacity="0"/>
+      <stop offset="0" stop-color="#2E6BD6" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#0a1726" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
@@ -31,26 +31,26 @@
     <g transform="translate(48,448)">
       <rect width="282" height="150" rx="22" fill="#ffffff"/>
       <text x="28" y="62" font-size="33" font-weight="800" fill="#d57e34">METABOLISMO</text>
-      <text x="28" y="106" font-size="27" font-weight="600" fill="#243b33">Apoyá tu figura</text>
+      <text x="28" y="106" font-size="27" font-weight="600" fill="#23364d">Apoyá tu figura</text>
     </g>
     <g transform="translate(346,448)">
       <rect width="282" height="150" rx="22" fill="#ffffff"/>
       <text x="28" y="62" font-size="33" font-weight="800" fill="#d57e34">ENERGÍA</text>
-      <text x="28" y="106" font-size="27" font-weight="600" fill="#243b33">Adiós a los bajones</text>
+      <text x="28" y="106" font-size="27" font-weight="600" fill="#23364d">Adiós a los bajones</text>
     </g>
     <g transform="translate(48,616)">
       <rect width="282" height="150" rx="22" fill="#ffffff"/>
       <text x="28" y="62" font-size="33" font-weight="800" fill="#d57e34">ÁNIMO Y GANAS</text>
-      <text x="28" y="106" font-size="27" font-weight="600" fill="#243b33">Volvé a sentirte vos</text>
+      <text x="28" y="106" font-size="27" font-weight="600" fill="#23364d">Volvé a sentirte vos</text>
     </g>
     <g transform="translate(346,616)">
       <rect width="282" height="150" rx="22" fill="#ffffff"/>
       <text x="28" y="62" font-size="33" font-weight="800" fill="#d57e34">DESCANSO</text>
-      <text x="28" y="106" font-size="27" font-weight="600" fill="#243b33">Menos estrés</text>
+      <text x="28" y="106" font-size="27" font-weight="600" fill="#23364d">Menos estrés</text>
     </g>
   </g>
 
   <!-- footer trust -->
   <text x="50" y="868" font-size="28" font-weight="800" fill="#F4F1EA">100% Natural · Sin hormonas · 1 al día</text>
-  <text x="50" y="906" font-size="21" letter-spacing="2" font-weight="600" fill="#86b5a4">SUPLEMENTO DIETARIO · INDUSTRIA ARGENTINA</text>
+  <text x="50" y="906" font-size="21" letter-spacing="2" font-weight="600" fill="#7fa6d8">SUPLEMENTO DIETARIO · INDUSTRIA ARGENTINA</text>
 </svg>
