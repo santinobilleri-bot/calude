@@ -1,31 +1,37 @@
 <style>
-.puro-feat{background:linear-gradient(180deg,#0B2747 0%,#071525 100%);padding:20px 14px 24px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;box-sizing:border-box;}
-.puro-feat *{box-sizing:border-box}
-.puro-feat-wrap{max-width:680px;margin:0 auto}
-.puro-feat-rating{display:inline-flex;align-items:center;gap:6px;background:rgba(240,184,120,.12);border:1px solid #d98a3f;padding:5px 11px;border-radius:999px;margin-bottom:13px;}
-.puro-feat-stars{color:#f0b878;font-size:11px;letter-spacing:.6px;line-height:1}
-.puro-feat-rating span{color:#dCe7f2;font-size:10px;font-weight:700;letter-spacing:.2px}
-.puro-feat-title{margin:0 0 16px;color:#F8F6F0;font-size:25px;line-height:1.12;font-weight:900;letter-spacing:-.4px;}
-.puro-feat-title em{color:#f0b878;font-style:normal;}
-.puro-feat-list{display:flex;flex-direction:column;gap:9px}
-.puro-feat-item{display:grid;grid-template-columns:19px 1fr;gap:9px;align-items:flex-start}
-.puro-feat-check{width:19px;height:19px;border-radius:50%;background:linear-gradient(90deg,#f0b878,#d98a3f);color:#0B2747;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:900;flex-shrink:0;margin-top:1px;}
-.puro-feat-text{margin:0;color:#bcd0e6;font-size:12px;line-height:1.45;font-weight:500}
-.puro-feat-text strong{color:#F8F6F0;font-weight:800}
-@media(min-width:680px){.puro-feat{padding:30px 20px}.puro-feat-stars{font-size:12px}.puro-feat-rating span{font-size:11px}.puro-feat-title{font-size:34px;margin-bottom:20px}.puro-feat-list{gap:12px}.puro-feat-item{grid-template-columns:23px 1fr;gap:12px}.puro-feat-check{width:23px;height:23px;font-size:12px}.puro-feat-text{font-size:14px;line-height:1.5}}
+.purob{background:radial-gradient(120% 80% at 80% 0%,#16314e 0%,#0B2747 45%,#071525 100%);padding:26px 14px 32px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;box-sizing:border-box;}
+.purob *{box-sizing:border-box}
+.purob-wrap{max-width:720px;margin:0 auto}
+.purob-top{text-align:center;margin-bottom:22px}
+.purob-rating{display:inline-flex;align-items:center;gap:7px;background:rgba(240,184,120,.12);border:1px solid #d98a3f;padding:6px 13px;border-radius:999px;margin-bottom:14px}
+.purob-rating .s{color:#f0b878;font-size:12px;letter-spacing:1px;line-height:1}
+.purob-rating span{color:#dCe7f2;font-size:11px;font-weight:700}
+.purob-title{margin:0;color:#F8F6F0;font-size:27px;line-height:1.12;font-weight:900;letter-spacing:-.5px}
+.purob-title em{color:#f0b878;font-style:normal}
+.purob-sub{margin:8px 0 0;color:#9fb6cf;font-size:14px;font-weight:600}
+.purob-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:22px}
+.purob-card{display:flex;gap:14px;align-items:flex-start;background:rgba(255,255,255,.04);border:1px solid #1c3a5e;border-radius:16px;padding:16px 16px;transition:transform .18s,border-color .18s,background .18s}
+.purob-card:hover{transform:translateY(-3px);border-color:#f0b878;background:rgba(240,184,120,.06)}
+.purob-ico{width:50px;height:50px;border-radius:14px;background:linear-gradient(135deg,#f0b878,#d98a3f);display:flex;align-items:center;justify-content:center;font-size:24px;flex-shrink:0;box-shadow:0 6px 16px rgba(217,138,63,.35)}
+.purob-ct h3{margin:0 0 4px;color:#F8F6F0;font-size:16px;font-weight:800;line-height:1.15}
+.purob-ct p{margin:0;color:#bcd0e6;font-size:13px;line-height:1.45;font-weight:500}
+@media(min-width:680px){.purob{padding:40px 22px 46px}.purob-title{font-size:38px}.purob-grid{grid-template-columns:1fr 1fr;gap:14px;margin-top:28px}.purob-card{padding:18px 18px}.purob-ico{width:54px;height:54px;font-size:26px}.purob-ct h3{font-size:17px}.purob-ct p{font-size:13.5px}}
 </style>
 
-<section class="puro-feat">
-  <div class="puro-feat-wrap">
-    <div class="puro-feat-rating"><span class="puro-feat-stars">★★★★★</span><span>4.8 · +2.000 hombres</span></div>
-    <h2 class="puro-feat-title">PÚRO — Recuperá tu <em>energía</em> y tu <em>figura</em></h2>
-    <div class="puro-feat-list">
-      <div class="puro-feat-item"><div class="puro-feat-check">✓</div><p class="puro-feat-text"><strong>Activá tu metabolismo dormido.</strong> Ayudá a tu cuerpo a trabajar a favor: menos hinchazón y esa panza que no afloja por más que te cuides.</p></div>
-      <div class="puro-feat-item"><div class="puro-feat-check">✓</div><p class="puro-feat-text"><strong>Chau al bajón de las 6 de la tarde.</strong> Energía de verdad para tus hijos, el laburo y el asado del finde, sin vivir a base de mate y facturas.</p></div>
-      <div class="puro-feat-item"><div class="puro-feat-check">✓</div><p class="puro-feat-text"><strong>Menos estrés, menos picoteo de noche.</strong> El Ashwagandha te ayuda a bajar un cambio y a dejar de asaltar la heladera.</p></div>
-      <div class="puro-feat-item"><div class="puro-feat-check">✓</div><p class="puro-feat-text"><strong>Volvé a sentirte cómodo con tu ropa.</strong> Y a sacarte la remera en la pileta sin pensarlo dos veces.</p></div>
-      <div class="puro-feat-item"><div class="puro-feat-check">✓</div><p class="puro-feat-text"><strong>Una sola cápsula al día.</strong> Lo único que vas a poder sostener: sin dietas imposibles, sin vivir en el gym.</p></div>
-      <div class="puro-feat-item"><div class="puro-feat-check">✓</div><p class="puro-feat-text"><strong>Empezá a sentir la diferencia en 21 días.</strong> Con constancia, volvés a ser vos.</p></div>
+<section class="purob">
+  <div class="purob-wrap">
+    <div class="purob-top">
+      <div class="purob-rating"><span class="s">★★★★★</span><span>4.8 · +2.000 hombres</span></div>
+      <h2 class="purob-title">Recuperá tu <em>energía</em> y tu <em>figura</em></h2>
+      <p class="purob-sub">Una cápsula al día. Natural. Pensado para el hombre de +40.</p>
+    </div>
+    <div class="purob-grid">
+      <div class="purob-card"><div class="purob-ico">🔥</div><div class="purob-ct"><h3>Activá tu metabolismo</h3><p>Menos hinchazón y esa panza que no afloja por más que te cuides.</p></div></div>
+      <div class="purob-card"><div class="purob-ico">⚡</div><div class="purob-ct"><h3>Chau al bajón de las 6</h3><p>Energía real para tus hijos, el laburo y el asado del finde.</p></div></div>
+      <div class="purob-card"><div class="purob-ico">🧘</div><div class="purob-ct"><h3>Menos estrés y picoteo</h3><p>El Ashwagandha te ayuda a bajar un cambio y dejar la heladera en paz.</p></div></div>
+      <div class="purob-card"><div class="purob-ico">👕</div><div class="purob-ct"><h3>Cómodo con tu ropa</h3><p>Volvé a sacarte la remera en la pileta sin pensarlo dos veces.</p></div></div>
+      <div class="purob-card"><div class="purob-ico">💊</div><div class="purob-ct"><h3>Una sola cápsula al día</h3><p>Sin dietas imposibles, sin vivir en el gym. Fácil de sostener.</p></div></div>
+      <div class="purob-card"><div class="purob-ico">⏱️</div><div class="purob-ct"><h3>La diferencia en 21 días</h3><p>Con constancia, volvés a ser vos. Sin vueltas.</p></div></div>
     </div>
   </div>
 </section>
