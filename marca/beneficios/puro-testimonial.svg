@@ -3,8 +3,8 @@
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#15314f"/><stop offset="1" stop-color="#0a1726"/>
     </linearGradient>
-    <radialGradient id="spot" cx="22%" cy="55%" r="45%">
-      <stop offset="0" stop-color="#2E6BD6" stop-opacity="0.40"/>
+    <radialGradient id="spot" cx="50%" cy="32%" r="55%">
+      <stop offset="0" stop-color="#2E6BD6" stop-opacity="0.30"/>
       <stop offset="1" stop-color="#0a1726" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
@@ -16,57 +16,47 @@
   <rect width="1080" height="1080" fill="url(#bg)"/>
   <rect width="1080" height="1080" fill="url(#spot)"/>
 
-  <!-- headline -->
-  <g font-weight="800" font-size="52">
-    <text x="58" y="96" fill="#F8F6F0">DE PANZA Y CANSANCIO</text>
-    <text x="58" y="158" fill="#f0b878">A SENTIRME EL DE ANTES</text>
+  <!-- header: logo + stars -->
+  <g transform="translate(60,86)">
+    <text x="0" y="0" font-size="44" font-style="italic" font-weight="800" fill="#F8F6F0">PÚRO</text>
+    <polygon points="35,-44 51,-58 59,-51 43,-37" fill="url(#amber)"/>
+  </g>
+  <g transform="translate(792,64)">
+    <use href="#star" x="0"/><use href="#star" x="36"/><use href="#star" x="72"/><use href="#star" x="108"/><use href="#star" x="144"/>
+    <text x="86" y="56" text-anchor="middle" font-size="20" letter-spacing="2" font-weight="700" fill="#7fa6d8">+10.000 hombres</text>
   </g>
 
-  <!-- bottle left -->
-  <image href="bottle-cutout.png" x="6" y="250" width="372" height="632" preserveAspectRatio="xMidYMax meet"/>
-  <!-- brand chip -->
-  <text x="60" y="930" font-size="34" font-style="italic" font-weight="800" fill="#F8F6F0">PÚRO</text>
-  <text x="172" y="930" font-size="19" letter-spacing="2" font-weight="600" fill="#7fa6d8">VITALIDAD MASCULINA</text>
-
-  <!-- stars -->
-  <g transform="translate(418,210)">
-    <use href="#star" x="0"/><use href="#star" x="34"/><use href="#star" x="68"/><use href="#star" x="102"/><use href="#star" x="136"/>
-  </g>
-
-  <!-- quote -->
-  <g font-size="36" font-weight="700" font-style="italic" fill="#F8F6F0">
-    <text x="418" y="288">“A los 47 ya me había</text>
-    <text x="418" y="334">resignado a la panza</text>
-    <text x="418" y="380">y el cansancio. En 2</text>
-    <text x="418" y="426">meses volví a ser yo.”</text>
-  </g>
-
-  <!-- body -->
-  <g font-size="23" font-weight="500" fill="#bcd0e6">
-    <text x="418" y="486">El primer mes: más energía y menos</text>
-    <text x="418" y="518">hinchazón. Al segundo, el cinturón dos</text>
-    <text x="418" y="550">agujeros más adentro. Una cápsula al</text>
-    <text x="418" y="582">día y listo — sin dejar el asado.</text>
+  <!-- HERO: el comentario (lo más importante) -->
+  <text x="48" y="290" font-size="150" font-weight="800" fill="#1f4a78">“</text>
+  <g font-size="50" font-weight="800" fill="#F8F6F0">
+    <text x="62" y="280">Bajé la hinchazón y</text>
+    <text x="62" y="344">volví a tener energía.</text>
+    <text x="62" y="408">A los 52 me siento de</text>
+    <text x="62" y="472">40 — y mi señora <tspan fill="#f0b878">lo notó.</tspan></text>
   </g>
 
   <!-- name -->
-  <text x="418" y="636" font-size="23" font-weight="800" fill="#f0b878">— Daniel, 52 · Rosario  <tspan fill="#9fd0a8" font-weight="700">✓ verificado</tspan></text>
+  <text x="64" y="548" font-size="26" font-weight="800" fill="#f0b878">— Daniel, 52 · Rosario</text>
+  <text x="360" y="548" font-size="24" font-weight="700" fill="#8fd09a">✓ Cliente verificado</text>
 
-  <!-- before / after placeholders -->
+  <line x1="62" y1="588" x2="1018" y2="588" stroke="#274463" stroke-width="2"/>
+
+  <!-- bottom row: antes/después + frasco -->
+  <!-- before/after boxes -->
   <g>
-    <rect x="418" y="676" width="292" height="300" rx="18" fill="#0f2740" stroke="#3a577a" stroke-width="2" stroke-dasharray="8 7"/>
-    <rect x="724" y="676" width="292" height="300" rx="18" fill="#0f2740" stroke="#d98a3f" stroke-width="2" stroke-dasharray="8 7"/>
-    <text x="564" y="820" text-anchor="middle" font-size="22" font-weight="700" fill="#7e95ad">FOTO REAL</text>
-    <text x="564" y="850" text-anchor="middle" font-size="17" fill="#5f7894">del cliente</text>
-    <text x="870" y="820" text-anchor="middle" font-size="22" font-weight="700" fill="#caa06a">FOTO REAL</text>
-    <text x="870" y="850" text-anchor="middle" font-size="17" fill="#9a7c52">del cliente</text>
-    <!-- labels -->
-    <rect x="418" y="934" width="292" height="42" rx="10" fill="#23364d"/>
-    <text x="564" y="962" text-anchor="middle" font-size="22" font-weight="800" fill="#cfe0f2">DÍA 0</text>
-    <rect x="724" y="934" width="292" height="42" rx="10" fill="url(#amber)"/>
-    <text x="870" y="962" text-anchor="middle" font-size="22" font-weight="800" fill="#0a1726">DÍA 60</text>
+    <rect x="62" y="624" width="300" height="332" rx="18" fill="#0f2740" stroke="#3a577a" stroke-width="2" stroke-dasharray="9 7"/>
+    <rect x="386" y="624" width="300" height="332" rx="18" fill="#0f2740" stroke="#d98a3f" stroke-width="2" stroke-dasharray="9 7"/>
+    <text x="212" y="788" text-anchor="middle" font-size="22" font-weight="700" fill="#7e95ad">FOTO DEL CLIENTE</text>
+    <text x="536" y="788" text-anchor="middle" font-size="22" font-weight="700" fill="#caa06a">FOTO DEL CLIENTE</text>
+    <rect x="62" y="914" width="300" height="42" rx="0 0 18 18" fill="#23364d"/>
+    <text x="212" y="942" text-anchor="middle" font-size="22" font-weight="800" fill="#cfe0f2">DÍA 0</text>
+    <rect x="386" y="914" width="300" height="42" fill="url(#amber)"/>
+    <text x="536" y="942" text-anchor="middle" font-size="22" font-weight="800" fill="#0a1726">DÍA 60</text>
   </g>
 
+  <!-- frasco -->
+  <image href="bottle-cutout.png" x="720" y="600" width="320" height="372" preserveAspectRatio="xMidYMax meet"/>
+
   <!-- footer note -->
-  <text x="418" y="1018" font-size="17" font-weight="600" fill="#6f86a0">Plantilla — reemplazar por foto y testimonio de cliente real.</text>
+  <text x="64" y="1006" font-size="17" font-weight="600" fill="#6f86a0">Plantilla — poné acá la foto real que te manda el cliente.</text>
 </svg>
