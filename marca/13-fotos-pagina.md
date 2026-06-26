@@ -9,11 +9,15 @@ Orden recomendado en la landing. ✅ = ya la tenés. Las fotos de **personas** =
 ## 1. ✅ HERO — frasco sobre blanco (LISTO)
 Sección: arriba de todo. Producto premium, "marca seria".
 
-## 2. FRASCO EN LA MANO (confianza + escala real)
+## 2. FRASCO EN LA MANO (confianza + escala real) — versión CASUAL, no-IA
 Va en: debajo del hero o como hero mobile. Muestra tamaño real y "es de verdad".
 ```
-Use the uploaded PÚRO bottle, keep label identical. A close-up of a real 47-year-old Argentine man's hand holding the amber PÚRO bottle, in a softly lit modern bathroom in the morning. Natural skin, average guy, not a fitness model. Shallow depth of field, warm light, photorealistic, premium lifestyle photography. 1:1.
+Use the uploaded PÚRO bottle, keep the label 100% identical. A casual, candid photo of a real 47-year-old Argentine man sitting at his kitchen table at home, holding the amber PÚRO bottle in his hand, a mate and a phone on the table, wearing a simple everyday t-shirt, relaxed and natural. Soft natural daylight from a window.
+Make it look like a REAL smartphone snapshot, NOT a studio ad: natural imperfect lighting, realistic skin with pores and small imperfections, slight grain, no over-smoothing, no plastic skin, candid and unstaged, ordinary home in Argentina, believable normal hands.
+Photorealistic, authentic, looks like a real amateur photo, not AI-generated. Square 1:1.
 ```
+
+Otros fondos casuales (elegí uno): "in his backyard near the asado/grill" · "in his car holding the bottle" · "in the kitchen leaning on the counter".
 
 ## 3. "EL ANTES" — el dolor (empatía)
 Va en: sección del problema ("¿Te pasa esto?"). Diego se reconoce.
