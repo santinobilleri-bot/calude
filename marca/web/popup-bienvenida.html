@@ -1,0 +1,74 @@
+<style>
+/* ===== POPUP PÚRO — descuento de bienvenida ===== */
+.puro-pop-overlay{position:fixed;inset:0;z-index:100000;background:rgba(7,15,26,.72);backdrop-filter:blur(4px);display:flex;align-items:center;justify-content:center;padding:18px;opacity:0;pointer-events:none;transition:opacity .35s ease;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;}
+.puro-pop-overlay.is-open{opacity:1;pointer-events:auto;}
+.puro-pop-overlay *{box-sizing:border-box;}
+.puro-pop{position:relative;width:100%;max-width:380px;background:linear-gradient(180deg,#0B2747 0%,#071525 100%);border:1px solid #1c3a5e;border-radius:22px;padding:34px 26px 26px;text-align:center;box-shadow:0 30px 80px rgba(0,0,0,.55);transform:translateY(22px) scale(.95);transition:transform .4s cubic-bezier(.2,.9,.3,1.2);}
+.puro-pop-overlay.is-open .puro-pop{transform:translateY(0) scale(1);}
+.puro-pop-close{position:absolute;top:12px;right:15px;width:30px;height:30px;border:none;background:transparent;color:#6f86a0;font-size:24px;cursor:pointer;line-height:1;transition:color .2s;}
+.puro-pop-close:hover{color:#f0b878;}
+.puro-pop-logo{font-style:italic;font-weight:900;font-size:30px;color:#F8F6F0;letter-spacing:.5px;margin:0;}
+.puro-pop-eyebrow{display:inline-block;color:#0B2747;background:linear-gradient(90deg,#f0b878,#d98a3f);font-size:10px;font-weight:900;letter-spacing:2px;text-transform:uppercase;padding:6px 13px;border-radius:999px;margin:12px 0 16px;}
+.puro-pop-title{margin:0 0 6px;color:#F8F6F0;font-size:30px;line-height:1.08;font-weight:900;letter-spacing:-.5px;}
+.puro-pop-title em{color:#f0b878;font-style:normal;}
+.puro-pop-off{display:block;color:#f0b878;font-size:46px;font-weight:900;line-height:1;margin:10px 0 4px;}
+.puro-pop-badge{display:inline-block;margin:2px 0 4px;color:#bcd0e6;background:rgba(46,107,214,.18);border:1px solid #2E6BD6;border-radius:999px;padding:6px 14px;font-size:13px;font-weight:800;letter-spacing:.3px;}
+.puro-pop-badge b{color:#f0b878;}
+.puro-pop-text{margin:8px 0 20px;color:#bcd0e6;font-size:15px;line-height:1.5;font-weight:600;}
+.puro-pop-code{display:flex;align-items:center;justify-content:center;gap:10px;border:2px dashed #f0b878;border-radius:12px;background:rgba(240,184,120,.08);padding:13px;margin:0 0 16px;}
+.puro-pop-code b{color:#f0b878;font-size:24px;font-weight:900;letter-spacing:3px;}
+.puro-pop-copy{border:none;background:#f0b878;color:#0B2747;border-radius:8px;padding:8px 13px;font-size:11px;font-weight:900;letter-spacing:.5px;text-transform:uppercase;cursor:pointer;font-family:inherit;transition:background .2s;}
+.puro-pop-copy:hover{background:#ffd9a6;}
+.puro-pop-btn{display:block;width:100%;text-decoration:none;text-align:center;background:linear-gradient(90deg,#f0b878,#d98a3f);color:#0B2747;border-radius:12px;padding:16px;font-size:16px;font-weight:900;letter-spacing:.3px;transition:transform .15s,filter .2s;}
+.puro-pop-btn:hover{transform:translateY(-1px);filter:brightness(1.05);}
+.puro-pop-mini{margin:13px 0 0;color:#6f86a0;font-size:11px;font-weight:600;}
+.puro-pop-mini b{color:#f0b878;}
+.puro-pop-launcher{position:fixed;left:14px;bottom:14px;z-index:99998;display:none;align-items:center;gap:7px;background:linear-gradient(90deg,#f0b878,#d98a3f);color:#0B2747;border:none;border-radius:999px;padding:11px 16px;cursor:pointer;box-shadow:0 8px 22px rgba(0,0,0,.4);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;font-size:13px;font-weight:900;letter-spacing:.3px;animation:puroPulse 2.5s ease-in-out infinite;}
+.puro-pop-launcher.is-visible{display:inline-flex;}
+@keyframes puroPulse{0%,100%{transform:scale(1);}50%{transform:scale(1.06);}}
+@media(min-width:600px){.puro-pop{max-width:400px;padding:38px 32px 30px;}.puro-pop-title{font-size:33px;}.puro-pop-off{font-size:52px;}}
+</style>
+
+<div class="puro-pop-overlay" id="puroPopOverlay">
+  <div class="puro-pop">
+    <button class="puro-pop-close" id="puroPopClose" aria-label="Cerrar">&times;</button>
+    <h2 class="puro-pop-logo">PÚRO</h2>
+    <span class="puro-pop-eyebrow">Regalo de bienvenida</span>
+    <h3 class="puro-pop-title">¿Llegás fundido y la panza no afloja?</h3>
+    <span class="puro-pop-off">10% OFF</span>
+    <p class="puro-pop-badge">✨ Resultados visibles en <b>21 días</b></p>
+    <p class="puro-pop-text">Empezá hoy a recuperar tu energía y tu figura. Usá tu código de bienvenida:</p>
+    <div class="puro-pop-code">
+      <b id="puroPopCodeText">PURO10</b>
+      <button class="puro-pop-copy" id="puroPopCopy">Copiar</button>
+    </div>
+    <a class="puro-pop-btn" href="/collections/all">QUIERO VOLVER A SER YO</a>
+    <p class="puro-pop-mini">⏳ Solo por hoy · Válido en tu <b>primera compra</b> · Se aplica en el checkout</p>
+  </div>
+</div>
+
+<button class="puro-pop-launcher" id="puroPopLauncher">🎁 10% OFF</button>
+
+<script>
+(function(){
+  function init(){
+    var overlay=document.getElementById('puroPopOverlay');
+    var launcher=document.getElementById('puroPopLauncher');
+    var closeBtn=document.getElementById('puroPopClose');
+    var copyBtn=document.getElementById('puroPopCopy');
+    if(!overlay) return;
+    function openPop(){overlay.classList.add('is-open');launcher.classList.remove('is-visible');}
+    function minimize(){overlay.classList.remove('is-open');launcher.classList.add('is-visible');}
+    if(!sessionStorage.getItem('puroPopSeen')){setTimeout(openPop,1500);sessionStorage.setItem('puroPopSeen','1');}
+    else{launcher.classList.add('is-visible');}
+    closeBtn.addEventListener('click',minimize);
+    overlay.addEventListener('click',function(e){if(e.target===overlay)minimize();});
+    launcher.addEventListener('click',openPop);
+    copyBtn.addEventListener('click',function(){
+      if(navigator.clipboard){navigator.clipboard.writeText('PURO10');}
+      copyBtn.textContent='¡Copiado!';setTimeout(function(){copyBtn.textContent='Copiar';},2000);
+    });
+  }
+  if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',init);}else{init();}
+})();
+</script>
