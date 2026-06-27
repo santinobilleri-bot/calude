@@ -1,0 +1,97 @@
+<style>
+.pt{background:linear-gradient(180deg,#ffffff 0%,#f4f7fa 100%);padding:30px 18px 34px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;box-sizing:border-box;}
+.pt *{box-sizing:border-box}
+.pt-wrap{max-width:560px;margin:0 auto}
+.pt-eyebrow{display:inline-block;color:#d98a3f;background:#fbf1e6;border:1px solid #e8c79f;font-size:10px;font-weight:900;letter-spacing:2.5px;text-transform:uppercase;padding:6px 12px;border-radius:999px;margin:0 0 12px}
+.pt-title{margin:0 0 8px;color:#0B2747;font-size:24px;line-height:1.1;font-weight:900;letter-spacing:-.5px}
+.pt-title span{color:#d98a3f;font-style:italic;font-weight:900}
+.pt-intro{margin:0 0 26px;color:#5a6b7d;font-size:13.5px;line-height:1.55;font-weight:500}
+.pt-intro strong{color:#0B2747;font-weight:800}
+.pt-line{position:relative;padding-left:40px;view-timeline-name:--ptline}
+.pt-line::before{content:"";position:absolute;left:14px;top:14px;bottom:14px;width:3px;border-radius:3px;background:#dfe6ee;z-index:0}
+.pt-fill{position:absolute;left:14px;top:14px;width:3px;height:0;border-radius:3px;z-index:0;background:linear-gradient(180deg,#f0b878,#d98a3f 60%,#0B2747)}
+.pt-stage{position:relative;margin-bottom:20px;z-index:1}
+.pt-stage:last-child{margin-bottom:0}
+.pt-node{position:absolute;left:-40px;top:0;width:30px;height:30px;border-radius:50%;background:linear-gradient(135deg,#f0b878,#d98a3f);color:#0B2747;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:900;line-height:1;z-index:3;box-shadow:0 0 0 5px #eef3f7}
+.pt-node::after{content:"";position:absolute;inset:-5px;border-radius:50%;border:1px solid #e8c79f}
+.pt-week{display:block;color:#8a9bad;font-size:10.5px;font-weight:800;letter-spacing:2px;text-transform:uppercase;margin:3px 0 9px}
+.pt-card{background:#fff;border:1px solid #e7ecf1;border-radius:14px;overflow:hidden;box-shadow:0 6px 18px -14px rgba(11,39,71,.4)}
+.pt-img{position:relative;width:100%;aspect-ratio:3/2;background-size:cover;background-position:center;background-color:#dfe6ee}
+.pt-img::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.04),rgba(0,0,0,0) 45%,rgba(11,39,71,.45))}
+.pt-tag{position:absolute;top:10px;left:10px;z-index:2;background:rgba(255,255,255,.92);color:#d98a3f;font-size:9.5px;font-weight:900;letter-spacing:1.2px;text-transform:uppercase;padding:6px 11px;border-radius:999px}
+.pt-info{padding:14px 16px 16px}
+.pt-label{display:block;color:#d98a3f;font-size:9.5px;font-weight:900;letter-spacing:2px;text-transform:uppercase;margin:0 0 6px}
+.pt-name{margin:0 0 8px;color:#0B2747;font-size:16px;line-height:1.2;font-weight:900;letter-spacing:-.3px}
+.pt-name em{color:#d98a3f;font-style:italic;font-weight:900}
+.pt-desc{margin:0;color:#5a6b7d;font-size:12.5px;line-height:1.55;font-weight:500}
+.pt-desc strong{color:#0B2747;font-weight:800}
+
+@supports (animation-timeline: view()){
+  .pt-card{animation:ptCardOn linear both;animation-timeline:view();animation-range:entry 0% cover 30%}
+  @keyframes ptCardOn{from{opacity:.4;filter:grayscale(.4);transform:translateY(20px)}to{opacity:1;filter:none;transform:translateY(0)}}
+  .pt-node{animation:ptNodeOn linear both;animation-timeline:view();animation-range:entry 12% cover 32%}
+  @keyframes ptNodeOn{0%{filter:grayscale(.6);transform:scale(1)}60%{transform:scale(1.18)}100%{filter:none;transform:scale(1)}}
+  .pt-fill{height:calc(100% - 30px);transform:scaleY(0);transform-origin:top;animation:ptFillOn linear both;animation-timeline:--ptline;animation-range:entry 22% exit 80%}
+  @keyframes ptFillOn{to{transform:scaleY(1)}}
+}
+
+@media(min-width:680px){
+  .pt{padding:44px 24px 50px}.pt-title{font-size:32px}.pt-intro{font-size:15px;margin-bottom:34px}
+  .pt-line{padding-left:52px}.pt-line::before,.pt-fill{left:17px}.pt-stage{margin-bottom:24px}
+  .pt-node{left:-52px;width:36px;height:36px;font-size:16px}.pt-week{font-size:11.5px;margin:5px 0 12px}
+  .pt-name{font-size:19px}.pt-desc{font-size:13.5px}
+}
+</style>
+
+<section class="pt">
+  <div class="pt-wrap">
+    <span class="pt-eyebrow">Tu cambio, semana a semana</span>
+    <h2 class="pt-title">Volvé a sentirte <span>vos.</span></h2>
+    <p class="pt-intro">No es magia ni una dieta más. Es darle a tu cuerpo lo que le falta, todos los días. Así lo vas a ir sintiendo, <strong>desde adentro</strong>.</p>
+
+    <div class="pt-line">
+      <div class="pt-fill"></div>
+
+      <div class="pt-stage">
+        <div class="pt-node">1</div>
+        <span class="pt-week">⚡ 1 Semana</span>
+        <div class="pt-card">
+          <div class="pt-img" style="background-image:url('PEGA_ACA_TU_FOTO_1')"><span class="pt-tag">Semana 1</span></div>
+          <div class="pt-info">
+            <span class="pt-label">El comienzo</span>
+            <h3 class="pt-name">Tu cuerpo empieza <em>a reaccionar</em></h3>
+            <p class="pt-desc">Por primera vez en mucho tiempo sentís que algo cambia. La panza se siente menos pesada, dormís mejor y te levantás más descansado. El bajón de las 6 ya no te tira al sillón. <strong>No es tu cabeza. Lo estás sintiendo.</strong></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pt-stage">
+        <div class="pt-node">2</div>
+        <span class="pt-week">🔥 2 a 4 Semanas</span>
+        <div class="pt-card">
+          <div class="pt-img" style="background-image:url('PEGA_ACA_TU_FOTO_2')"><span class="pt-tag">2 a 4 semanas</span></div>
+          <div class="pt-info">
+            <span class="pt-label">Se corta el bajón</span>
+            <h3 class="pt-name">Empezás a soltar <em>lo que te pesaba</em></h3>
+            <p class="pt-desc">Tu cuerpo se desinfla. Llegás a la noche con menos hinchazón, el pantalón te queda más holgado y te movés más liviano. Se corta el picoteo de ansiedad. <strong>Volvés a tener ganas</strong> y te mirás al espejo con otra cara.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pt-stage">
+        <div class="pt-node">3</div>
+        <span class="pt-week">💪 +4 Semanas</span>
+        <div class="pt-card">
+          <div class="pt-img" style="background-image:url('PEGA_ACA_TU_FOTO_3')"><span class="pt-tag">+4 semanas</span></div>
+          <div class="pt-info">
+            <span class="pt-label">Tu nueva normalidad</span>
+            <h3 class="pt-name">Volviste a sentirte <em>vos</em></h3>
+            <p class="pt-desc">El cambio ya no es solo físico. Tenés energía estable, el cuerpo más firme y la confianza de vuelta. No dependés de dietas ni del gym: <strong>solo constancia, una cápsula por día.</strong> Y ya ni te acordás de cómo te sentías antes.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <p class="pt-desc" style="text-align:center;margin-top:18px;font-size:11px;color:#9fb0c0">Los resultados pueden variar según cada persona, sus hábitos y su punto de partida.</p>
+  </div>
+</section>
