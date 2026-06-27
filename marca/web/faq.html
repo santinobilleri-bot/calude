@@ -1,0 +1,47 @@
+<style>
+.puro-faq{background:#ffffff;max-width:620px;margin:0 auto;padding:18px 14px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;box-sizing:border-box;}
+.puro-faq *{box-sizing:border-box}
+.puro-faq-tag{display:inline-block;color:#d98a3f;background:#fbf1e6;border:1px solid #e8c79f;font-size:10px;font-weight:900;letter-spacing:2px;text-transform:uppercase;padding:5px 11px;border-radius:999px;}
+.puro-faq-h{margin:9px 0 4px;color:#0B2747;font-size:24px;font-weight:900;letter-spacing:-.4px;}
+.puro-faq-h em{color:#d98a3f;font-style:normal}
+.puro-faq-sub{margin:0 0 14px;color:#6a7c8f;font-size:13px;font-weight:600}
+.puro-faq-item{border:1px solid #e7ecf1;border-radius:12px;margin-bottom:8px;overflow:hidden;background:#fff;transition:border-color .2s}
+.puro-faq-item.open{border-color:#e8c79f}
+.puro-faq-q{display:flex;justify-content:space-between;align-items:center;gap:12px;width:100%;border:none;background:#fff;cursor:pointer;padding:14px 14px;text-align:left;font-family:inherit;}
+.puro-faq-q span{color:#0B2747;font-size:14.5px;font-weight:800;line-height:1.25}
+.puro-faq-ic{width:24px;height:24px;border-radius:50%;background:#fbf1e6;color:#d98a3f;display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:900;flex-shrink:0;transition:transform .25s}
+.puro-faq-item.open .puro-faq-ic{transform:rotate(45deg)}
+.puro-faq-a{max-height:0;overflow:hidden;transition:max-height .3s ease;}
+.puro-faq-a p{margin:0;padding:0 14px 14px;color:#5a6b7d;font-size:13px;line-height:1.5;font-weight:500}
+</style>
+
+<section class="puro-faq">
+  <span class="puro-faq-tag">Dudas frecuentes</span>
+  <h2 class="puro-faq-h">¿Tenés <em>preguntas?</em></h2>
+  <p class="puro-faq-sub">Las consultas más comunes sobre PÚRO. Si te queda alguna, escribinos.</p>
+
+  <div class="puro-faq-list" id="puroFaq">
+    <div class="puro-faq-item"><button class="puro-faq-q"><span>¿Cuántas cápsulas tomo por día?</span><i class="puro-faq-ic">+</i></button><div class="puro-faq-a"><p>Una sola cápsula por día, con el desayuno y un vaso de agua. Simple de sostener.</p></div></div>
+    <div class="puro-faq-item"><button class="puro-faq-q"><span>¿En cuánto tiempo voy a notar los cambios?</span><i class="puro-faq-ic">+</i></button><div class="puro-faq-a"><p>La mayoría nota más energía en las primeras semanas. Los cambios en la figura suelen verse a partir del primer o segundo mes, con constancia.</p></div></div>
+    <div class="puro-faq-item"><button class="puro-faq-q"><span>¿Para qué sirve PÚRO?</span><i class="puro-faq-ic">+</i></button><div class="puro-faq-a"><p>Es un suplemento natural para hombres de más de 40 que apoya el metabolismo, la energía, el ánimo y el descanso. Te ayuda a recuperar tu vitalidad.</p></div></div>
+    <div class="puro-faq-item"><button class="puro-faq-q"><span>¿Tiene hormonas o esteroides?</span><i class="puro-faq-ic">+</i></button><div class="puro-faq-a"><p>No. PÚRO es 100% natural, sin hormonas ni esteroides. Por eso es seguro para tomar todos los días.</p></div></div>
+    <div class="puro-faq-item"><button class="puro-faq-q"><span>¿Lo puedo tomar si tengo el estómago sensible?</span><i class="puro-faq-ic">+</i></button><div class="puro-faq-a"><p>Sí, se recomienda tomarlo con una comida. Si tomás medicación o tenés alguna condición, consultá a tu médico antes.</p></div></div>
+    <div class="puro-faq-item"><button class="puro-faq-q"><span>¿Cuánto tarda en llegar mi pedido?</span><i class="puro-faq-ic">+</i></button><div class="puro-faq-a"><p>Hacemos envíos a todo el país. El pedido llega en aproximadamente 10 a 15 días hábiles.</p></div></div>
+  </div>
+</section>
+
+<script>
+(function(){
+  function init(){
+    var f=document.getElementById('puroFaq');if(!f)return;
+    f.querySelectorAll('.puro-faq-q').forEach(function(b){
+      b.addEventListener('click',function(){
+        var it=b.parentElement, a=b.nextElementSibling, open=it.classList.contains('open');
+        it.classList.toggle('open');
+        a.style.maxHeight=open?null:a.scrollHeight+'px';
+      });
+    });
+  }
+  if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',init);}else{init();}
+})();
+</script>
