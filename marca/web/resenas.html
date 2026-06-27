@@ -1,0 +1,81 @@
+<style>
+.puro-rv{background:#ffffff;max-width:680px;margin:0 auto;padding:18px 0 20px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;box-sizing:border-box;}
+.puro-rv *{box-sizing:border-box}
+.puro-rv-top{text-align:center;padding:0 14px;margin-bottom:14px}
+.puro-rv-tag{display:inline-block;color:#d98a3f;background:#fbf1e6;border:1px solid #e8c79f;font-size:10px;font-weight:900;letter-spacing:2px;text-transform:uppercase;padding:5px 11px;border-radius:999px;}
+.puro-rv-h{margin:9px 0 8px;color:#0B2747;font-size:24px;font-weight:900;letter-spacing:-.4px}
+.puro-rv-h em{color:#d98a3f;font-style:normal}
+.puro-rv-rate{display:inline-flex;align-items:center;gap:8px;background:#f6f8fa;border:1px solid #e7ecf1;border-radius:999px;padding:6px 14px}
+.puro-rv-rate b{color:#0B2747;font-size:16px;font-weight:900}
+.puro-rv-rate .st{color:#f0b878;font-size:13px;letter-spacing:1px}
+.puro-rv-rate span{color:#6a7c8f;font-size:11px;font-weight:700}
+/* scroller */
+.puro-rv-scroll{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding:4px 14px;scrollbar-width:none}
+.puro-rv-scroll::-webkit-scrollbar{display:none}
+.puro-rv-card{flex:0 0 86%;max-width:360px;scroll-snap-align:center;background:#f6f8fa;border:1px solid #e7ecf1;border-radius:16px;padding:16px}
+.puro-rv-head{display:flex;align-items:center;gap:11px;margin-bottom:9px}
+.puro-rv-av{width:42px;height:42px;border-radius:50%;background:linear-gradient(135deg,#f0b878,#d98a3f);color:#0B2747;display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:900;flex-shrink:0}
+.puro-rv-nm{margin:0;color:#0B2747;font-size:14px;font-weight:900;line-height:1.1}
+.puro-rv-meta{margin:1px 0 0;color:#8a9bad;font-size:11px;font-weight:600}
+.puro-rv-st{color:#f0b878;font-size:13px;letter-spacing:1px;margin-bottom:7px}
+.puro-rv-tx{margin:0 0 10px;color:#41525f;font-size:13px;line-height:1.45;font-weight:500}
+.puro-rv-vf{display:inline-flex;align-items:center;gap:5px;color:#3fae6b;font-size:11px;font-weight:800}
+/* controls */
+.puro-rv-ctrl{display:flex;justify-content:center;gap:10px;margin-top:12px}
+.puro-rv-ctrl button{width:38px;height:38px;border-radius:50%;border:1.5px solid #d98a3f;background:#fff;color:#d98a3f;font-size:18px;font-weight:900;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background .15s,color .15s}
+.puro-rv-ctrl button:hover{background:#d98a3f;color:#fff}
+@media(min-width:680px){.puro-rv-card{flex-basis:46%}.puro-rv-h{font-size:28px}}
+</style>
+
+<section class="puro-rv">
+  <div class="puro-rv-top">
+    <span class="puro-rv-tag">Opiniones reales</span>
+    <h2 class="puro-rv-h">Lo que dicen <em>los hombres</em></h2>
+    <div class="puro-rv-rate"><b>4.8</b><span class="st">★★★★★</span><span>+2.000 reseñas</span></div>
+  </div>
+
+  <div class="puro-rv-scroll" id="puroRvScroll">
+    <div class="puro-rv-card">
+      <div class="puro-rv-head"><div class="puro-rv-av">C</div><div><p class="puro-rv-nm">Carlos G.</p><p class="puro-rv-meta">49 años · Córdoba</p></div></div>
+      <div class="puro-rv-st">★★★★★</div>
+      <p class="puro-rv-tx">En dos semanas ya sentí la diferencia: menos panza y más energía. No me pone nervioso como otros quemadores, se nota que es natural.</p>
+      <span class="puro-rv-vf">✓ Compra verificada</span>
+    </div>
+    <div class="puro-rv-card">
+      <div class="puro-rv-head"><div class="puro-rv-av">M</div><div><p class="puro-rv-nm">Marcelo S.</p><p class="puro-rv-meta">52 años · GBA</p></div></div>
+      <div class="puro-rv-st">★★★★★</div>
+      <p class="puro-rv-tx">Lo compré medio desconfiado, ya había probado de todo. A las tres semanas dormía mejor y llegaba con más pila a la noche. Una cápsula y listo.</p>
+      <span class="puro-rv-vf">✓ Compra verificada</span>
+    </div>
+    <div class="puro-rv-card">
+      <div class="puro-rv-head"><div class="puro-rv-av">D</div><div><p class="puro-rv-nm">Daniel G.</p><p class="puro-rv-meta">52 años · Rosario</p></div></div>
+      <div class="puro-rv-st">★★★★★</div>
+      <p class="puro-rv-tx">Me había resignado a la panza y al cansancio. En dos meses el cinturón me cerró dos agujeros más adentro. Mi señora fue la primera en notarlo.</p>
+      <span class="puro-rv-vf">✓ Compra verificada</span>
+    </div>
+    <div class="puro-rv-card">
+      <div class="puro-rv-head"><div class="puro-rv-av">S</div><div><p class="puro-rv-nm">Sebastián M.</p><p class="puro-rv-meta">47 años · Mendoza</p></div></div>
+      <div class="puro-rv-st">★★★★★</div>
+      <p class="puro-rv-tx">Me desinflé la primera semana. Volví a tener energía sin matarme con dietas ni gimnasio. No esperaba tanto por una sola cápsula al día.</p>
+      <span class="puro-rv-vf">✓ Compra verificada</span>
+    </div>
+  </div>
+
+  <div class="puro-rv-ctrl">
+    <button id="puroRvPrev" aria-label="Anterior">‹</button>
+    <button id="puroRvNext" aria-label="Siguiente">›</button>
+  </div>
+</section>
+
+<script>
+(function(){
+  function init(){
+    var s=document.getElementById('puroRvScroll');if(!s)return;
+    function step(){var c=s.querySelector('.puro-rv-card');return c?c.offsetWidth+12:300;}
+    var p=document.getElementById('puroRvPrev'),n=document.getElementById('puroRvNext');
+    p&&p.addEventListener('click',function(){s.scrollBy({left:-step(),behavior:'smooth'});});
+    n&&n.addEventListener('click',function(){s.scrollBy({left:step(),behavior:'smooth'});});
+  }
+  if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',init);}else{init();}
+})();
+</script>
