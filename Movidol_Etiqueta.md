@@ -37,3 +37,21 @@ Industria Argentina · Reg. cosmético N° [____] · Lote y Vto.: impreso en el 
 2. Datos + contacto de la empresa (WhatsApp/web) = marca real
 3. Industria Argentina + Reg. cosmético (respaldo formal)
 4. Modo de uso claro
+
+---
+## DIRECCIÓN VISUAL FINAL (ref: CeraVe + Dove)
+- Pote BLANCO mate (como CeraVe/Dove), tapa blanca.
+- UN acento cálido: ámbar/terracota #C8862D (color del ají, el incienso y el "calor").
+- Estructura clínica (CeraVe): marca arriba, activos nombrados en el frente, jerarquía ordenada, mucho aire.
+- Calidez natural (Dove): imagen del ingrediente = ají + resina de incienso dibujados (explica qué hace de un vistazo).
+- Confianza SIN mentir: ingredientes a la vista + imagen del ingrediente + Industria Argentina + contacto empresa.
+- NO copiar de CeraVe: "desarrollado con dermatólogos" ni sellos de asociaciones (son reales/certificados; falsearlos es ilegal).
+
+PROMPT (frente, blanco + ámbar + imagen de ingrediente):
+Photorealistic product mockup of a 100ml white matte plastic cosmetic jar with a white screw
+lid, clean white background. Top: "MOVIDOL" bold navy (#14213D). Below, a warm amber/terracotta
+(#C8862D) band with white text "Crema natural de masaje · Efecto calor". Lower half: soft
+realistic illustration of a red chili pepper and amber frankincense resin with a small green
+branch (Dove-style ingredient imagery), next to navy text "Con Capsaicina (ají) + extracto de
+Incienso (Boswellia)". Bottom: "CONT. NETO 100 ML · Uso externo" and thin footer "Industria
+Argentina". Premium, trustworthy, clean, legible, soft studio light. Spanish, correctly spelled.
