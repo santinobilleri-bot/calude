@@ -78,3 +78,17 @@ acompaña", "Con Capsaicina (ají) + Boswellia (incienso)". Small green vertical
 Two rounded pill badges "100% NATURAL" and "USO DIARIO". Round seal "INDUSTRIA ARGENTINA".
 Bottom "CONT. NETO 100 ML". Trustworthy, clean, eye-catching, legible, soft studio light.
 Spanish, correctly spelled.
+
+---
+## FRENTE FINAL — RÉPLICA ESTRUCTURA CERAVE (6 bloques)
+1. NUEVO (tab verde arriba-izq).
+2. MOVIDOL (navy, "DOL" sobre bloque ámbar) + línea "FÓRMULA NATURAL".
+3. Descriptor estilo CeraVe:
+   - "Crema de Masaje · Efecto Calor" (QUÉ ES)
+   - "Para articulaciones y músculos: manos, rodillas, cuello y espalda" (PARA QUIÉN)
+   - "Su efecto calor brinda una sensación de alivio al instante y acompaña el confort y la movilidad de tus articulaciones." (QUÉ HACE)
+   - "Con Capsaicina (ají) + extracto de Incienso (Boswellia)" (QUÉ TIENE)
+4. Sellos columna izq: ◯ INDUSTRIA ARGENTINA · pills NATURAL / USO DIARIO (CONFIANZA).
+5. "CONT. NETO 100 g · Uso externo" (CUÁNTO TRAE).
+- Compliant: nada de "cura/alivia el dolor/antiinflamatorio". Sellos honestos (no clonar dermatólogos/Eczema de CeraVe).
+- "NATURAL" (no "100% natural" salvo que la maquila lo confirme). "ají" con tilde.
