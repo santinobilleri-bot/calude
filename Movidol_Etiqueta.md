@@ -55,3 +55,26 @@ realistic illustration of a red chili pepper and amber frankincense resin with a
 branch (Dove-style ingredient imagery), next to navy text "Con Capsaicina (ají) + extracto de
 Incienso (Boswellia)". Bottom: "CONT. NETO 100 ML · Uso externo" and thin footer "Industria
 Argentina". Premium, trustworthy, clean, legible, soft studio light. Spanish, correctly spelled.
+
+---
+## VERSIÓN ESTILO CERAVE (llamativa + confiable) — RECOMENDADA
+- Pote blanco mate, tapa blanca.
+- Bloque diagonal AMBAR/TERRACOTA #C8862D a la derecha (elemento llamativo = "calor"). NO azul (evita parecer CeraVe y los geles azules).
+- MOVIDOL grande navy, últimas letras entrando al bloque ámbar.
+- Tab vertical "NUEVO" (verde) arriba-izquierda.
+- Descriptor: "Crema de masaje · Efecto calor".
+- Beneficio: "Calor que alivia, naturaleza que acompaña".
+- Activos: "Con Capsaicina (ají) + Boswellia (incienso)".
+- Pastillas: 100% NATURAL · USO DIARIO.
+- Sello redondo honesto: INDUSTRIA ARGENTINA (NO falsificar certificaciones tipo CeraVe/Eczema Association).
+- "CONT. NETO 100 ML".
+
+PROMPT:
+Photorealistic product mockup of a 100ml white matte plastic cosmetic jar with a white screw
+lid, clean white background, CeraVe visual style. Bold AMBER/TERRACOTTA (#C8862D) diagonal color
+block on the right third. "MOVIDOL" large bold navy (#14213D), last letters overlapping the amber
+block in white. Below: "Crema de masaje · Efecto calor", "Calor que alivia, naturaleza que
+acompaña", "Con Capsaicina (ají) + Boswellia (incienso)". Small green vertical "NUEVO" tab top-left.
+Two rounded pill badges "100% NATURAL" and "USO DIARIO". Round seal "INDUSTRIA ARGENTINA".
+Bottom "CONT. NETO 100 ML". Trustworthy, clean, eye-catching, legible, soft studio light.
+Spanish, correctly spelled.
