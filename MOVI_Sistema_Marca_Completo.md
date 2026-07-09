@@ -27,6 +27,8 @@ Mismo avatar de siempre — Marta, 58, Rosario, cuida nietos, artrosis en manos 
 
 **Comprador secundario:** Caro, 34, hija. Ve a la madre frenada y compra por culpa+amor. Para ella el mensaje es "regalale movilidad, no otro remedio".
 
+**REGLA FIJA DE REPRESENTACIÓN (pedido del dueño):** el buyer persona son HOMBRES Y MUJERES siempre, 55-70 años. En toda pieza visual y de copy: alternar 50/50 entre hombres y mujeres (avatar masculino tipo "Jorge, 62": rodillas/espalda, quinta/taller/caminata con la señora). Si una imagen lleva una sola persona, la siguiente lleva la del otro género. Ideal en imágenes grupales o de escena: pareja de 60+ juntos.
+
 ## PASO 2 — 5 INSEGURIDADES QUE MOVI RESUELVE (orden por conversión)
 
 1. **"Me estoy poniendo vieja de golpe"** — La rigidez de la mañana como sentencia. → MOVI trabaja de fondo día a día; la mañana deja de ser el momento que le recuerda su edad. ANTES: "Cada mañana es peor." DESPUÉS: "Me levanto y arranco, como antes."
